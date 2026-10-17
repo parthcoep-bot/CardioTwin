@@ -1,0 +1,1001 @@
+patient_id,age,gender,state,blood_group,height_cm,weight_kg,bmi,systolic_bp,diastolic_bp,resting_heart_rate,smoker,alcohol_use,physical_activity,family_history_cvd,family_history_diabetes,registration_date,framingham_risk_10yr,num_comorbidities,risk_category,cardiac_event,event_type
+P0001,36,Male,Tamil Nadu,A+,155.9,66.1,27.2,117,93,89,True,False,Sedentary,False,False,2025-05-11,13.3,3,Moderate,False,None
+P0002,52,Male,Bihar,A+,163.6,66.1,24.7,112,87,68,False,False,Sedentary,False,False,2024-03-27,18.6,0,Moderate,False,None
+P0003,43,Male,Delhi,B+,176.6,77.3,24.8,148,67,70,False,True,Light,True,False,2024-01-20,17.0,2,Moderate,False,None
+P0004,25,Female,Delhi,O+,150.9,47.8,21.0,101,82,70,False,False,Light,True,False,2025-07-29,1.0,0,Low,False,None
+P0005,60,Male,Tamil Nadu,O+,174.9,94.8,31.0,141,100,62,False,False,Moderate,False,True,2024-08-01,31.7,3,High,False,None
+P0006,29,Female,Tamil Nadu,B+,160.5,75.7,29.4,115,76,73,False,False,Moderate,False,False,2024-07-09,7.5,2,Low,False,None
+P0007,53,Male,Delhi,O+,164.5,68.5,25.3,145,93,77,False,False,Sedentary,False,False,2024-06-22,20.0,1,Moderate,False,None
+P0008,43,Female,Andhra Pradesh,AB+,167.6,71.1,25.3,127,82,76,False,False,Sedentary,True,False,2024-04-18,11.2,1,Low,False,None
+P0009,25,Male,Kerala,O+,163.7,72.6,27.1,112,72,65,True,True,Light,False,True,2025-07-26,6.0,1,Low,False,None
+P0010,41,Female,Gujarat,A+,158.4,72.8,29.0,161,83,73,False,False,Active,True,True,2024-03-20,11.5,4,Moderate,False,None
+P0011,67,Male,Madhya Pradesh,B+,169.0,87.7,30.7,163,105,74,False,False,Moderate,False,True,2025-06-09,44.1,3,Critical,True,Acute Coronary Syndrome
+P0012,36,Female,Uttar Pradesh,B+,162.5,61.0,23.1,106,72,70,False,False,Light,False,True,2025-07-29,2.2,0,Low,False,None
+P0013,47,Female,Andhra Pradesh,A+,158.1,74.5,29.8,130,74,65,False,False,Active,False,False,2025-11-23,9.0,1,Low,False,None
+P0014,53,Female,Telangana,O+,153.2,65.5,27.9,142,87,61,False,False,Light,True,True,2025-02-27,17.4,1,Moderate,False,None
+P0015,35,Female,Karnataka,A+,148.7,65.7,29.7,124,100,75,False,False,Moderate,True,False,2024-03-08,1.0,2,Low,False,None
+P0016,56,Male,Tamil Nadu,A-,178.5,86.3,27.1,147,75,78,False,False,Light,True,False,2025-04-03,25.0,2,High,False,None
+P0017,50,Female,Kerala,O+,151.4,70.8,30.9,116,85,63,False,False,Light,False,False,2024-11-23,20.0,1,Moderate,False,None
+P0018,40,Male,Uttar Pradesh,O+,177.6,67.5,21.4,140,80,82,False,True,Moderate,False,False,2024-01-25,11.4,1,Low,False,None
+P0019,59,Male,Haryana,O+,167.8,90.4,32.1,151,68,77,False,True,Light,True,False,2024-01-24,34.9,3,Critical,True,Acute Coronary Syndrome
+P0020,45,Female,Andhra Pradesh,B+,154.2,77.0,32.4,136,73,78,False,False,Moderate,True,False,2024-03-13,14.6,2,Moderate,False,None
+P0021,50,Male,Tamil Nadu,B+,164.6,65.8,24.3,149,68,83,True,True,Sedentary,False,False,2024-06-18,25.6,2,High,True,Arrhythmia
+P0022,57,Female,Telangana,O+,158.6,90.1,35.8,127,92,79,False,False,Sedentary,True,True,2024-06-29,25.6,5,High,True,Hypertensive Crisis
+P0023,81,Male,Uttar Pradesh,O+,166.9,71.9,25.8,140,83,74,False,False,Light,False,False,2025-01-27,40.1,0,Critical,True,Acute Coronary Syndrome
+P0024,53,Female,Maharashtra,O+,159.6,78.2,30.7,133,77,67,False,False,Moderate,False,True,2025-04-12,15.3,4,Moderate,True,Hypertensive Crisis
+P0025,53,Male,West Bengal,A+,176.2,76.7,24.7,129,94,77,True,False,Sedentary,True,False,2024-01-21,30.9,3,High,False,None
+P0026,43,Female,Uttar Pradesh,B+,171.1,91.3,31.2,150,66,77,False,False,Sedentary,False,False,2025-03-11,13.1,3,Moderate,False,None
+P0027,39,Female,Haryana,A-,167.1,85.4,30.6,125,77,67,False,False,Light,True,False,2024-06-03,3.7,3,Low,False,None
+P0028,53,Female,Bihar,A+,159.4,77.0,30.3,123,89,90,False,False,Active,False,True,2025-07-10,20.2,4,High,False,None
+P0029,53,Female,Telangana,A+,155.0,66.8,27.8,141,71,59,False,False,Sedentary,True,False,2025-05-19,16.3,2,Moderate,True,Hypertensive Crisis
+P0030,42,Female,Bihar,B+,168.3,95.2,33.6,111,94,78,False,False,Light,True,False,2025-06-28,9.8,3,Moderate,False,None
+P0031,59,Female,Tamil Nadu,O+,157.2,77.3,31.3,145,86,83,False,False,Sedentary,False,True,2025-02-27,21.3,2,Moderate,False,None
+P0032,53,Female,Delhi,A+,154.7,56.2,23.5,127,84,67,False,False,Moderate,False,False,2024-11-21,17.0,0,Low,False,None
+P0033,38,Male,Delhi,B+,177.2,74.4,23.7,97,88,68,True,False,Active,False,False,2024-06-20,16.1,1,Moderate,False,None
+P0034,62,Female,Maharashtra,A+,159.0,89.0,35.2,156,99,67,False,False,Moderate,False,False,2024-12-14,26.6,5,Critical,False,None
+P0035,55,Male,Karnataka,B+,158.8,81.5,32.3,127,101,77,True,False,Moderate,False,False,2025-04-02,28.5,4,High,True,Acute Coronary Syndrome
+P0036,45,Female,Haryana,A+,152.1,69.6,30.1,110,79,69,False,False,Moderate,True,True,2024-08-04,9.4,1,Low,False,None
+P0037,44,Male,Karnataka,O+,177.2,94.8,30.2,127,71,80,False,True,Sedentary,False,False,2025-09-20,11.8,0,Low,False,None
+P0038,27,Male,Madhya Pradesh,A+,172.5,95.2,32.0,150,78,88,False,False,Sedentary,False,False,2025-11-06,1.9,3,Low,False,None
+P0039,53,Female,Maharashtra,B+,148.9,55.2,24.9,150,74,78,False,False,Sedentary,True,True,2024-01-06,18.4,1,Moderate,False,None
+P0040,51,Male,Punjab,O-,160.4,79.2,30.8,147,64,79,False,False,Sedentary,True,False,2025-08-12,19.1,3,Moderate,False,None
+P0041,46,Female,Madhya Pradesh,A+,161.6,59.8,22.9,143,85,81,False,False,Active,True,True,2025-09-17,9.8,2,Low,False,None
+P0042,44,Male,Telangana,B+,171.3,60.7,20.7,148,84,80,False,True,Sedentary,True,False,2024-05-04,14.3,1,Low,False,None
+P0043,46,Male,Tamil Nadu,B+,164.7,82.5,30.4,103,81,83,True,False,Sedentary,True,True,2025-06-26,22.0,3,High,True,Hypertensive Crisis
+P0044,51,Female,Bihar,O+,160.8,89.5,34.6,167,71,79,False,False,Light,True,False,2024-11-24,27.3,4,High,False,None
+P0045,58,Male,Kerala,A+,166.8,72.3,26.0,126,86,65,True,True,Sedentary,True,False,2024-09-21,31.9,3,High,False,None
+P0046,57,Male,Delhi,A+,169.9,76.5,26.5,146,81,78,False,False,Moderate,False,False,2024-08-03,25.4,1,Moderate,False,None
+P0047,39,Female,Delhi,B+,159.8,76.1,29.8,111,78,69,False,False,Sedentary,False,False,2024-04-30,7.4,2,Low,False,None
+P0048,66,Male,Karnataka,A+,186.7,86.1,24.7,127,80,61,False,True,Moderate,False,False,2024-06-16,29.7,0,High,False,None
+P0049,60,Female,Kerala,A+,155.8,73.3,30.2,132,98,69,False,False,Light,False,False,2025-08-16,18.2,4,High,False,None
+P0050,42,Male,Telangana,O+,184.0,54.5,16.1,101,59,88,False,False,Light,True,True,2024-09-18,9.6,0,Low,False,None
+P0051,64,Male,Delhi,O+,174.4,97.6,32.1,178,101,78,False,False,Sedentary,True,True,2024-03-20,40.8,3,Critical,False,None
+P0052,66,Female,Bihar,B+,173.8,76.7,25.4,121,86,72,False,False,Light,False,False,2024-03-13,21.7,1,High,False,None
+P0053,62,Female,Delhi,A+,159.2,90.2,35.6,153,110,75,False,False,Active,True,False,2024-10-22,21.3,4,High,False,None
+P0054,76,Male,Gujarat,A+,178.4,97.1,30.5,150,79,69,False,True,Sedentary,True,False,2024-03-16,40.1,5,Critical,True,Acute Coronary Syndrome
+P0055,45,Male,Telangana,B+,158.2,76.3,30.5,147,87,50,True,False,Moderate,True,True,2024-10-05,23.6,4,High,False,None
+P0056,33,Female,Maharashtra,B-,154.9,47.7,19.9,126,89,67,False,False,Light,True,True,2025-10-20,1.6,0,Low,False,None
+P0057,42,Male,Karnataka,A+,164.4,62.7,23.2,122,81,72,False,False,Light,True,False,2024-09-24,9.8,0,Low,False,None
+P0058,85,Male,Maharashtra,B+,171.6,68.6,23.3,170,80,71,False,False,Light,False,True,2025-04-13,49.2,2,Critical,True,Hypertensive Crisis
+P0059,59,Female,Maharashtra,B+,164.5,70.9,26.2,160,86,72,True,False,Sedentary,False,True,2024-07-24,31.7,5,Critical,True,Acute Coronary Syndrome
+P0060,34,Male,Maharashtra,AB+,170.1,83.6,28.9,125,74,71,False,False,Active,True,False,2025-09-18,7.4,0,Low,False,None
+P0061,61,Female,Punjab,A-,167.6,84.6,30.1,155,97,67,False,False,Sedentary,False,True,2024-02-03,20.5,3,High,True,Acute Coronary Syndrome
+P0062,46,Male,Uttar Pradesh,O+,176.8,88.8,28.4,124,67,81,False,False,Sedentary,True,False,2025-07-20,18.6,2,Moderate,False,None
+P0063,33,Male,West Bengal,O+,170.8,76.1,26.1,144,74,77,False,False,Sedentary,False,False,2024-12-22,4.9,1,Low,False,None
+P0064,39,Male,Madhya Pradesh,O+,181.7,72.3,21.9,140,76,75,True,False,Light,False,False,2025-02-20,16.0,1,Moderate,False,None
+P0065,43,Female,Gujarat,B+,159.6,50.4,19.8,131,64,72,False,False,Light,False,True,2024-04-06,7.2,0,Low,False,None
+P0066,55,Male,Karnataka,B+,158.2,63.8,25.5,155,79,92,False,True,Sedentary,False,False,2025-12-17,25.1,2,High,False,None
+P0067,58,Male,Andhra Pradesh,O-,176.9,91.7,29.3,127,98,80,False,False,Moderate,False,True,2024-10-21,23.9,1,Moderate,False,None
+P0068,52,Female,Maharashtra,B+,161.0,71.0,27.4,141,90,71,False,False,Active,True,False,2024-03-02,15.9,2,Moderate,False,None
+P0069,51,Female,Haryana,A+,167.5,86.1,30.7,90,86,84,False,False,Light,False,False,2025-03-04,8.8,1,Low,False,None
+P0070,72,Male,Gujarat,O+,165.4,52.0,19.0,156,86,84,False,False,Light,True,True,2024-08-15,36.0,2,Critical,False,None
+P0071,69,Female,Punjab,A+,176.2,76.7,24.7,126,67,71,False,False,Sedentary,True,False,2025-10-06,25.7,1,High,False,None
+P0072,61,Female,Karnataka,B-,151.3,82.0,35.8,133,88,83,False,False,Sedentary,False,False,2025-05-03,19.8,4,High,True,Acute Coronary Syndrome
+P0073,49,Female,Punjab,O+,160.0,61.2,23.9,161,75,72,False,False,Sedentary,True,False,2025-04-25,15.5,2,Moderate,False,None
+P0074,71,Female,Haryana,AB-,157.4,62.9,25.4,155,63,65,False,False,Sedentary,False,False,2025-11-18,31.5,3,Critical,True,Acute Coronary Syndrome
+P0075,43,Male,Maharashtra,A-,173.8,78.5,26.0,141,79,91,False,True,Light,False,True,2025-10-31,12.6,1,Low,False,None
+P0076,61,Male,Kerala,AB-,176.4,69.4,22.3,138,97,74,False,False,Light,False,False,2024-10-07,26.7,1,High,True,Arrhythmia
+P0077,48,Male,Punjab,AB+,177.5,79.4,25.2,142,76,65,False,False,Sedentary,False,False,2025-03-24,19.9,1,Moderate,False,None
+P0078,57,Female,Haryana,O+,152.5,59.5,25.6,126,82,67,False,False,Light,True,True,2024-05-29,19.2,1,Moderate,False,None
+P0079,68,Male,Andhra Pradesh,O+,171.2,77.1,26.3,145,97,58,True,False,Moderate,True,False,2025-07-01,41.7,3,Critical,False,None
+P0080,57,Male,West Bengal,A+,166.9,68.2,24.5,158,86,85,False,True,Sedentary,True,False,2024-02-24,25.5,1,Moderate,False,None
+P0081,63,Female,Bihar,O+,149.0,56.4,25.4,153,73,90,False,False,Light,False,False,2024-02-05,22.6,2,High,False,None
+P0082,51,Male,Andhra Pradesh,O+,164.5,74.7,27.6,149,81,69,False,False,Light,False,False,2025-05-28,20.9,1,Moderate,False,None
+P0083,49,Male,Maharashtra,O+,163.4,56.3,21.1,129,73,92,True,False,Light,False,False,2024-06-26,24.2,1,Moderate,False,None
+P0084,41,Male,Telangana,B+,159.8,66.4,26.0,154,90,81,False,True,Light,False,True,2025-08-23,11.3,1,Low,False,None
+P0085,55,Female,Tamil Nadu,A+,158.0,74.4,29.8,117,77,74,False,False,Light,True,True,2024-08-12,16.3,2,Moderate,False,None
+P0086,37,Male,West Bengal,A+,176.4,76.5,24.6,133,95,87,True,False,Active,True,False,2024-03-02,16.4,2,Moderate,False,None
+P0087,57,Female,Gujarat,O+,153.9,63.2,26.7,157,106,67,False,False,Moderate,False,False,2025-10-26,21.1,2,Moderate,False,None
+P0088,46,Male,Telangana,O+,167.9,76.7,27.2,157,74,73,False,False,Light,False,False,2024-06-29,16.6,1,Moderate,False,None
+P0089,59,Male,Madhya Pradesh,O+,174.3,54.7,18.0,119,95,82,True,True,Sedentary,False,False,2025-11-04,30.1,2,High,False,None
+P0090,34,Male,Delhi,B+,176.7,59.6,19.1,169,85,85,False,True,Light,False,False,2024-03-19,8.1,2,Low,False,None
+P0091,39,Female,Tamil Nadu,O+,167.6,55.6,19.8,136,79,85,False,False,Active,True,True,2024-10-22,8.0,0,Low,False,None
+P0092,49,Male,Gujarat,O+,165.2,85.1,31.2,129,95,89,False,False,Light,False,True,2024-08-03,18.0,3,Moderate,False,None
+P0093,41,Male,Uttar Pradesh,A+,170.5,65.7,22.6,105,72,79,False,False,Light,True,False,2024-12-18,8.1,0,Low,False,None
+P0094,47,Male,Karnataka,O+,177.7,112.7,35.7,122,68,80,False,False,Sedentary,False,True,2025-05-08,19.8,4,High,True,Hypertensive Crisis
+P0095,76,Male,Delhi,O-,171.0,91.5,31.3,146,97,63,False,False,Light,False,False,2025-10-09,42.5,3,Critical,False,None
+P0096,55,Male,Telangana,A-,173.8,71.9,23.8,121,88,84,False,False,Moderate,False,False,2024-10-10,18.4,0,Moderate,False,None
+P0097,54,Male,Karnataka,O+,175.9,88.8,28.7,170,83,68,False,True,Light,True,False,2024-05-06,23.8,1,Moderate,False,None
+P0098,69,Male,Delhi,O+,174.2,92.9,30.6,150,73,57,False,False,Moderate,True,False,2024-10-14,43.6,3,Critical,False,None
+P0099,38,Female,Karnataka,O+,155.9,38.9,16.0,124,85,74,False,False,Light,False,False,2024-10-02,4.0,0,Low,False,None
+P0100,29,Female,Delhi,O+,162.8,71.8,27.1,133,86,76,False,False,Sedentary,True,True,2024-06-11,1.5,0,Low,False,None
+P0101,49,Male,Maharashtra,A+,173.2,86.7,28.9,160,73,89,False,False,Light,False,True,2025-06-04,20.1,2,Moderate,False,None
+P0102,53,Female,West Bengal,O+,158.7,85.4,33.9,113,99,73,False,False,Light,True,False,2024-07-26,14.9,4,Moderate,False,None
+P0103,53,Female,Madhya Pradesh,A+,159.7,64.3,25.2,178,87,76,False,False,Light,True,True,2025-06-29,20.6,2,Moderate,False,None
+P0104,39,Female,Gujarat,AB+,170.7,62.4,21.4,112,85,78,False,False,Light,False,True,2025-12-28,5.4,0,Low,False,None
+P0105,69,Male,Madhya Pradesh,B+,180.2,113.0,34.8,107,102,68,False,False,Sedentary,False,False,2025-06-14,33.0,4,Critical,True,Hypertensive Crisis
+P0106,56,Female,Uttar Pradesh,A-,152.8,57.9,24.8,153,75,94,False,False,Light,False,True,2025-05-18,19.0,2,Moderate,False,None
+P0107,44,Female,Kerala,B+,169.8,80.4,27.9,138,62,67,False,False,Sedentary,True,True,2024-02-25,8.4,0,Low,False,None
+P0108,70,Female,West Bengal,O+,157.2,78.3,31.7,121,80,59,False,False,Moderate,False,False,2025-04-18,21.6,3,High,False,None
+P0109,68,Male,Kerala,A+,175.7,86.4,28.0,125,83,69,False,False,Light,True,True,2025-05-08,30.8,1,High,False,None
+P0110,30,Male,Rajasthan,O+,164.1,54.1,20.1,100,80,73,False,False,Light,False,False,2024-05-12,1.0,0,Low,False,None
+P0111,59,Male,Delhi,AB+,167.0,82.6,29.6,128,95,58,False,False,Active,False,False,2025-02-18,27.5,1,High,False,None
+P0112,56,Male,Telangana,A+,165.7,72.2,26.3,134,67,67,True,True,Active,False,False,2025-07-20,30.3,1,High,False,None
+P0113,38,Male,Telangana,A+,170.3,73.4,25.3,121,94,73,False,False,Light,True,True,2024-07-09,6.6,1,Low,False,None
+P0114,43,Female,Rajasthan,A+,155.4,43.7,18.1,114,83,85,False,False,Sedentary,False,False,2024-05-06,9.0,1,Low,True,Arrhythmia
+P0115,58,Male,West Bengal,O+,167.0,103.7,37.2,161,90,72,False,False,Light,False,True,2024-12-25,31.7,3,High,False,None
+P0116,48,Male,Telangana,B+,166.2,59.9,21.7,130,71,73,False,True,Sedentary,True,False,2024-10-21,15.2,0,Low,False,None
+P0117,68,Male,West Bengal,A+,175.1,81.9,26.7,115,90,75,False,False,Moderate,False,False,2024-07-28,30.4,0,High,False,None
+P0118,49,Female,Maharashtra,A+,157.4,62.7,25.3,138,80,66,False,False,Moderate,False,False,2025-12-19,11.9,0,Low,False,None
+P0119,53,Male,Kerala,A+,177.7,108.6,34.4,148,75,56,True,True,Light,False,False,2025-05-12,29.7,5,High,False,None
+P0120,40,Male,Andhra Pradesh,A-,165.2,69.0,25.3,135,88,73,False,False,Sedentary,True,True,2025-06-18,9.3,0,Low,False,None
+P0121,50,Male,Maharashtra,O+,180.7,70.9,21.7,132,74,61,False,False,Sedentary,True,False,2025-03-08,20.9,1,Moderate,True,Hypertensive Crisis
+P0122,80,Male,Telangana,B+,171.5,67.6,23.0,147,82,79,False,True,Active,False,True,2024-06-19,42.2,1,Critical,True,Acute Coronary Syndrome
+P0123,34,Male,Haryana,AB+,176.2,88.2,28.4,136,83,67,False,True,Light,False,False,2025-06-15,12.7,3,Moderate,False,None
+P0124,52,Female,Gujarat,B+,168.3,56.1,19.8,129,96,76,False,False,Sedentary,True,True,2024-09-08,15.8,1,Moderate,False,None
+P0125,54,Male,Gujarat,B+,168.5,60.5,21.3,122,80,62,False,True,Light,False,False,2025-10-16,19.4,0,Moderate,False,None
+P0126,50,Female,Uttar Pradesh,AB+,163.8,73.2,27.3,136,77,64,False,False,Moderate,False,False,2025-08-19,12.0,1,Low,False,None
+P0127,42,Female,Uttar Pradesh,B+,169.8,87.1,30.2,113,75,99,True,False,Light,False,True,2025-08-25,21.9,4,High,True,Acute Coronary Syndrome
+P0128,53,Female,West Bengal,O+,157.9,59.6,23.9,126,90,65,False,False,Sedentary,True,False,2024-02-13,14.8,1,Low,False,None
+P0129,53,Female,Punjab,A+,153.0,79.4,33.9,104,87,79,False,False,Light,False,False,2024-06-26,13.8,0,Low,False,None
+P0130,69,Male,Madhya Pradesh,O+,172.1,89.2,30.1,113,90,75,False,True,Moderate,False,False,2025-09-30,36.7,1,Critical,True,Acute Coronary Syndrome
+P0131,43,Female,Kerala,B+,162.9,53.9,20.3,123,77,64,False,False,Sedentary,False,False,2024-01-25,8.7,1,Low,False,None
+P0132,47,Female,Gujarat,A+,151.2,61.7,27.0,111,93,71,False,False,Sedentary,True,False,2025-09-17,9.9,2,Low,True,Hypertensive Crisis
+P0133,44,Male,Delhi,O+,156.4,63.8,26.1,136,70,75,False,False,Sedentary,True,False,2024-09-02,14.5,0,Low,False,None
+P0134,68,Female,Gujarat,B+,163.6,70.1,26.2,115,77,70,False,False,Light,False,False,2024-11-07,25.6,3,High,False,None
+P0135,41,Male,West Bengal,O+,172.6,66.7,22.4,125,67,79,True,False,Light,False,False,2024-07-26,17.1,1,Moderate,False,None
+P0136,36,Female,Telangana,AB+,154.9,60.9,25.4,155,78,87,False,False,Light,True,False,2024-02-21,7.6,1,Low,False,None
+P0137,43,Male,West Bengal,A-,181.1,94.8,28.9,129,94,77,False,True,Sedentary,False,True,2024-06-12,14.6,2,Moderate,False,None
+P0138,39,Female,Tamil Nadu,A-,156.7,66.8,27.2,172,63,76,False,False,Moderate,False,False,2025-12-10,10.2,1,Low,False,None
+P0139,78,Female,West Bengal,O+,138.7,65.4,34.0,157,86,61,False,False,Light,False,False,2025-03-16,33.3,3,Critical,False,None
+P0140,50,Female,Andhra Pradesh,AB+,165.0,69.7,25.6,115,79,77,False,False,Sedentary,False,True,2025-11-11,11.0,0,Low,False,None
+P0141,39,Male,Andhra Pradesh,A-,161.7,81.6,31.2,121,81,70,True,False,Light,False,False,2025-07-11,17.8,2,Moderate,False,None
+P0142,55,Male,Maharashtra,A+,171.9,83.0,28.1,151,81,70,False,True,Moderate,False,False,2024-09-01,26.0,3,High,True,Hypertensive Crisis
+P0143,43,Male,Maharashtra,B+,181.3,110.1,33.5,120,80,75,False,False,Light,False,False,2024-06-14,10.8,0,Low,False,None
+P0144,35,Male,Gujarat,A+,163.5,83.1,31.1,132,76,78,False,False,Sedentary,True,True,2025-05-24,7.3,1,Low,False,None
+P0145,72,Male,Delhi,A-,175.1,77.6,25.3,150,84,64,False,True,Active,False,False,2025-01-22,40.9,4,Critical,False,None
+P0146,53,Male,Tamil Nadu,B+,169.3,90.6,31.6,163,91,82,True,False,Sedentary,False,True,2024-11-03,31.7,5,Critical,False,None
+P0147,52,Female,Rajasthan,B+,154.2,66.8,28.1,152,67,71,False,False,Moderate,False,True,2025-11-18,19.5,3,Moderate,False,None
+P0148,37,Female,Haryana,O+,155.5,51.3,21.2,136,74,57,False,False,Light,False,False,2025-12-11,4.4,0,Low,False,None
+P0149,56,Male,Kerala,A+,172.4,98.4,33.1,158,87,84,True,True,Active,False,False,2025-05-14,32.8,3,High,False,None
+P0150,26,Male,Andhra Pradesh,B+,167.3,62.7,22.4,111,92,85,True,True,Active,False,False,2024-12-22,4.5,2,Low,False,None
+P0151,62,Male,Tamil Nadu,O+,170.9,70.4,24.1,147,81,51,False,False,Light,True,True,2024-04-20,28.5,2,High,False,None
+P0152,45,Male,Karnataka,B+,186.1,80.0,23.1,117,82,76,False,False,Light,False,False,2024-07-24,12.8,0,Low,False,None
+P0153,25,Male,Haryana,B+,165.9,52.3,19.0,137,77,75,False,False,Moderate,False,True,2024-04-18,1.0,0,Low,False,None
+P0154,72,Male,Gujarat,A-,175.4,75.1,24.4,165,81,75,False,False,Active,False,True,2024-07-10,40.3,3,Critical,True,Acute Coronary Syndrome
+P0155,54,Male,Maharashtra,B+,177.5,75.3,23.9,148,69,65,False,True,Light,False,False,2025-08-01,22.1,2,Moderate,False,None
+P0156,76,Female,Uttar Pradesh,B+,157.3,57.4,23.2,138,86,66,False,False,Light,False,False,2025-03-12,30.7,1,High,True,Acute Coronary Syndrome
+P0157,51,Male,Tamil Nadu,B+,168.7,72.9,25.6,124,84,67,False,False,Sedentary,False,False,2025-02-22,17.1,0,Low,False,None
+P0158,41,Female,Rajasthan,B+,156.1,63.1,25.9,146,87,56,False,False,Moderate,False,False,2024-07-23,11.3,1,Low,False,None
+P0159,74,Male,Karnataka,O+,161.1,81.0,31.2,138,62,77,False,True,Moderate,False,True,2025-08-03,43.1,2,Critical,True,Hypertensive Crisis
+P0160,69,Male,Madhya Pradesh,B+,176.8,78.8,25.2,167,85,62,False,True,Active,False,False,2025-03-30,36.9,2,Critical,True,Acute Coronary Syndrome
+P0161,59,Male,Delhi,A+,157.6,67.1,27.0,111,71,59,False,True,Light,True,False,2024-11-28,25.9,0,Moderate,False,None
+P0162,53,Male,Rajasthan,O-,159.2,67.4,26.6,111,92,79,False,False,Sedentary,False,False,2025-11-28,22.5,1,Moderate,False,None
+P0163,37,Male,Tamil Nadu,A+,184.2,74.3,21.9,126,75,79,True,False,Light,True,False,2025-03-29,12.3,1,Low,False,None
+P0164,39,Female,Telangana,O+,149.4,71.4,32.0,132,82,91,False,True,Light,False,True,2024-11-06,6.3,4,Moderate,False,None
+P0165,56,Female,Andhra Pradesh,A+,155.5,61.7,25.5,173,85,90,True,False,Active,False,True,2024-10-08,27.9,4,High,False,None
+P0166,85,Male,Haryana,O+,171.7,66.6,22.6,94,91,80,False,False,Moderate,False,False,2024-06-19,44.0,1,Critical,True,Acute Coronary Syndrome
+P0167,68,Female,Gujarat,A+,157.1,66.9,27.1,156,97,83,False,False,Active,True,False,2024-04-17,30.3,4,Critical,False,None
+P0168,46,Female,Andhra Pradesh,AB+,151.7,53.6,23.3,114,86,79,False,True,Active,False,False,2025-01-30,7.1,0,Low,False,None
+P0169,57,Female,Kerala,AB+,159.3,62.4,24.6,140,90,55,False,False,Light,False,True,2025-01-18,18.2,1,Moderate,True,Acute Coronary Syndrome
+P0170,76,Female,Punjab,O-,144.7,66.8,31.9,141,84,66,False,False,Moderate,False,True,2024-03-11,27.6,5,Critical,False,None
+P0171,41,Male,Gujarat,B+,166.7,60.6,21.8,114,93,69,True,False,Moderate,False,True,2025-08-10,16.8,2,Moderate,False,None
+P0172,61,Male,Uttar Pradesh,O+,165.5,79.2,28.9,141,96,101,False,True,Moderate,False,False,2024-02-06,33.0,2,High,False,None
+P0173,41,Male,West Bengal,A+,163.2,80.2,30.1,139,87,76,False,True,Sedentary,False,False,2025-10-30,10.8,3,Moderate,False,None
+P0174,25,Female,Andhra Pradesh,O+,153.4,56.7,24.1,120,78,83,False,False,Moderate,True,False,2024-03-26,1.0,0,Low,False,None
+P0175,57,Female,Kerala,A+,158.5,67.8,27.0,128,84,75,False,False,Moderate,True,True,2024-04-28,16.7,0,Low,False,None
+P0176,57,Male,Rajasthan,B+,171.4,68.2,23.2,132,71,51,False,True,Light,False,False,2025-05-02,20.3,0,Moderate,False,None
+P0177,32,Male,Andhra Pradesh,AB+,171.5,56.5,19.2,105,90,79,False,False,Light,False,False,2024-05-04,1.6,0,Low,False,None
+P0178,50,Female,Gujarat,O+,151.9,57.7,25.0,141,72,59,False,False,Moderate,True,False,2025-09-07,15.1,1,Moderate,False,None
+P0179,52,Male,Andhra Pradesh,A+,162.4,58.3,22.1,152,77,85,False,False,Moderate,False,True,2025-06-12,22.2,1,Moderate,False,None
+P0180,64,Female,Rajasthan,O-,172.1,68.7,23.2,141,92,79,False,False,Moderate,False,False,2024-11-23,24.5,2,High,False,None
+P0181,65,Male,Uttar Pradesh,B+,176.7,74.6,23.9,172,98,75,False,False,Light,False,False,2025-04-08,36.5,3,Critical,True,Arrhythmia
+P0182,38,Female,Madhya Pradesh,B+,157.3,57.7,23.3,100,84,74,False,False,Sedentary,False,False,2024-02-19,7.5,0,Low,False,None
+P0183,34,Male,Andhra Pradesh,O+,162.0,60.1,22.9,110,91,65,False,False,Active,True,False,2024-10-25,4.0,1,Low,False,None
+P0184,54,Male,Uttar Pradesh,A+,162.4,65.9,25.0,135,84,70,False,False,Sedentary,False,False,2024-10-23,22.0,0,Moderate,False,None
+P0185,82,Female,Punjab,B+,165.6,52.9,19.3,141,62,79,False,False,Moderate,True,False,2025-04-07,34.7,2,Critical,True,Acute Coronary Syndrome
+P0186,56,Female,Andhra Pradesh,AB-,146.8,50.4,23.4,146,91,68,False,False,Sedentary,False,False,2024-12-29,17.5,2,Moderate,False,None
+P0187,57,Female,West Bengal,B+,160.9,71.5,27.6,147,91,78,False,False,Light,False,False,2025-02-14,21.3,3,High,True,Arrhythmia
+P0188,58,Female,Andhra Pradesh,B-,162.4,79.9,30.3,115,81,73,False,False,Moderate,False,True,2024-07-14,16.3,3,Moderate,True,Acute Coronary Syndrome
+P0189,40,Male,Rajasthan,A+,194.5,104.0,27.5,103,64,69,False,False,Sedentary,True,True,2025-03-05,7.9,0,Low,False,None
+P0190,26,Female,Karnataka,B+,158.1,85.7,34.3,110,66,93,False,True,Sedentary,True,False,2025-10-30,1.0,3,Low,False,None
+P0191,74,Female,Tamil Nadu,A+,164.2,77.9,28.9,135,71,76,False,False,Moderate,False,False,2024-01-09,36.5,2,Critical,False,None
+P0192,62,Male,Haryana,A+,170.1,57.3,19.8,150,92,85,False,False,Moderate,True,False,2025-06-12,33.5,4,Critical,True,Arrhythmia
+P0193,53,Male,Gujarat,B+,168.8,89.5,31.4,149,77,80,False,False,Light,True,True,2025-07-13,22.2,3,High,True,Hypertensive Crisis
+P0194,51,Male,Tamil Nadu,A+,165.8,70.4,25.6,120,77,64,False,False,Light,False,False,2024-03-29,16.8,0,Low,False,None
+P0195,32,Male,Telangana,B+,182.2,78.0,23.5,139,85,75,True,False,Moderate,True,False,2025-06-13,11.6,1,Low,False,None
+P0196,61,Male,Delhi,O+,171.2,59.5,20.3,118,82,70,False,False,Sedentary,False,False,2025-11-18,24.1,0,Moderate,False,None
+P0197,48,Male,Uttar Pradesh,O+,167.0,76.4,27.4,135,83,81,False,True,Sedentary,True,False,2025-02-21,20.1,2,Moderate,False,None
+P0198,60,Female,Karnataka,B+,167.0,78.4,28.1,90,90,86,False,False,Sedentary,False,True,2025-08-06,16.6,3,Moderate,False,None
+P0199,53,Female,Punjab,AB+,161.5,59.7,22.9,138,88,87,False,False,Moderate,False,True,2024-07-26,15.5,1,Moderate,False,None
+P0200,45,Male,West Bengal,B+,170.0,64.7,22.4,145,67,80,True,False,Active,False,False,2025-08-19,25.1,2,High,True,Acute Coronary Syndrome
+P0201,34,Male,Andhra Pradesh,O+,178.5,75.5,23.7,111,69,86,False,True,Moderate,True,False,2025-05-12,3.6,0,Low,False,None
+P0202,59,Male,Punjab,O+,166.1,72.6,26.3,144,85,71,False,False,Light,False,True,2024-09-21,25.7,3,High,False,None
+P0203,53,Female,Andhra Pradesh,B+,164.2,61.2,22.7,156,68,72,False,False,Light,True,True,2024-03-27,16.8,2,Moderate,False,None
+P0204,54,Male,Madhya Pradesh,O+,169.2,77.3,27.0,124,76,88,False,False,Sedentary,False,False,2024-08-15,18.5,0,Moderate,False,None
+P0205,79,Female,Telangana,B+,162.6,68.5,25.9,110,91,77,False,False,Sedentary,True,False,2024-12-03,34.2,4,Critical,True,Hypertensive Crisis
+P0206,75,Male,Rajasthan,A+,160.3,79.7,31.0,165,100,80,False,False,Active,True,False,2024-05-02,39.6,4,Critical,False,None
+P0207,51,Male,Madhya Pradesh,B+,171.6,106.0,36.0,131,86,73,False,False,Sedentary,False,False,2024-12-18,19.8,1,Moderate,True,Acute Coronary Syndrome
+P0208,33,Female,Delhi,A+,165.4,81.5,29.8,132,71,55,False,False,Sedentary,False,True,2024-01-03,1.2,1,Low,False,None
+P0209,74,Male,Haryana,O-,172.9,104.9,35.1,146,94,82,False,False,Light,True,False,2025-07-14,43.5,6,Critical,False,None
+P0210,49,Male,Rajasthan,A+,165.8,65.2,23.7,141,88,71,False,False,Moderate,True,False,2025-11-11,18.1,1,Moderate,False,None
+P0211,51,Female,Maharashtra,O+,154.2,79.9,33.6,153,93,73,False,True,Sedentary,False,True,2025-07-12,23.7,3,High,False,None
+P0212,45,Male,Maharashtra,B+,180.4,106.4,32.7,126,79,81,False,False,Moderate,False,False,2024-07-23,18.9,1,Moderate,False,None
+P0213,64,Female,Uttar Pradesh,AB+,153.3,55.5,23.6,156,83,65,False,False,Sedentary,False,False,2025-01-23,23.0,2,High,False,None
+P0214,32,Female,Telangana,O+,155.7,64.0,26.4,137,94,67,False,False,Sedentary,True,False,2025-08-14,3.0,1,Low,False,None
+P0215,25,Male,West Bengal,A+,176.8,73.8,23.6,138,77,78,False,True,Sedentary,True,True,2024-05-18,1.0,0,Low,False,None
+P0216,48,Male,Rajasthan,A+,163.7,67.0,25.0,117,79,76,True,True,Sedentary,False,False,2025-01-29,24.6,1,Moderate,True,Arrhythmia
+P0217,57,Female,Gujarat,O+,158.0,78.6,31.5,114,76,76,False,False,Light,False,True,2025-12-09,15.8,1,Moderate,False,None
+P0218,58,Male,West Bengal,A+,175.2,71.5,23.3,157,76,91,False,False,Moderate,False,False,2024-03-23,30.0,2,High,False,None
+P0219,62,Female,Rajasthan,O+,165.4,63.2,23.1,152,96,105,False,False,Sedentary,True,True,2025-11-07,22.5,3,High,False,None
+P0220,46,Female,Madhya Pradesh,A+,166.7,44.5,16.0,118,84,74,False,False,Sedentary,False,True,2025-04-30,10.7,0,Low,False,None
+P0221,43,Male,Maharashtra,B+,164.7,73.5,27.1,123,78,70,False,False,Moderate,False,True,2024-08-19,13.5,0,Low,False,None
+P0222,67,Female,Karnataka,B+,152.7,60.6,26.0,142,64,77,False,True,Light,False,False,2025-10-15,24.5,2,High,False,None
+P0223,61,Female,Madhya Pradesh,A+,159.1,58.7,23.2,135,87,83,False,False,Moderate,False,False,2025-05-11,20.3,1,Moderate,True,Acute Coronary Syndrome
+P0224,50,Female,Punjab,O+,167.6,59.3,21.1,98,83,90,False,False,Moderate,False,False,2025-01-29,12.3,0,Low,False,None
+P0225,49,Female,West Bengal,O+,153.4,51.1,21.7,137,72,67,False,False,Active,False,True,2025-04-18,13.0,0,Low,False,None
+P0226,58,Female,Telangana,A+,162.3,54.8,20.8,147,81,68,False,False,Moderate,False,False,2024-06-03,17.8,1,Moderate,False,None
+P0227,44,Male,Tamil Nadu,AB+,176.9,60.1,19.2,130,97,66,False,False,Sedentary,False,False,2024-04-28,10.2,1,Low,False,None
+P0228,62,Male,Punjab,A+,178.1,94.5,29.8,123,75,71,False,False,Active,True,True,2024-10-17,24.6,2,High,False,None
+P0229,69,Male,Madhya Pradesh,A+,168.3,70.2,24.8,128,86,62,True,True,Active,False,True,2025-08-15,40.8,1,Critical,False,None
+P0230,50,Male,Punjab,O+,171.0,86.3,29.5,125,86,75,False,False,Moderate,False,True,2024-05-05,22.8,2,Moderate,False,None
+P0231,57,Female,Madhya Pradesh,B+,155.9,41.3,17.0,90,81,84,False,False,Active,False,False,2025-02-22,14.4,1,Moderate,False,None
+P0232,44,Female,Madhya Pradesh,O+,148.8,61.3,27.7,138,97,68,False,False,Light,True,False,2025-08-27,9.7,1,Low,False,None
+P0233,59,Female,Madhya Pradesh,B+,171.3,100.6,34.3,129,90,84,False,False,Active,False,False,2025-12-17,26.4,3,High,False,None
+P0234,46,Male,Madhya Pradesh,A+,169.5,78.7,27.4,118,83,70,True,False,Moderate,False,False,2025-02-15,21.7,1,Moderate,False,None
+P0235,60,Female,Gujarat,A-,156.2,57.8,23.7,132,81,77,False,False,Light,False,False,2025-12-14,18.8,1,Moderate,False,None
+P0236,25,Male,Karnataka,AB+,165.3,54.4,19.9,122,77,71,True,True,Light,True,True,2024-01-01,2.1,1,Low,False,None
+P0237,28,Female,Gujarat,A+,149.2,53.2,23.9,133,81,76,True,False,Light,False,True,2025-04-10,7.3,1,Low,False,None
+P0238,63,Male,Haryana,A+,171.3,99.5,33.9,186,67,70,True,False,Sedentary,False,True,2024-09-08,42.4,5,Critical,False,None
+P0239,50,Female,Rajasthan,A+,162.4,63.3,24.0,94,93,77,False,False,Sedentary,True,True,2025-01-14,15.6,2,Moderate,False,None
+P0240,52,Female,Punjab,O+,134.7,46.3,25.5,111,101,71,False,False,Moderate,False,True,2024-01-16,15.3,2,Moderate,False,None
+P0241,55,Male,Rajasthan,B+,168.2,59.7,21.1,156,83,76,False,False,Moderate,True,True,2024-03-27,22.8,1,Moderate,False,None
+P0242,25,Female,Telangana,O+,168.9,71.0,24.9,155,91,65,False,False,Sedentary,False,False,2025-12-22,1.0,1,Low,False,None
+P0243,85,Female,Bihar,B+,161.7,105.4,40.3,160,94,73,False,False,Light,False,True,2024-10-08,37.2,4,Critical,True,Acute Coronary Syndrome
+P0244,38,Male,Uttar Pradesh,O+,175.2,70.3,22.9,139,93,65,False,False,Light,False,False,2025-11-13,8.2,2,Low,False,None
+P0245,67,Male,West Bengal,O+,174.9,93.9,30.7,117,78,80,False,False,Sedentary,False,True,2025-10-07,31.4,0,High,False,None
+P0246,73,Male,Rajasthan,O+,164.3,72.3,26.8,128,78,81,False,False,Light,False,True,2025-09-18,34.7,0,High,True,Acute Coronary Syndrome
+P0247,62,Female,Telangana,B+,165.9,78.2,28.4,123,73,63,False,False,Sedentary,False,True,2024-08-26,28.6,2,High,False,None
+P0248,68,Male,Telangana,O+,176.1,108.8,35.1,129,95,84,False,False,Moderate,True,True,2024-07-04,32.9,5,Critical,False,None
+P0249,43,Female,Madhya Pradesh,AB+,160.3,66.0,25.7,125,70,83,False,False,Sedentary,True,True,2024-02-14,5.6,0,Low,False,None
+P0250,63,Male,Tamil Nadu,B+,184.5,90.9,26.7,131,76,91,False,False,Light,False,False,2024-07-06,27.3,0,High,True,Hypertensive Crisis
+P0251,48,Male,West Bengal,A+,181.7,96.1,29.1,118,70,73,False,False,Moderate,False,True,2025-11-12,18.2,1,Moderate,False,None
+P0252,62,Female,Gujarat,A+,164.4,93.8,34.7,139,105,82,False,False,Moderate,False,False,2025-03-16,20.9,4,High,True,Arrhythmia
+P0253,28,Female,Karnataka,A+,163.7,57.3,21.4,114,82,71,False,True,Light,True,False,2024-03-02,1.0,0,Low,False,None
+P0254,64,Female,Madhya Pradesh,O+,145.8,75.5,35.5,148,66,65,False,False,Active,True,False,2024-03-07,33.8,5,Critical,False,None
+P0255,53,Male,West Bengal,A+,170.2,73.3,25.3,141,87,75,True,False,Moderate,False,True,2025-07-22,27.1,3,High,False,None
+P0256,53,Male,Punjab,A+,159.4,60.5,23.8,90,78,51,False,True,Light,False,False,2025-01-12,19.1,0,Moderate,False,None
+P0257,54,Male,Rajasthan,O+,168.8,81.8,28.7,145,81,79,True,False,Light,True,False,2025-09-25,38.0,3,Critical,True,Hypertensive Crisis
+P0258,73,Male,Bihar,O+,168.5,79.5,28.0,126,72,66,False,False,Moderate,False,False,2024-02-23,34.3,1,Critical,True,Acute Coronary Syndrome
+P0259,37,Male,Uttar Pradesh,O+,163.7,47.7,17.8,114,80,58,False,False,Sedentary,False,True,2025-08-13,4.9,0,Low,False,None
+P0260,48,Female,Bihar,O+,159.6,60.9,23.9,135,94,68,False,False,Moderate,False,False,2025-02-17,14.8,2,Moderate,False,None
+P0261,55,Female,Telangana,B-,155.2,63.1,26.2,133,90,71,False,False,Light,True,False,2025-08-17,15.1,0,Low,False,None
+P0262,54,Male,Uttar Pradesh,A+,180.6,101.8,31.2,125,78,82,False,False,Moderate,False,False,2024-04-07,26.8,2,High,False,None
+P0263,53,Female,West Bengal,B+,145.6,54.5,25.7,126,87,63,False,True,Moderate,False,False,2024-04-09,14.8,1,Low,False,None
+P0264,61,Male,Haryana,B+,177.3,97.4,31.0,167,82,68,True,True,Sedentary,False,False,2025-05-27,44.9,8,Critical,True,Acute Coronary Syndrome
+P0265,50,Female,Telangana,A+,156.9,76.1,30.9,124,87,63,False,False,Active,False,True,2025-01-04,14.0,3,Moderate,False,None
+P0266,50,Male,Uttar Pradesh,B+,162.9,70.6,26.6,139,83,78,False,False,Light,True,False,2025-03-03,16.0,0,Low,False,None
+P0267,60,Male,Kerala,A+,159.9,62.6,24.5,153,84,91,False,False,Moderate,False,False,2024-05-08,27.0,1,High,False,None
+P0268,31,Female,Kerala,AB+,153.8,65.3,27.6,131,94,65,False,False,Light,False,False,2024-07-24,5.1,1,Low,False,None
+P0269,33,Male,Telangana,B+,164.8,79.0,29.1,119,71,75,True,False,Moderate,False,True,2025-02-13,12.5,2,Moderate,False,None
+P0270,58,Male,Telangana,O+,167.4,101.7,36.3,134,94,92,False,True,Active,False,False,2025-11-08,33.3,4,Critical,True,Acute Coronary Syndrome
+P0271,48,Female,Maharashtra,B+,172.8,53.7,18.0,110,74,70,False,False,Light,True,False,2025-04-16,10.8,1,Low,False,None
+P0272,59,Male,Andhra Pradesh,A+,163.3,101.1,37.9,125,81,82,False,True,Moderate,True,True,2024-11-24,28.6,4,High,False,None
+P0273,75,Female,Maharashtra,O+,146.4,77.4,36.1,128,77,81,False,False,Moderate,True,False,2024-06-13,28.0,2,High,False,None
+P0274,55,Male,Delhi,O+,172.6,66.4,22.3,115,85,86,False,True,Sedentary,False,False,2025-12-22,20.0,0,Moderate,True,Hypertensive Crisis
+P0275,68,Female,Telangana,B+,159.5,83.2,32.7,139,69,84,False,False,Light,False,False,2025-02-22,28.7,3,High,False,None
+P0276,37,Female,Delhi,AB-,164.2,67.9,25.2,135,66,79,False,False,Sedentary,False,False,2025-08-09,7.2,1,Low,False,None
+P0277,40,Female,West Bengal,A+,151.7,57.1,24.8,142,73,76,False,False,Sedentary,True,True,2025-07-20,11.7,1,Low,False,None
+P0278,64,Male,Bihar,A-,161.9,79.7,30.4,141,99,76,True,False,Moderate,False,False,2025-06-19,37.0,5,Critical,False,None
+P0279,44,Male,Karnataka,B+,169.8,58.0,20.1,129,69,63,False,False,Active,False,False,2024-06-05,13.8,0,Low,False,None
+P0280,68,Male,Punjab,O+,179.4,104.6,32.5,124,87,72,False,True,Light,True,False,2025-07-07,34.0,2,Critical,True,Arrhythmia
+P0281,41,Female,Bihar,O+,155.5,77.4,32.0,131,72,74,False,False,Sedentary,False,False,2024-08-30,17.5,2,Moderate,False,None
+P0282,54,Male,Bihar,A+,169.5,64.9,22.6,135,76,78,False,False,Sedentary,False,False,2024-11-05,20.8,0,Moderate,False,None
+P0283,36,Female,Bihar,B+,154.4,64.8,27.2,157,70,86,False,False,Light,False,False,2025-06-05,9.7,2,Low,False,None
+P0284,71,Female,Haryana,B+,163.7,68.1,25.4,100,77,73,False,False,Light,True,False,2025-05-19,25.8,1,High,False,None
+P0285,51,Male,Tamil Nadu,B+,161.9,61.1,23.3,107,105,66,True,False,Light,False,False,2024-10-17,24.8,2,High,False,None
+P0286,57,Male,Rajasthan,A+,171.3,80.4,27.4,107,87,69,True,False,Sedentary,True,False,2024-12-06,29.6,1,High,True,Hypertensive Crisis
+P0287,41,Female,Gujarat,B+,159.3,64.5,25.4,145,79,73,False,False,Active,False,True,2025-11-29,7.9,2,Low,False,None
+P0288,41,Male,Haryana,O+,178.4,85.3,26.8,129,81,73,True,False,Light,False,False,2025-02-06,16.0,1,Moderate,True,Arrhythmia
+P0289,59,Male,Gujarat,AB+,152.6,54.3,23.3,120,70,85,False,True,Moderate,True,False,2024-12-16,21.3,0,Moderate,True,Arrhythmia
+P0290,25,Female,Maharashtra,O+,154.1,72.7,30.6,122,82,86,False,False,Light,True,False,2024-04-03,6.4,5,Moderate,True,Arrhythmia
+P0291,55,Male,Andhra Pradesh,B-,153.0,77.2,33.0,110,85,70,True,True,Moderate,True,False,2024-07-11,29.0,3,High,True,Acute Coronary Syndrome
+P0292,58,Male,Kerala,O+,159.2,73.0,28.8,140,81,61,False,True,Light,True,True,2024-06-23,24.0,0,Moderate,True,Acute Coronary Syndrome
+P0293,56,Male,Tamil Nadu,A-,164.2,43.1,16.0,126,80,70,False,True,Sedentary,False,False,2024-02-19,20.3,0,Moderate,True,Arrhythmia
+P0294,60,Female,Telangana,O+,155.1,72.9,30.3,140,69,75,False,False,Sedentary,True,True,2024-09-19,22.0,3,High,False,None
+P0295,65,Male,Maharashtra,O+,178.0,56.4,17.8,124,91,74,False,False,Light,True,False,2024-01-17,27.7,2,High,True,Acute Coronary Syndrome
+P0296,34,Male,Delhi,A+,174.3,77.5,25.5,140,90,67,False,False,Active,True,True,2025-04-01,6.4,0,Low,False,None
+P0297,59,Female,Telangana,O+,174.1,78.5,25.9,134,95,64,False,False,Sedentary,True,False,2025-03-06,18.6,2,Moderate,False,None
+P0298,41,Male,Haryana,A+,164.4,70.8,26.2,131,83,65,False,False,Light,False,False,2024-06-27,11.5,0,Low,True,Arrhythmia
+P0299,43,Male,West Bengal,B+,157.2,51.6,20.9,109,67,77,False,False,Sedentary,False,False,2025-04-02,10.4,0,Low,False,None
+P0300,51,Female,Maharashtra,A+,150.7,60.0,26.4,160,67,67,False,False,Sedentary,False,True,2024-06-20,15.8,2,Moderate,False,None
+P0301,54,Female,Maharashtra,B+,158.0,63.9,25.6,133,84,61,False,False,Sedentary,False,False,2024-01-06,14.6,1,Low,False,None
+P0302,63,Male,Punjab,A+,175.3,112.8,36.7,114,97,78,False,False,Sedentary,False,True,2024-02-25,29.1,3,High,False,None
+P0303,37,Female,Uttar Pradesh,A+,152.2,51.4,22.2,115,73,76,False,False,Light,False,False,2025-07-03,2.6,0,Low,False,None
+P0304,52,Male,Delhi,O+,158.9,52.5,20.8,164,103,78,False,False,Sedentary,True,True,2025-05-05,22.2,1,Moderate,False,None
+P0305,54,Female,Punjab,B-,162.5,74.2,28.1,131,106,74,True,False,Moderate,True,True,2024-02-15,23.5,4,High,True,Hypertensive Crisis
+P0306,63,Male,Maharashtra,O+,171.2,90.0,30.7,149,84,72,False,True,Light,False,False,2024-06-26,31.8,3,High,False,None
+P0307,50,Male,Andhra Pradesh,A+,156.2,70.0,28.7,125,72,67,False,False,Moderate,True,False,2024-02-22,20.9,1,Moderate,False,None
+P0308,48,Female,Rajasthan,B+,154.1,73.1,30.8,131,87,68,False,False,Sedentary,False,False,2025-12-04,20.8,2,Moderate,False,None
+P0309,46,Male,Karnataka,B+,166.0,103.6,37.6,131,81,96,False,False,Moderate,True,False,2024-01-25,16.0,3,Moderate,False,None
+P0310,65,Male,Telangana,A+,164.2,66.1,24.5,136,92,79,False,True,Active,False,True,2025-10-29,29.7,1,High,False,None
+P0311,41,Female,Telangana,B+,157.5,68.5,27.6,126,83,70,False,False,Light,False,True,2024-09-13,6.5,2,Low,False,None
+P0312,60,Male,Rajasthan,B+,180.2,75.3,23.2,135,90,76,False,False,Active,False,False,2024-02-25,25.2,0,Moderate,False,None
+P0313,41,Male,Maharashtra,B+,170.5,70.1,24.1,127,75,87,False,True,Sedentary,False,True,2025-02-03,9.4,0,Low,False,None
+P0314,52,Male,Karnataka,A+,171.3,74.5,25.4,107,79,72,True,True,Light,True,True,2024-07-03,25.6,1,Moderate,False,None
+P0315,25,Male,Rajasthan,O+,158.5,48.2,19.2,98,65,71,False,True,Moderate,False,False,2024-08-04,1.0,0,Low,False,None
+P0316,25,Female,Telangana,B+,154.7,64.4,26.9,135,81,64,True,False,Light,False,False,2025-06-03,9.7,1,Low,False,None
+P0317,63,Male,Punjab,A+,171.0,71.9,24.6,132,100,59,False,False,Sedentary,False,True,2025-01-12,28.2,2,High,False,None
+P0318,50,Female,Maharashtra,B+,164.1,67.1,24.9,141,75,74,False,False,Moderate,False,True,2024-06-15,14.0,1,Low,False,None
+P0319,61,Female,Telangana,B+,159.6,47.1,18.5,138,71,68,False,False,Moderate,True,True,2025-02-22,19.3,1,Moderate,False,None
+P0320,66,Female,Telangana,AB-,148.6,56.3,25.5,140,88,90,False,True,Sedentary,False,False,2024-04-12,23.6,1,High,False,None
+P0321,69,Female,Uttar Pradesh,B+,151.6,53.5,23.3,129,87,87,False,False,Light,True,True,2025-07-15,24.5,1,High,True,Hypertensive Crisis
+P0322,49,Male,Punjab,B+,167.7,77.1,27.4,121,80,98,False,False,Sedentary,False,False,2025-12-27,17.9,0,Low,False,None
+P0323,81,Female,Maharashtra,A+,158.2,56.1,22.4,102,83,66,False,False,Light,True,False,2025-11-16,30.0,1,Critical,False,None
+P0324,46,Male,Punjab,AB+,172.5,76.5,25.7,115,94,72,False,False,Light,False,False,2025-03-19,11.6,1,Low,False,None
+P0325,41,Female,Rajasthan,B-,160.0,95.5,37.3,137,71,70,False,True,Sedentary,True,False,2025-03-23,11.6,3,Moderate,False,None
+P0326,45,Female,Karnataka,B+,158.5,82.7,32.9,128,72,80,False,False,Light,False,False,2025-01-02,12.1,2,Moderate,False,None
+P0327,25,Male,Maharashtra,A-,179.1,74.4,23.2,108,74,60,True,False,Sedentary,True,False,2024-07-07,3.7,1,Low,False,None
+P0328,45,Male,Karnataka,B+,167.8,63.9,22.7,141,94,80,True,False,Sedentary,True,False,2025-09-01,22.1,2,Moderate,False,None
+P0329,27,Male,Uttar Pradesh,O+,166.7,65.3,23.5,118,88,76,False,False,Light,False,True,2025-01-02,1.0,0,Low,False,None
+P0330,48,Male,Kerala,A-,169.8,54.5,18.9,111,80,82,False,True,Light,False,True,2025-09-19,14.2,0,Low,False,None
+P0331,26,Male,Tamil Nadu,B+,167.2,62.9,22.5,140,77,84,False,False,Light,False,False,2024-11-12,1.0,0,Low,False,None
+P0332,75,Male,Uttar Pradesh,O+,185.8,81.1,23.5,125,81,73,False,False,Sedentary,True,False,2024-05-27,36.2,0,Critical,False,None
+P0333,53,Male,Uttar Pradesh,O-,163.8,59.8,22.3,91,83,70,False,False,Moderate,True,False,2024-03-14,17.8,0,Low,False,None
+P0334,62,Male,Haryana,A+,174.6,66.5,21.8,145,90,72,False,False,Moderate,False,False,2024-03-16,30.8,1,High,False,None
+P0335,33,Male,Maharashtra,B+,172.7,76.4,25.6,143,80,72,False,False,Moderate,True,False,2025-05-26,6.4,1,Low,False,None
+P0336,48,Female,Uttar Pradesh,O+,155.6,50.1,20.7,128,83,75,False,False,Light,False,False,2024-11-30,11.4,0,Low,False,None
+P0337,36,Female,Uttar Pradesh,B-,146.2,47.0,22.0,127,98,86,False,False,Sedentary,True,False,2024-10-02,8.8,1,Low,False,None
+P0338,72,Male,Delhi,O+,164.2,56.3,20.9,148,79,69,False,False,Sedentary,True,False,2024-11-25,34.6,2,Critical,False,None
+P0339,43,Female,Delhi,A+,171.5,90.3,30.7,113,80,82,False,False,Light,True,False,2024-11-15,6.6,2,Low,False,None
+P0340,25,Male,West Bengal,A+,171.0,70.5,24.1,117,76,56,True,False,Moderate,True,True,2024-12-28,5.8,1,Low,False,None
+P0341,61,Male,Delhi,AB+,165.0,83.3,30.6,127,85,68,False,False,Sedentary,False,True,2025-11-01,25.4,2,High,False,None
+P0342,44,Female,Maharashtra,O+,155.3,45.8,19.0,138,81,84,False,False,Light,False,True,2025-07-20,10.0,1,Low,False,None
+P0343,54,Male,Uttar Pradesh,O+,161.9,48.5,18.5,90,94,73,False,True,Sedentary,False,True,2024-02-12,20.4,1,Moderate,True,Hypertensive Crisis
+P0344,29,Female,Punjab,B+,151.3,63.4,27.7,125,89,70,False,False,Moderate,False,False,2025-06-07,1.0,0,Low,False,None
+P0345,45,Male,Punjab,O+,171.8,82.9,28.1,137,69,84,True,False,Sedentary,False,False,2025-05-22,20.9,2,Moderate,False,None
+P0346,49,Male,Madhya Pradesh,O+,158.7,84.9,33.7,120,74,83,False,False,Sedentary,False,True,2025-05-16,14.6,0,Low,False,None
+P0347,30,Male,Karnataka,A+,176.0,66.6,21.5,126,81,78,False,False,Sedentary,False,False,2024-03-17,1.0,0,Low,False,None
+P0348,50,Male,Karnataka,A+,174.7,83.9,27.5,128,73,67,False,True,Sedentary,True,True,2024-02-17,19.9,0,Moderate,False,None
+P0349,37,Female,Maharashtra,AB+,165.4,49.2,18.0,122,94,58,False,False,Sedentary,True,False,2024-11-08,6.4,1,Low,False,None
+P0350,40,Male,Andhra Pradesh,B+,163.8,78.9,29.4,103,89,67,False,True,Active,False,False,2025-07-19,12.3,1,Low,False,None
+P0351,60,Male,West Bengal,A+,177.5,62.1,19.7,160,88,78,True,False,Active,False,False,2024-09-20,37.0,2,Critical,True,Hypertensive Crisis
+P0352,57,Female,Delhi,B-,156.4,71.2,29.1,104,92,77,False,False,Moderate,False,False,2025-09-13,16.2,2,Moderate,False,None
+P0353,44,Male,Kerala,B+,178.0,96.3,30.4,123,66,72,False,True,Sedentary,True,False,2025-10-31,15.6,2,Moderate,False,None
+P0354,58,Male,Kerala,A+,156.1,63.6,26.1,128,75,74,True,False,Sedentary,False,False,2024-03-25,30.5,2,High,True,Arrhythmia
+P0355,69,Female,Karnataka,A+,154.6,75.0,31.4,144,84,83,False,False,Light,True,False,2024-07-12,32.2,5,Critical,True,Hypertensive Crisis
+P0356,25,Male,Telangana,A-,169.5,66.9,23.3,147,77,79,False,True,Active,True,False,2024-05-28,1.0,1,Low,False,None
+P0357,56,Male,Tamil Nadu,B+,164.4,70.8,26.2,140,83,68,True,False,Light,True,True,2024-05-27,31.8,1,High,False,None
+P0358,49,Female,Punjab,B+,161.7,76.6,29.3,143,97,77,False,False,Light,False,False,2025-02-20,22.8,4,High,True,Hypertensive Crisis
+P0359,57,Female,Telangana,O+,141.3,51.7,25.9,153,88,58,False,False,Moderate,False,False,2024-12-14,18.4,2,Moderate,False,None
+P0360,55,Female,Andhra Pradesh,A+,160.2,70.6,27.5,144,87,53,True,False,Sedentary,True,True,2024-04-18,25.4,3,High,False,None
+P0361,69,Female,Kerala,B+,146.0,49.5,23.2,138,96,76,True,False,Light,False,False,2024-11-23,34.8,4,Critical,False,None
+P0362,66,Male,Telangana,B-,162.2,74.2,28.2,166,97,95,True,True,Light,False,True,2024-05-22,45.4,6,Critical,True,Arrhythmia
+P0363,64,Male,Rajasthan,A-,167.6,82.6,29.4,131,90,67,False,True,Sedentary,True,False,2024-08-04,27.0,1,High,False,None
+P0364,53,Male,Uttar Pradesh,B+,169.5,78.7,27.4,144,93,89,False,False,Active,True,False,2024-12-25,22.7,1,Moderate,False,None
+P0365,45,Male,Telangana,O-,165.0,73.8,27.1,102,73,77,False,False,Light,True,False,2024-07-13,10.0,0,Low,False,None
+P0366,30,Male,Punjab,O+,167.3,70.3,25.1,114,68,58,True,True,Light,False,True,2025-11-10,9.6,1,Low,False,None
+P0367,36,Female,Andhra Pradesh,B+,159.6,56.0,22.0,119,74,68,True,False,Sedentary,True,False,2025-12-18,8.2,1,Low,False,None
+P0368,36,Female,Tamil Nadu,B+,169.9,74.2,25.7,118,83,89,False,False,Sedentary,False,False,2024-02-28,3.0,0,Low,False,None
+P0369,25,Male,Madhya Pradesh,O+,171.3,70.7,24.1,105,75,75,False,False,Sedentary,False,True,2024-12-10,1.0,0,Low,False,None
+P0370,26,Male,Punjab,A-,165.8,76.1,27.7,129,82,85,False,False,Moderate,True,False,2025-09-19,1.0,0,Low,False,None
+P0371,76,Female,West Bengal,AB+,144.7,33.5,16.0,137,82,100,False,False,Active,True,True,2025-10-31,28.5,1,High,False,None
+P0372,35,Male,Kerala,O+,171.1,86.9,29.7,127,76,67,False,True,Sedentary,True,True,2025-10-26,10.9,1,Low,True,Arrhythmia
+P0373,54,Male,Bihar,B+,189.4,105.1,29.3,142,90,87,False,False,Sedentary,False,False,2025-03-03,28.2,3,High,False,None
+P0374,45,Female,Telangana,O-,167.3,56.0,20.0,144,78,70,False,False,Active,False,False,2024-03-17,13.6,2,Moderate,False,None
+P0375,46,Female,Kerala,AB+,168.4,102.7,36.2,122,89,79,False,False,Light,False,True,2024-02-09,9.1,1,Low,True,Arrhythmia
+P0376,37,Female,Uttar Pradesh,B+,160.5,82.7,32.1,112,72,73,True,False,Moderate,False,False,2025-05-21,13.7,3,Moderate,False,None
+P0377,44,Female,Madhya Pradesh,A+,156.7,74.6,30.4,132,102,77,False,False,Sedentary,True,False,2025-02-23,19.1,3,Moderate,False,None
+P0378,85,Female,Haryana,O+,149.1,73.6,33.1,144,98,76,False,False,Sedentary,False,False,2025-10-11,43.7,3,Critical,False,None
+P0379,67,Male,Gujarat,O-,158.6,49.6,19.7,130,95,63,False,False,Moderate,False,False,2024-01-12,30.4,1,High,True,Hypertensive Crisis
+P0380,60,Male,West Bengal,O+,172.3,98.3,33.1,161,92,78,False,False,Moderate,False,True,2024-03-13,34.3,2,High,True,Acute Coronary Syndrome
+P0381,32,Male,Karnataka,A+,174.6,92.4,30.3,135,73,67,True,False,Sedentary,False,True,2025-12-20,16.0,2,Moderate,False,None
+P0382,58,Female,Bihar,O+,168.3,74.2,26.2,147,76,60,False,False,Light,False,True,2025-08-08,18.7,2,Moderate,False,None
+P0383,56,Female,West Bengal,A-,161.4,69.3,26.6,115,78,73,False,False,Moderate,True,False,2025-10-21,12.0,1,Low,False,None
+P0384,63,Female,Uttar Pradesh,B+,156.7,45.9,18.7,121,79,69,False,False,Moderate,False,True,2024-07-02,17.6,2,Moderate,False,None
+P0385,34,Male,Delhi,O+,160.3,58.8,22.9,136,89,85,True,False,Moderate,False,False,2024-05-09,15.0,1,Moderate,False,None
+P0386,62,Female,Tamil Nadu,B+,160.0,63.0,24.6,143,84,64,False,False,Sedentary,True,False,2024-11-11,22.2,3,High,False,None
+P0387,45,Female,Maharashtra,B+,159.6,97.8,38.4,135,70,77,False,False,Moderate,True,True,2025-01-12,17.2,4,Moderate,True,Acute Coronary Syndrome
+P0388,61,Female,Tamil Nadu,A-,163.7,58.2,21.7,140,74,81,False,True,Moderate,True,False,2025-01-08,20.3,1,Moderate,False,None
+P0389,60,Male,Kerala,O-,165.8,90.2,32.8,132,86,75,False,False,Light,True,True,2024-06-15,31.1,1,High,True,Acute Coronary Syndrome
+P0390,44,Male,Punjab,A+,178.8,95.6,29.9,138,81,74,False,True,Sedentary,False,True,2025-11-02,21.8,3,High,False,None
+P0391,52,Male,Bihar,B+,171.0,99.4,34.0,138,83,83,False,False,Light,False,False,2024-11-07,23.3,2,Moderate,False,None
+P0392,35,Female,Kerala,O+,158.5,89.4,35.6,121,85,65,False,False,Sedentary,True,False,2025-12-01,10.6,3,Moderate,False,None
+P0393,56,Female,Uttar Pradesh,B+,148.1,61.9,28.2,140,85,75,False,False,Sedentary,False,True,2024-02-15,17.3,4,Moderate,False,None
+P0394,40,Male,Kerala,AB+,159.2,43.3,17.1,116,66,87,False,False,Light,False,True,2024-05-07,6.7,0,Low,False,None
+P0395,25,Female,Telangana,B+,163.6,42.8,16.0,147,86,73,False,False,Sedentary,False,False,2024-10-21,1.0,1,Low,False,None
+P0396,50,Female,Gujarat,A+,151.6,73.3,31.9,156,74,90,False,False,Sedentary,False,False,2024-01-02,28.4,6,Critical,True,Hypertensive Crisis
+P0397,34,Male,Karnataka,O+,157.6,74.5,30.0,115,80,64,False,False,Sedentary,False,False,2024-10-30,7.8,2,Low,False,None
+P0398,32,Male,Telangana,O+,162.7,62.2,23.5,134,68,61,True,True,Light,True,True,2024-07-24,10.3,1,Low,False,None
+P0399,65,Male,Uttar Pradesh,O-,178.9,94.7,29.6,152,85,74,True,True,Light,False,False,2025-12-20,51.2,5,Critical,False,None
+P0400,68,Male,Uttar Pradesh,B-,173.4,97.4,32.4,147,109,85,True,False,Moderate,True,False,2025-09-01,40.9,4,Critical,True,Acute Coronary Syndrome
+P0401,52,Female,Tamil Nadu,A+,146.2,55.4,25.9,156,89,69,False,False,Moderate,False,False,2025-09-01,16.8,2,Moderate,False,None
+P0402,65,Male,Karnataka,A+,172.0,73.4,24.8,155,93,67,True,False,Light,True,False,2024-12-19,40.1,2,Critical,True,Acute Coronary Syndrome
+P0403,52,Female,Gujarat,O+,158.4,73.8,29.4,157,84,74,False,False,Sedentary,True,True,2024-08-09,19.1,4,High,False,None
+P0404,58,Male,Maharashtra,O+,168.1,77.4,27.4,129,75,72,False,False,Moderate,False,False,2024-11-24,23.0,0,Moderate,False,None
+P0405,55,Male,Karnataka,AB+,170.2,91.8,31.7,151,75,50,False,False,Light,False,False,2025-06-25,27.7,3,High,True,Arrhythmia
+P0406,47,Female,Karnataka,B-,160.8,85.1,32.9,128,76,76,False,False,Light,False,False,2025-07-21,10.0,0,Low,False,None
+P0407,49,Female,Karnataka,A+,161.4,54.4,20.9,95,72,65,False,False,Light,False,True,2025-08-31,10.5,1,Low,False,None
+P0408,41,Male,Andhra Pradesh,O+,169.5,83.3,29.0,100,91,72,False,False,Active,False,False,2025-03-07,14.8,3,Moderate,False,None
+P0409,58,Female,Bihar,B+,157.8,63.0,25.3,114,86,81,False,False,Active,False,True,2025-05-29,19.2,1,Moderate,False,None
+P0410,66,Male,Gujarat,B+,167.4,92.8,33.1,140,66,74,True,True,Active,False,False,2025-07-12,39.5,2,Critical,False,None
+P0411,40,Male,Bihar,A-,165.8,53.6,19.5,110,61,97,False,False,Moderate,True,False,2025-01-13,8.0,0,Low,False,None
+P0412,44,Female,Maharashtra,A+,139.6,55.7,28.6,163,73,78,False,False,Light,False,True,2024-04-30,20.9,3,Moderate,False,None
+P0413,45,Female,Maharashtra,O+,148.1,50.0,22.8,121,70,69,False,False,Sedentary,False,True,2024-05-27,7.4,1,Low,False,None
+P0414,26,Female,Bihar,O+,155.8,73.1,30.1,121,88,87,False,True,Moderate,False,True,2024-08-18,1.0,4,Low,False,None
+P0415,54,Female,Telangana,A+,158.8,74.1,29.4,146,85,81,True,False,Light,True,False,2024-06-18,23.7,5,High,False,None
+P0416,61,Male,Telangana,A+,158.2,79.6,31.8,117,89,69,False,False,Sedentary,False,True,2024-02-15,24.8,6,Critical,True,Acute Coronary Syndrome
+P0417,45,Female,Andhra Pradesh,A+,156.6,52.0,21.2,116,70,55,False,False,Sedentary,False,True,2025-03-25,9.0,1,Low,False,None
+P0418,36,Male,Maharashtra,O+,176.1,89.0,28.7,137,68,72,False,True,Moderate,False,True,2025-07-25,13.7,1,Low,False,None
+P0419,51,Male,Tamil Nadu,A+,171.7,74.9,25.4,148,95,73,False,False,Light,False,True,2025-02-25,21.4,1,Moderate,False,None
+P0420,46,Male,Andhra Pradesh,O+,174.1,91.8,30.3,121,89,69,True,False,Light,False,True,2024-02-17,19.8,3,Moderate,True,Hypertensive Crisis
+P0421,55,Male,Madhya Pradesh,A+,163.0,86.1,32.4,100,75,84,True,True,Light,True,True,2025-08-03,26.5,3,High,False,None
+P0422,39,Female,Telangana,O+,152.9,79.3,33.9,90,92,75,False,False,Light,False,True,2024-08-31,4.1,2,Low,False,None
+P0423,80,Male,Punjab,B+,171.0,85.7,29.3,143,65,80,False,False,Sedentary,False,False,2024-02-14,39.9,2,Critical,False,None
+P0424,39,Male,Rajasthan,B+,169.6,46.0,16.0,128,83,76,False,False,Sedentary,True,False,2024-02-08,10.2,0,Low,False,None
+P0425,56,Female,Telangana,AB+,152.9,56.1,24.0,135,80,74,False,False,Light,False,True,2025-03-29,16.6,1,Moderate,False,None
+P0426,25,Female,Punjab,B+,161.3,94.7,36.4,119,80,97,False,False,Light,True,False,2025-01-05,1.0,2,Low,True,Arrhythmia
+P0427,54,Male,West Bengal,B-,171.6,88.3,30.0,154,102,77,False,True,Sedentary,False,False,2025-01-25,22.3,3,High,False,None
+P0428,40,Male,Karnataka,O+,163.2,70.8,26.6,130,95,52,False,False,Moderate,False,False,2025-12-15,10.4,3,Moderate,False,None
+P0429,59,Female,Tamil Nadu,O+,157.6,69.8,28.1,131,82,66,False,False,Sedentary,True,True,2025-10-24,26.1,3,High,False,None
+P0430,62,Female,Bihar,B+,157.9,80.0,32.1,143,78,82,False,False,Light,True,False,2025-02-16,34.5,5,Critical,True,Acute Coronary Syndrome
+P0431,54,Female,Gujarat,B+,159.3,70.8,27.9,125,76,82,False,False,Active,False,False,2024-05-02,14.8,1,Low,False,None
+P0432,46,Female,Maharashtra,O-,152.9,59.1,25.3,124,67,91,False,False,Active,False,True,2024-02-14,9.4,0,Low,False,None
+P0433,34,Male,Andhra Pradesh,A-,169.9,63.5,22.0,134,71,81,False,False,Light,True,False,2025-01-29,7.0,0,Low,False,None
+P0434,55,Male,Bihar,B-,162.8,87.7,33.1,138,92,73,False,True,Light,False,False,2024-03-03,21.9,1,Moderate,False,None
+P0435,75,Male,Andhra Pradesh,A+,163.0,66.7,25.1,152,91,74,False,False,Moderate,False,True,2025-10-23,38.5,2,Critical,True,Hypertensive Crisis
+P0436,53,Female,Delhi,O+,155.6,62.9,26.0,140,90,81,False,False,Moderate,False,True,2024-05-24,14.9,0,Low,False,None
+P0437,45,Female,Madhya Pradesh,B+,158.6,60.9,24.2,128,76,79,False,False,Moderate,True,True,2024-02-23,10.1,0,Low,False,None
+P0438,36,Male,Rajasthan,B+,175.2,69.7,22.7,129,79,56,False,False,Sedentary,False,False,2025-04-07,6.6,1,Low,False,None
+P0439,53,Male,Maharashtra,O+,164.3,107.4,39.8,158,92,70,False,True,Sedentary,True,True,2024-02-22,24.6,4,High,False,None
+P0440,31,Female,Telangana,A+,167.6,96.9,34.5,110,81,69,False,False,Light,False,True,2025-06-08,1.0,2,Low,False,None
+P0441,40,Female,Gujarat,B+,162.5,52.0,19.7,128,71,65,False,False,Light,True,False,2025-10-31,6.6,0,Low,False,None
+P0442,59,Male,Tamil Nadu,AB+,164.1,61.7,22.9,154,68,86,True,True,Active,False,False,2024-07-01,36.5,3,Critical,True,Acute Coronary Syndrome
+P0443,37,Female,Madhya Pradesh,AB+,159.2,68.2,26.9,128,98,77,False,False,Light,True,False,2024-11-09,5.3,1,Low,False,None
+P0444,33,Female,Gujarat,A+,155.2,59.3,24.6,90,96,79,False,False,Sedentary,False,False,2024-04-03,2.2,1,Low,False,None
+P0445,57,Male,Maharashtra,B-,169.5,65.8,22.9,124,102,82,False,True,Light,False,True,2025-11-22,24.3,1,Moderate,False,None
+P0446,27,Male,Andhra Pradesh,A-,175.7,78.4,25.4,131,66,68,True,False,Sedentary,True,True,2025-03-18,6.7,1,Low,False,None
+P0447,46,Male,Maharashtra,B+,166.9,64.1,23.0,143,73,82,False,False,Sedentary,False,True,2024-07-10,15.2,1,Moderate,False,None
+P0448,55,Female,Gujarat,O+,162.0,88.2,33.6,131,96,62,False,True,Light,False,False,2025-03-25,23.1,4,High,False,None
+P0449,59,Male,Andhra Pradesh,O+,171.9,87.2,29.5,162,101,78,False,False,Light,False,True,2025-04-06,27.7,3,High,True,Acute Coronary Syndrome
+P0450,46,Male,Karnataka,O+,163.7,48.0,17.9,112,84,65,True,False,Light,False,True,2024-01-31,23.8,1,Moderate,False,None
+P0451,85,Male,Tamil Nadu,A+,168.1,69.2,24.5,160,84,87,False,True,Sedentary,True,False,2025-04-26,47.9,1,Critical,True,Arrhythmia
+P0452,49,Male,Delhi,O+,164.0,77.7,28.9,133,88,77,False,False,Sedentary,False,False,2024-03-04,19.7,1,Moderate,False,None
+P0453,49,Female,Bihar,AB-,146.7,69.1,32.1,114,82,85,False,False,Sedentary,True,False,2024-11-21,11.5,0,Low,False,None
+P0454,37,Female,Tamil Nadu,O+,173.6,65.4,21.7,149,91,78,False,False,Sedentary,True,False,2025-05-25,5.7,3,Low,False,None
+P0455,37,Male,Karnataka,B+,156.0,65.7,27.0,125,91,75,False,False,Active,False,False,2025-03-29,5.5,1,Low,False,None
+P0456,29,Male,Bihar,B+,169.7,61.6,21.4,126,58,61,True,False,Sedentary,True,True,2025-03-15,6.8,1,Low,False,None
+P0457,45,Female,Kerala,O+,159.1,88.3,34.9,118,91,77,False,False,Sedentary,False,False,2025-02-10,9.3,3,Moderate,True,Acute Coronary Syndrome
+P0458,40,Female,Haryana,A+,162.6,80.9,30.6,108,92,58,False,False,Sedentary,False,False,2024-09-02,7.3,3,Low,False,None
+P0459,47,Male,Delhi,B+,177.4,64.5,20.5,120,95,74,False,False,Moderate,False,True,2025-12-27,15.2,1,Moderate,False,None
+P0460,32,Female,Gujarat,A-,144.8,70.0,33.4,129,81,66,False,False,Light,False,False,2024-07-21,1.1,1,Low,False,None
+P0461,49,Male,Maharashtra,A+,183.2,105.7,31.5,123,99,71,True,True,Sedentary,False,False,2024-06-07,27.7,6,Critical,False,None
+P0462,69,Male,Haryana,B+,159.8,69.2,27.1,130,92,67,True,True,Light,True,True,2025-06-04,39.6,5,Critical,True,Hypertensive Crisis
+P0463,25,Female,Kerala,A+,159.5,60.0,23.6,133,82,76,False,False,Moderate,False,True,2025-07-10,1.0,0,Low,False,None
+P0464,80,Male,Delhi,O+,176.8,96.6,30.9,163,66,71,False,True,Light,True,False,2024-09-01,44.5,1,Critical,True,Hypertensive Crisis
+P0465,25,Female,Uttar Pradesh,O+,156.9,64.3,26.1,125,82,71,False,False,Moderate,True,False,2024-07-04,1.9,0,Low,False,None
+P0466,65,Male,Haryana,O+,178.3,85.5,26.9,156,78,70,False,False,Light,False,False,2024-07-25,32.4,2,High,False,None
+P0467,71,Female,West Bengal,A+,159.0,56.1,22.2,124,77,70,False,False,Sedentary,True,True,2024-11-03,23.1,1,High,True,Acute Coronary Syndrome
+P0468,77,Female,Rajasthan,AB+,154.6,69.1,28.9,153,78,66,False,False,Sedentary,True,False,2024-04-11,32.6,3,Critical,True,Hypertensive Crisis
+P0469,53,Male,Rajasthan,B+,176.1,92.7,29.9,148,70,62,True,False,Light,False,False,2025-06-05,32.6,4,High,True,Acute Coronary Syndrome
+P0470,56,Female,Kerala,B+,153.7,56.9,24.1,153,98,66,False,False,Moderate,True,True,2025-05-16,19.5,3,Moderate,False,None
+P0471,58,Female,Punjab,A+,163.1,90.7,34.1,163,97,72,True,True,Moderate,True,False,2024-08-21,37.0,4,Critical,False,None
+P0472,46,Female,Kerala,B+,151.2,69.0,30.2,131,89,73,False,False,Moderate,True,True,2024-12-21,11.0,3,Moderate,True,Hypertensive Crisis
+P0473,51,Male,Telangana,B+,169.2,85.9,30.0,155,105,64,False,False,Light,True,True,2024-09-02,26.6,2,High,True,Hypertensive Crisis
+P0474,36,Male,Maharashtra,A+,166.7,52.0,18.7,108,97,84,False,False,Sedentary,False,True,2025-12-22,4.8,1,Low,False,None
+P0475,40,Female,Delhi,B+,173.3,98.5,32.8,121,73,77,True,False,Light,True,True,2025-08-06,14.6,3,Moderate,False,None
+P0476,68,Male,Maharashtra,O+,169.0,82.3,28.8,102,89,67,False,False,Active,False,True,2025-12-27,36.4,1,Critical,False,None
+P0477,42,Male,Bihar,A+,174.6,93.6,30.7,151,73,73,False,True,Light,False,False,2024-02-26,16.8,3,Moderate,False,None
+P0478,57,Male,West Bengal,B-,179.1,84.0,26.2,184,94,81,False,True,Active,True,False,2024-01-08,29.8,1,High,True,Acute Coronary Syndrome
+P0479,85,Female,Maharashtra,B-,164.7,64.8,23.9,152,93,68,False,False,Light,False,True,2024-12-21,36.3,2,Critical,True,Acute Coronary Syndrome
+P0480,25,Male,Kerala,O+,149.7,53.1,23.7,124,89,68,False,False,Sedentary,False,True,2025-04-27,1.0,0,Low,False,None
+P0481,43,Male,Delhi,B+,166.6,98.3,35.4,103,80,50,False,False,Sedentary,False,False,2025-03-13,9.0,3,Moderate,False,None
+P0482,43,Female,Telangana,O+,159.0,103.7,41.0,126,88,77,False,False,Light,True,False,2024-03-18,20.3,3,Moderate,False,None
+P0483,48,Male,Kerala,B+,158.0,71.4,28.6,104,82,63,False,False,Sedentary,True,False,2024-02-26,16.0,1,Moderate,False,None
+P0484,55,Female,Madhya Pradesh,O+,157.6,69.8,28.1,145,67,82,False,False,Sedentary,False,False,2025-02-21,16.1,4,Moderate,False,None
+P0485,60,Female,Andhra Pradesh,B+,164.8,70.6,26.0,143,67,76,False,False,Moderate,False,True,2024-06-14,19.6,2,Moderate,False,None
+P0486,63,Male,Uttar Pradesh,A+,165.6,79.3,28.9,104,95,68,False,False,Light,False,True,2025-01-27,34.6,2,High,False,None
+P0487,68,Male,Kerala,A+,167.8,66.7,23.7,94,96,72,False,False,Active,False,True,2024-07-24,29.4,1,High,True,Hypertensive Crisis
+P0488,54,Male,Bihar,O+,170.5,73.3,25.2,156,88,73,False,False,Active,False,False,2024-04-12,22.3,1,Moderate,True,Acute Coronary Syndrome
+P0489,54,Male,Uttar Pradesh,O-,169.7,69.7,24.2,115,95,67,False,False,Sedentary,False,True,2025-12-25,23.5,2,Moderate,False,None
+P0490,52,Male,Madhya Pradesh,B+,170.8,84.3,28.9,132,82,75,False,False,Sedentary,False,False,2024-09-28,19.4,0,Moderate,False,None
+P0491,61,Male,Madhya Pradesh,A+,180.5,75.9,23.3,176,98,74,True,True,Sedentary,False,False,2025-11-15,38.6,4,Critical,True,Hypertensive Crisis
+P0492,37,Male,Tamil Nadu,B+,183.0,83.4,24.9,121,84,67,False,False,Sedentary,False,False,2024-02-23,6.5,0,Low,False,None
+P0493,57,Female,Karnataka,O+,149.3,69.1,31.0,129,87,93,False,False,Moderate,False,True,2025-11-13,23.8,1,Moderate,False,None
+P0494,28,Male,Karnataka,A+,153.0,52.7,22.5,135,96,79,False,True,Light,True,False,2024-07-08,1.0,2,Low,False,None
+P0495,43,Male,Bihar,A+,171.1,54.5,18.6,145,86,91,False,True,Sedentary,False,False,2024-10-14,15.3,1,Moderate,False,None
+P0496,34,Male,Delhi,B+,166.2,63.5,23.0,121,87,78,True,False,Light,False,True,2024-08-09,15.0,1,Low,False,None
+P0497,49,Male,Gujarat,B+,173.7,77.5,25.7,108,83,80,True,False,Light,False,True,2024-05-02,27.4,1,High,False,None
+P0498,48,Male,Madhya Pradesh,A+,168.9,58.8,20.6,128,83,64,True,True,Sedentary,False,True,2024-12-06,22.6,1,Moderate,False,None
+P0499,58,Male,West Bengal,A+,167.0,97.3,34.9,146,85,75,False,False,Moderate,False,True,2025-10-09,27.2,3,High,True,Acute Coronary Syndrome
+P0500,56,Female,Madhya Pradesh,B+,148.2,72.3,32.9,110,61,77,False,False,Light,True,False,2025-02-25,14.4,1,Low,False,None
+P0501,49,Male,Maharashtra,A+,167.3,87.3,31.2,128,83,81,False,True,Moderate,False,False,2025-06-30,19.5,4,High,True,Hypertensive Crisis
+P0502,39,Male,Kerala,A+,167.2,63.7,22.8,132,85,74,False,False,Moderate,True,True,2024-08-22,7.1,0,Low,False,None
+P0503,65,Male,Karnataka,A+,169.8,57.7,20.0,110,93,80,False,False,Light,True,False,2025-04-20,29.0,2,High,False,None
+P0504,64,Male,Gujarat,B-,174.8,100.5,32.9,153,83,76,False,False,Light,True,True,2025-09-18,36.4,3,Critical,True,Acute Coronary Syndrome
+P0505,44,Male,Delhi,AB+,166.3,72.5,26.2,137,65,71,False,False,Light,False,False,2025-05-22,14.9,0,Low,False,None
+P0506,39,Female,Maharashtra,B+,154.9,66.7,27.8,155,85,81,False,False,Sedentary,False,False,2025-02-14,10.0,1,Low,False,None
+P0507,56,Female,West Bengal,B+,165.0,66.7,24.5,129,75,84,False,False,Sedentary,False,False,2024-01-07,15.5,0,Low,False,None
+P0508,84,Male,Karnataka,O+,170.7,79.5,27.3,119,90,70,False,False,Moderate,False,True,2025-06-02,43.2,1,Critical,False,None
+P0509,65,Female,Maharashtra,O+,161.9,57.1,21.8,133,70,81,False,False,Moderate,False,False,2025-09-26,23.4,2,High,False,None
+P0510,50,Female,Delhi,O+,153.6,78.8,33.4,129,71,71,False,False,Moderate,False,True,2025-03-06,19.9,3,Moderate,False,None
+P0511,52,Female,Haryana,O-,155.8,59.2,24.4,140,78,54,False,False,Sedentary,True,False,2024-08-20,14.3,1,Low,False,None
+P0512,59,Male,West Bengal,A+,183.9,77.4,22.9,134,80,79,False,True,Moderate,False,False,2025-12-24,23.0,0,Moderate,False,None
+P0513,41,Male,Haryana,A+,179.1,90.5,28.2,133,76,82,False,False,Sedentary,False,False,2025-05-30,10.8,1,Low,False,None
+P0514,65,Female,Madhya Pradesh,O-,163.2,76.4,28.7,138,100,95,False,False,Sedentary,False,True,2024-03-21,22.5,4,High,True,Arrhythmia
+P0515,27,Female,Madhya Pradesh,B+,164.1,70.6,26.2,117,72,91,False,False,Sedentary,False,False,2025-12-30,1.0,1,Low,False,None
+P0516,34,Female,Karnataka,A+,158.4,54.9,21.9,117,73,55,False,False,Sedentary,True,False,2025-11-13,2.4,0,Low,False,None
+P0517,43,Male,West Bengal,B+,169.1,76.3,26.7,136,78,65,False,False,Active,True,False,2024-04-14,10.8,0,Low,False,None
+P0518,75,Female,Delhi,O-,147.0,89.0,41.2,117,90,64,False,False,Light,False,False,2024-07-24,28.1,5,Critical,False,None
+P0519,38,Male,Delhi,O+,177.3,51.9,16.5,106,72,82,True,False,Sedentary,False,True,2024-03-30,15.7,1,Moderate,False,None
+P0520,50,Female,Bihar,A+,162.8,73.9,27.9,126,67,86,False,False,Light,False,False,2025-11-22,11.5,1,Low,False,None
+P0521,45,Male,Kerala,B+,170.2,86.0,29.7,125,79,80,False,False,Sedentary,False,True,2024-03-24,13.6,1,Low,False,None
+P0522,70,Male,Andhra Pradesh,O-,174.6,114.0,37.4,140,94,67,True,True,Moderate,False,True,2025-07-30,45.0,5,Critical,True,Hypertensive Crisis
+P0523,34,Male,Kerala,A+,175.1,94.4,30.8,131,66,70,False,True,Sedentary,True,True,2025-03-05,5.8,1,Low,False,None
+P0524,54,Male,Maharashtra,B+,181.1,100.4,30.6,126,72,70,False,False,Active,True,False,2024-04-30,20.0,1,Moderate,False,None
+P0525,49,Female,Kerala,A-,157.3,52.2,21.1,143,75,79,False,False,Moderate,True,False,2024-07-30,18.3,4,High,False,None
+P0526,56,Female,West Bengal,O+,157.7,57.9,23.3,103,80,63,False,False,Sedentary,True,True,2024-08-06,15.0,1,Moderate,False,None
+P0527,53,Male,Haryana,A+,159.7,79.1,31.0,131,83,102,False,False,Moderate,True,False,2025-04-14,19.8,0,Moderate,False,None
+P0528,59,Female,Kerala,B+,158.1,67.2,26.9,116,68,73,False,False,Light,False,False,2024-06-12,18.5,0,Moderate,False,None
+P0529,32,Female,West Bengal,O+,153.7,66.9,28.3,124,90,82,False,False,Moderate,True,False,2025-07-11,6.4,1,Low,False,None
+P0530,65,Male,Rajasthan,O+,182.4,114.4,34.4,118,79,78,False,True,Sedentary,False,True,2024-09-23,28.7,1,High,False,None
+P0531,59,Female,Gujarat,A+,151.1,79.2,34.7,135,74,79,False,False,Moderate,True,False,2024-06-07,19.7,5,High,False,None
+P0532,34,Male,Tamil Nadu,A+,165.8,86.9,31.6,127,73,70,False,False,Moderate,False,True,2025-06-17,14.1,2,Moderate,False,None
+P0533,46,Male,Punjab,O+,174.5,81.3,26.7,127,77,80,True,True,Sedentary,True,True,2025-05-07,21.4,1,Moderate,True,Acute Coronary Syndrome
+P0534,58,Male,Tamil Nadu,O+,167.8,91.2,32.4,111,74,80,False,False,Light,False,False,2025-10-24,28.4,1,High,False,None
+P0535,41,Male,Maharashtra,O+,163.8,65.7,24.5,109,78,65,False,False,Sedentary,True,False,2024-07-24,8.9,0,Low,False,None
+P0536,46,Male,Haryana,B+,161.3,70.2,27.0,134,79,83,False,False,Light,False,False,2025-01-27,14.0,1,Low,False,None
+P0537,46,Female,Delhi,O+,162.3,88.2,33.5,132,83,79,False,False,Light,False,False,2025-01-14,19.9,3,Moderate,True,Arrhythmia
+P0538,54,Male,West Bengal,O-,167.0,91.5,32.8,170,84,72,True,False,Sedentary,False,True,2024-07-14,33.8,6,Critical,False,None
+P0539,65,Female,Karnataka,B+,161.5,81.1,31.1,118,80,79,False,False,Sedentary,False,True,2025-12-04,29.2,3,High,False,None
+P0540,57,Male,Maharashtra,O+,166.4,65.9,23.8,150,82,69,False,False,Light,False,True,2025-12-06,28.2,1,High,False,None
+P0541,67,Male,Karnataka,B+,167.0,92.3,33.1,147,91,71,True,False,Sedentary,False,True,2025-10-19,43.2,3,Critical,True,Acute Coronary Syndrome
+P0542,45,Male,Delhi,AB+,161.1,71.9,27.7,131,65,67,False,False,Moderate,False,True,2024-02-09,13.8,0,Low,False,None
+P0543,42,Female,Rajasthan,O+,152.8,56.5,24.2,120,70,100,False,False,Sedentary,False,False,2024-03-12,7.2,0,Low,False,None
+P0544,46,Female,Punjab,O-,145.4,48.8,23.1,129,77,79,False,False,Light,False,False,2025-05-07,9.5,1,Low,False,None
+P0545,70,Male,Gujarat,A-,172.2,83.3,28.1,127,71,50,False,False,Sedentary,False,False,2024-11-25,38.3,1,Critical,True,Hypertensive Crisis
+P0546,73,Female,Uttar Pradesh,B+,164.7,93.3,34.4,112,78,69,False,False,Moderate,True,True,2025-10-06,28.7,3,Critical,False,None
+P0547,52,Male,Uttar Pradesh,A+,172.9,89.4,29.9,124,92,92,True,True,Light,False,False,2024-08-02,28.1,4,High,False,None
+P0548,48,Female,Uttar Pradesh,B+,152.1,52.1,22.5,117,105,76,False,False,Sedentary,False,True,2024-02-04,11.7,1,Low,False,None
+P0549,66,Male,Uttar Pradesh,AB+,166.5,64.3,23.2,125,88,54,False,True,Light,False,False,2024-01-03,28.1,0,High,True,Arrhythmia
+P0550,50,Male,Kerala,O+,173.8,66.8,22.1,143,91,61,True,False,Moderate,True,False,2024-09-16,25.6,3,High,False,None
+P0551,63,Male,Delhi,O+,174.4,84.9,27.9,153,82,65,True,True,Active,True,True,2025-08-21,37.8,4,Critical,True,Arrhythmia
+P0552,25,Male,Andhra Pradesh,A+,161.4,62.5,24.0,146,85,99,False,False,Sedentary,True,True,2024-04-11,1.0,1,Low,False,None
+P0553,25,Female,Rajasthan,O+,154.3,66.4,27.9,115,82,80,True,False,Moderate,False,True,2025-05-09,4.0,1,Low,False,None
+P0554,25,Female,Delhi,A+,162.0,46.2,17.6,115,73,82,False,False,Light,True,False,2024-07-22,1.0,0,Low,False,None
+P0555,44,Female,Tamil Nadu,O+,161.5,63.6,24.4,143,73,72,False,False,Moderate,False,False,2024-05-05,9.4,2,Low,False,None
+P0556,44,Male,Rajasthan,B+,169.2,61.6,21.5,141,86,73,False,False,Moderate,False,False,2025-07-29,13.2,1,Low,False,None
+P0557,72,Male,Madhya Pradesh,A+,173.6,80.5,26.7,136,85,83,False,False,Moderate,False,True,2024-12-09,35.5,1,Critical,False,None
+P0558,72,Male,Andhra Pradesh,B+,173.6,95.5,31.7,160,67,87,True,True,Light,False,False,2025-03-04,54.4,6,Critical,False,None
+P0559,57,Male,Gujarat,B+,176.0,62.9,20.3,106,83,55,True,False,Light,False,False,2025-07-02,30.9,1,High,False,None
+P0560,41,Female,Madhya Pradesh,O+,148.6,65.1,29.5,112,89,69,False,False,Sedentary,False,False,2024-11-28,4.8,0,Low,False,None
+P0561,42,Female,Andhra Pradesh,B+,160.6,67.6,26.2,124,93,78,False,False,Sedentary,True,False,2025-03-11,8.5,2,Low,False,None
+P0562,30,Male,Uttar Pradesh,A+,167.2,77.2,27.6,113,73,75,True,False,Sedentary,True,True,2024-01-08,6.8,1,Low,False,None
+P0563,46,Female,Madhya Pradesh,O+,158.7,67.5,26.8,122,72,64,False,False,Sedentary,False,True,2024-03-27,8.7,1,Low,False,None
+P0564,71,Female,Punjab,B-,160.6,83.3,32.3,120,94,67,False,False,Sedentary,False,False,2024-02-28,28.0,6,Critical,True,Hypertensive Crisis
+P0565,46,Female,Madhya Pradesh,O+,164.6,51.7,19.1,142,78,64,False,False,Sedentary,False,False,2025-11-16,10.5,1,Low,False,None
+P0566,53,Male,Kerala,B-,170.1,78.1,27.0,140,93,75,True,False,Light,True,True,2025-06-20,30.1,3,High,False,None
+P0567,59,Male,Gujarat,AB+,166.5,61.3,22.1,91,78,77,False,False,Sedentary,False,False,2025-12-03,23.2,0,Moderate,False,None
+P0568,56,Male,Kerala,O+,175.1,108.2,35.3,142,96,73,True,False,Moderate,False,True,2024-04-25,35.9,6,Critical,True,Acute Coronary Syndrome
+P0569,66,Female,Madhya Pradesh,O+,165.2,84.6,31.0,128,80,72,False,False,Sedentary,False,False,2025-02-27,20.4,2,High,False,None
+P0570,52,Male,Uttar Pradesh,O+,174.3,82.9,27.3,147,94,74,True,False,Moderate,False,False,2024-01-28,27.8,2,High,True,Hypertensive Crisis
+P0571,28,Female,Rajasthan,B+,151.0,55.2,24.2,111,79,72,False,True,Moderate,True,True,2025-10-10,1.0,2,Low,False,None
+P0572,48,Female,Karnataka,AB+,160.6,74.5,28.9,117,95,84,False,False,Sedentary,True,False,2024-10-13,20.8,2,Moderate,False,None
+P0573,34,Male,Bihar,B+,175.0,55.1,18.0,131,87,77,True,False,Light,False,True,2025-03-28,12.3,1,Low,False,None
+P0574,48,Male,Gujarat,O-,170.5,71.8,24.7,149,89,78,False,True,Moderate,False,False,2025-03-05,18.9,1,Moderate,False,None
+P0575,34,Female,Gujarat,O+,150.3,50.6,22.4,135,100,64,True,False,Sedentary,False,False,2024-04-25,10.6,2,Low,False,None
+P0576,48,Female,Kerala,O+,156.6,81.7,33.3,169,70,73,False,False,Light,False,False,2024-11-29,14.5,2,Moderate,False,None
+P0577,65,Male,Uttar Pradesh,A+,168.8,76.9,27.0,156,77,79,False,True,Light,False,False,2024-04-08,32.1,1,High,False,None
+P0578,51,Male,Maharashtra,A+,170.0,62.1,21.5,114,102,64,False,True,Light,False,False,2024-02-02,15.8,1,Moderate,False,None
+P0579,33,Male,West Bengal,A+,183.1,101.9,30.4,112,72,98,False,True,Light,False,False,2024-08-27,5.3,1,Low,False,None
+P0580,36,Female,Telangana,O+,150.4,51.3,22.7,134,90,84,False,False,Moderate,False,False,2024-10-10,4.5,0,Low,False,None
+P0581,73,Female,Gujarat,B+,152.2,78.8,34.0,128,78,72,False,False,Light,False,False,2025-11-29,25.7,2,High,False,None
+P0582,75,Male,West Bengal,B+,175.4,106.8,34.7,122,96,82,True,False,Moderate,False,False,2025-12-25,54.4,6,Critical,True,Acute Coronary Syndrome
+P0583,60,Male,Telangana,AB+,165.0,79.5,29.2,117,91,79,True,False,Sedentary,False,False,2025-09-10,38.8,4,Critical,True,Acute Coronary Syndrome
+P0584,35,Male,Kerala,AB+,166.1,66.5,24.1,124,74,86,False,False,Sedentary,True,True,2025-10-30,5.6,1,Low,False,None
+P0585,39,Female,Punjab,O+,154.5,57.8,24.2,90,83,66,False,False,Moderate,False,True,2024-01-31,5.4,1,Low,False,None
+P0586,37,Male,Bihar,B+,173.3,73.9,24.6,115,71,66,False,False,Sedentary,False,False,2025-11-29,4.2,0,Low,False,None
+P0587,58,Male,West Bengal,B+,167.0,63.3,22.7,155,79,71,False,False,Light,False,False,2024-10-04,26.2,1,High,False,None
+P0588,46,Female,Madhya Pradesh,B+,166.5,84.6,30.5,126,68,84,False,True,Moderate,True,False,2024-06-12,16.9,3,Moderate,False,None
+P0589,60,Male,Rajasthan,O+,167.0,83.4,29.9,148,80,73,False,True,Moderate,False,False,2025-06-13,37.1,3,Critical,True,Acute Coronary Syndrome
+P0590,45,Female,Rajasthan,B-,158.9,67.7,26.8,124,84,79,False,False,Sedentary,False,True,2024-07-12,10.4,0,Low,False,None
+P0591,62,Female,Gujarat,O+,148.8,67.3,30.4,161,74,59,False,False,Moderate,True,False,2025-06-02,23.4,5,High,True,Arrhythmia
+P0592,32,Male,Karnataka,B-,155.4,84.5,35.0,135,69,70,True,True,Light,False,True,2024-03-20,12.0,1,Low,False,None
+P0593,62,Female,Bihar,B+,152.7,46.2,19.8,140,102,87,False,False,Active,False,False,2024-10-01,22.1,2,High,False,None
+P0594,64,Female,Uttar Pradesh,B+,156.3,93.6,38.3,142,90,83,False,False,Moderate,True,False,2025-08-28,23.3,6,Critical,True,Arrhythmia
+P0595,67,Male,Haryana,O-,160.5,73.9,28.7,128,83,82,True,False,Light,False,True,2025-03-10,44.0,6,Critical,True,Arrhythmia
+P0596,25,Male,Tamil Nadu,B+,165.8,60.5,22.0,137,69,70,True,False,Active,False,True,2025-11-17,6.7,1,Low,False,None
+P0597,58,Female,Maharashtra,O+,160.3,75.0,29.2,157,105,80,False,False,Light,False,True,2025-11-10,19.9,3,High,True,Arrhythmia
+P0598,58,Female,Madhya Pradesh,O+,164.8,96.7,35.6,166,75,88,False,False,Sedentary,False,False,2024-11-11,30.2,6,Critical,True,Hypertensive Crisis
+P0599,62,Male,Uttar Pradesh,O+,173.9,91.9,30.4,135,67,71,False,False,Sedentary,True,True,2025-04-27,36.4,2,Critical,False,None
+P0600,52,Male,Punjab,O+,171.3,89.5,30.5,158,85,81,False,False,Sedentary,True,False,2025-08-05,21.4,3,High,False,None
+P0601,60,Female,Haryana,A+,149.2,76.6,34.4,153,76,75,False,False,Sedentary,False,True,2024-04-30,22.0,4,High,False,None
+P0602,25,Female,Uttar Pradesh,B+,155.3,52.1,21.6,125,63,56,False,False,Light,False,False,2025-12-20,1.0,2,Low,False,None
+P0603,50,Male,Kerala,O+,170.2,104.3,36.0,134,73,67,False,False,Sedentary,True,False,2025-12-23,17.1,3,Moderate,False,None
+P0604,44,Male,Gujarat,B+,170.2,93.6,32.3,99,59,77,True,True,Moderate,False,False,2024-07-02,28.2,3,High,False,None
+P0605,61,Female,Bihar,B-,165.2,86.0,31.5,153,89,78,False,False,Light,False,False,2025-11-02,20.3,4,High,False,None
+P0606,46,Male,Kerala,B+,170.9,75.6,25.9,153,92,77,False,True,Sedentary,False,True,2024-05-06,16.7,1,Moderate,False,None
+P0607,42,Male,Maharashtra,B-,167.9,78.9,28.0,145,81,69,False,True,Moderate,False,True,2025-09-13,13.2,1,Low,False,None
+P0608,75,Female,West Bengal,A-,157.4,56.2,22.7,155,101,81,False,False,Light,False,False,2025-09-21,28.2,2,High,False,None
+P0609,63,Female,West Bengal,O+,161.7,61.7,23.6,110,109,82,False,False,Moderate,False,False,2024-05-17,19.8,2,Moderate,False,None
+P0610,58,Male,Gujarat,B+,158.6,55.3,22.0,108,85,73,False,False,Light,True,False,2025-11-15,21.4,0,Moderate,False,None
+P0611,74,Female,Kerala,O+,150.1,76.2,33.8,126,81,57,False,False,Light,True,True,2024-11-16,29.6,2,Critical,True,Hypertensive Crisis
+P0612,60,Male,Delhi,A+,174.9,100.6,32.9,126,97,84,False,True,Light,False,True,2024-01-20,23.4,3,High,False,None
+P0613,62,Female,Bihar,A-,140.2,72.5,36.9,143,99,76,False,False,Active,False,True,2024-05-19,22.3,6,High,False,None
+P0614,69,Male,Telangana,O+,176.1,108.8,35.1,181,100,66,False,False,Active,False,False,2025-07-26,41.7,4,Critical,True,Arrhythmia
+P0615,75,Male,Madhya Pradesh,A+,159.5,66.9,26.3,158,82,68,True,False,Sedentary,False,False,2025-12-19,49.2,6,Critical,True,Acute Coronary Syndrome
+P0616,43,Male,Haryana,B+,170.9,65.7,22.5,118,84,68,True,False,Moderate,True,True,2024-09-15,18.4,1,Moderate,True,Hypertensive Crisis
+P0617,58,Male,Tamil Nadu,B+,173.8,48.3,16.0,126,97,81,False,False,Active,True,True,2025-08-30,22.5,1,Moderate,True,Arrhythmia
+P0618,52,Male,Karnataka,A+,168.9,77.3,27.1,124,97,78,False,False,Sedentary,False,False,2025-12-23,18.5,1,Moderate,False,None
+P0619,52,Male,Haryana,B+,159.1,49.9,19.7,175,77,61,False,False,Sedentary,False,True,2024-11-15,23.3,1,Moderate,False,None
+P0620,59,Male,Maharashtra,O+,166.8,66.8,24.0,119,100,61,False,False,Moderate,False,False,2025-09-15,23.2,1,Moderate,False,None
+P0621,56,Female,Maharashtra,O-,152.5,61.2,26.3,136,93,71,False,False,Sedentary,False,True,2025-06-04,15.7,2,Moderate,False,None
+P0622,47,Male,Punjab,O+,183.9,74.4,22.0,118,85,77,False,False,Moderate,True,False,2025-11-02,13.6,0,Low,False,None
+P0623,63,Female,Karnataka,B+,158.8,65.8,26.1,171,103,78,False,False,Moderate,True,True,2025-07-24,24.5,3,High,False,None
+P0624,43,Male,Uttar Pradesh,O+,165.6,80.6,29.4,133,88,71,True,False,Sedentary,True,False,2025-09-21,27.5,3,High,True,Acute Coronary Syndrome
+P0625,25,Male,Uttar Pradesh,A+,171.2,90.3,30.8,128,82,66,False,False,Sedentary,False,False,2024-07-11,1.0,1,Low,True,Arrhythmia
+P0626,55,Male,Delhi,B+,173.6,101.9,33.8,106,86,59,False,True,Light,True,False,2024-07-26,27.4,3,High,False,None
+P0627,68,Male,Uttar Pradesh,B+,171.9,91.3,30.9,152,70,88,False,True,Moderate,True,True,2024-05-03,39.7,5,Critical,False,None
+P0628,65,Female,Delhi,AB+,154.8,91.5,38.2,146,77,79,False,False,Sedentary,True,False,2025-09-03,29.3,6,Critical,True,Acute Coronary Syndrome
+P0629,43,Male,Delhi,A+,178.8,64.3,20.1,155,62,65,True,True,Moderate,False,True,2025-06-28,21.0,2,Moderate,False,None
+P0630,65,Male,Madhya Pradesh,O+,179.0,94.8,29.6,118,63,75,True,False,Light,False,False,2024-03-24,42.0,3,Critical,False,None
+P0631,61,Male,West Bengal,B+,182.1,94.8,28.6,158,81,76,False,True,Light,False,False,2024-10-24,38.3,3,Critical,False,None
+P0632,83,Male,Delhi,A+,162.6,75.1,28.4,128,86,59,False,False,Light,False,False,2025-11-08,43.9,4,Critical,False,None
+P0633,62,Female,Kerala,O-,158.7,71.3,28.3,129,78,66,False,False,Sedentary,True,False,2024-01-31,22.8,2,High,True,Hypertensive Crisis
+P0634,39,Female,Delhi,B+,162.3,60.8,23.1,127,89,69,False,True,Light,False,True,2025-10-28,5.4,1,Low,False,None
+P0635,80,Male,Bihar,O+,165.2,65.5,24.0,121,98,72,False,True,Sedentary,False,False,2024-12-31,41.2,3,Critical,True,Acute Coronary Syndrome
+P0636,37,Male,Maharashtra,O+,177.4,99.1,31.5,132,81,69,True,False,Moderate,False,False,2024-06-21,25.4,4,High,False,None
+P0637,30,Male,Karnataka,B+,169.7,58.5,20.3,143,91,64,False,False,Sedentary,True,False,2024-06-04,3.6,1,Low,False,None
+P0638,42,Male,Haryana,B+,162.0,63.0,24.0,127,90,68,True,False,Moderate,True,False,2025-09-26,19.0,1,Moderate,False,None
+P0639,57,Male,Karnataka,O+,180.4,78.8,24.2,139,79,69,True,False,Light,False,True,2025-12-14,32.5,1,High,True,Arrhythmia
+P0640,25,Female,West Bengal,A+,160.8,57.1,22.1,127,73,88,False,False,Light,True,True,2024-12-23,1.0,0,Low,False,None
+P0641,65,Male,Madhya Pradesh,AB-,162.1,74.6,28.4,156,91,79,False,True,Moderate,False,False,2024-09-28,32.1,1,High,False,None
+P0642,42,Male,West Bengal,B+,177.7,86.2,27.3,135,72,66,False,False,Sedentary,True,True,2024-08-25,11.9,0,Low,False,None
+P0643,61,Male,Andhra Pradesh,B-,169.0,78.5,27.5,142,84,67,False,False,Light,False,True,2025-09-29,25.8,1,High,True,Arrhythmia
+P0644,70,Female,Telangana,O+,150.3,42.7,18.9,131,87,53,False,False,Active,True,False,2025-09-09,23.7,1,High,True,Arrhythmia
+P0645,65,Male,Punjab,O-,153.4,58.4,24.8,119,96,66,False,True,Sedentary,True,False,2025-11-07,27.9,1,High,True,Hypertensive Crisis
+P0646,52,Male,Tamil Nadu,O+,174.0,93.3,30.8,149,85,73,True,False,Moderate,True,True,2024-06-25,37.9,4,Critical,True,Arrhythmia
+P0647,33,Male,Rajasthan,O+,162.2,70.2,26.7,121,76,77,False,True,Moderate,True,False,2024-06-22,4.6,0,Low,False,None
+P0648,41,Male,Kerala,O-,166.5,82.6,29.8,133,86,82,True,True,Sedentary,False,False,2024-01-19,17.1,3,Moderate,True,Acute Coronary Syndrome
+P0649,66,Female,Gujarat,B+,166.3,58.1,21.0,90,72,86,False,False,Sedentary,False,False,2025-05-27,20.3,1,Moderate,False,None
+P0650,55,Female,Tamil Nadu,B+,163.3,73.9,27.7,140,98,80,False,False,Active,False,True,2024-05-30,19.3,1,Moderate,False,None
+P0651,59,Female,Madhya Pradesh,B+,161.9,63.7,24.3,120,85,68,False,False,Sedentary,True,False,2024-11-05,16.3,1,Moderate,True,Hypertensive Crisis
+P0652,55,Male,Kerala,A+,167.2,66.0,23.6,138,93,75,False,False,Sedentary,True,False,2024-09-11,22.1,1,Moderate,False,None
+P0653,61,Female,Haryana,O+,157.8,67.2,27.0,146,84,74,False,False,Sedentary,True,False,2024-08-04,19.3,3,High,True,Hypertensive Crisis
+P0654,61,Male,West Bengal,O+,154.9,60.9,25.4,126,100,73,False,False,Moderate,False,True,2025-11-02,25.3,2,High,True,Hypertensive Crisis
+P0655,73,Male,Maharashtra,B+,175.7,88.3,28.6,121,83,64,False,False,Active,True,False,2024-02-23,35.9,1,Critical,False,None
+P0656,68,Female,Maharashtra,A+,158.4,48.4,19.3,154,76,69,False,False,Active,False,False,2025-08-23,24.8,2,High,True,Hypertensive Crisis
+P0657,64,Male,Telangana,AB+,160.6,46.7,18.1,132,90,60,False,True,Sedentary,False,True,2024-08-04,28.2,0,High,False,None
+P0658,49,Male,Karnataka,O+,178.8,76.7,24.0,129,72,68,False,False,Sedentary,False,True,2024-09-29,19.5,2,Moderate,True,Acute Coronary Syndrome
+P0659,43,Female,Gujarat,AB+,164.8,64.6,23.8,138,79,71,False,False,Moderate,False,True,2025-05-13,7.9,1,Low,False,None
+P0660,63,Male,Telangana,O-,171.6,81.6,27.7,151,74,73,False,False,Sedentary,True,False,2025-01-30,28.2,1,High,True,Arrhythmia
+P0661,49,Male,Bihar,B+,174.6,87.5,28.7,119,78,70,False,False,Light,True,False,2024-11-06,16.1,1,Moderate,False,None
+P0662,42,Male,Haryana,O+,162.8,65.2,24.6,134,102,63,True,False,Sedentary,True,False,2025-06-11,19.7,2,Moderate,False,None
+P0663,25,Female,Uttar Pradesh,A+,166.9,79.1,28.4,113,105,64,False,False,Sedentary,False,False,2025-10-17,1.0,2,Low,False,None
+P0664,75,Male,West Bengal,A+,162.7,79.7,30.1,115,62,67,False,False,Active,False,False,2025-02-20,35.6,1,Critical,False,None
+P0665,38,Male,Gujarat,O+,174.1,82.4,27.2,120,78,87,False,False,Sedentary,True,True,2024-09-14,9.9,0,Low,False,None
+P0666,70,Male,Andhra Pradesh,AB+,173.2,81.0,27.0,124,87,77,False,True,Moderate,False,True,2025-12-30,33.1,0,High,False,None
+P0667,57,Female,Tamil Nadu,O+,161.1,69.3,26.7,143,83,69,False,False,Sedentary,False,True,2024-01-22,19.9,3,Moderate,False,None
+P0668,56,Male,Telangana,B+,173.1,90.8,30.3,138,90,77,False,False,Active,True,True,2024-03-30,22.8,3,High,True,Hypertensive Crisis
+P0669,64,Male,Madhya Pradesh,O+,168.8,58.4,20.5,162,87,89,False,False,Light,False,False,2025-11-12,31.6,1,High,False,None
+P0670,31,Male,Bihar,B+,173.5,83.1,27.6,119,77,67,False,False,Moderate,False,True,2024-07-21,5.3,0,Low,False,None
+P0671,83,Male,West Bengal,A+,170.4,86.8,29.9,143,79,90,False,False,Light,True,False,2024-05-18,48.0,3,Critical,False,None
+P0672,42,Female,Delhi,B+,160.9,60.3,23.3,124,101,81,False,False,Sedentary,True,True,2025-03-26,7.7,2,Low,False,None
+P0673,33,Male,Delhi,B+,170.6,69.0,23.7,99,71,73,False,True,Sedentary,True,False,2024-07-25,2.5,0,Low,False,None
+P0674,55,Male,Kerala,O+,172.3,68.3,23.0,148,92,60,True,False,Light,False,False,2024-01-30,32.8,3,High,True,Hypertensive Crisis
+P0675,56,Male,Gujarat,A+,162.3,60.6,23.0,119,85,86,False,False,Light,True,False,2024-03-25,20.7,0,Moderate,False,None
+P0676,40,Male,Gujarat,O+,159.9,40.9,16.0,118,58,68,True,False,Moderate,False,False,2025-04-08,13.6,1,Low,False,None
+P0677,48,Female,Karnataka,B+,157.2,54.6,22.1,140,97,78,True,False,Light,False,False,2024-12-03,18.9,3,Moderate,False,None
+P0678,26,Male,West Bengal,O+,173.2,49.2,16.4,120,98,76,False,True,Sedentary,True,False,2024-09-25,1.0,1,Low,False,None
+P0679,75,Male,Kerala,O+,165.6,72.9,26.6,125,92,67,False,True,Sedentary,True,True,2025-07-19,36.4,2,Critical,False,None
+P0680,53,Male,West Bengal,AB+,174.7,77.5,25.4,143,75,84,False,False,Moderate,False,True,2025-09-02,20.8,2,Moderate,False,None
+P0681,58,Male,Gujarat,A+,182.7,84.8,25.4,145,85,85,False,True,Sedentary,False,True,2024-08-31,25.5,1,High,False,None
+P0682,72,Female,Maharashtra,B+,158.3,76.2,30.4,105,83,78,False,False,Light,True,False,2024-12-04,24.5,2,High,False,None
+P0683,35,Female,Haryana,B+,166.1,83.0,30.1,142,65,65,False,False,Moderate,True,False,2025-04-15,5.1,2,Low,False,None
+P0684,35,Male,Kerala,O+,165.9,46.2,16.8,124,79,74,False,True,Light,False,False,2025-02-01,4.6,0,Low,False,None
+P0685,40,Female,Delhi,O+,158.5,73.6,29.3,107,76,82,True,False,Moderate,False,False,2024-03-30,20.1,2,Moderate,False,None
+P0686,49,Male,Telangana,A+,162.8,72.1,27.2,152,94,53,False,False,Sedentary,False,False,2024-10-26,19.8,1,Moderate,False,None
+P0687,46,Male,Kerala,B+,165.6,89.1,32.5,113,72,75,False,True,Light,False,False,2025-11-29,13.3,3,Moderate,False,None
+P0688,58,Female,Maharashtra,AB-,153.0,58.3,24.9,154,118,65,False,False,Active,False,False,2025-03-23,19.7,2,Moderate,False,None
+P0689,65,Male,Rajasthan,B+,164.3,64.0,23.7,133,81,85,False,False,Moderate,False,False,2024-05-27,29.2,0,High,False,None
+P0690,29,Female,Karnataka,O+,156.2,79.5,32.6,121,72,93,False,False,Sedentary,True,False,2024-07-16,1.0,2,Low,False,None
+P0691,45,Male,Andhra Pradesh,A-,170.8,65.9,22.6,139,80,96,False,False,Sedentary,False,False,2024-02-04,13.5,0,Low,False,None
+P0692,44,Male,Gujarat,B+,161.7,59.1,22.6,149,85,74,False,False,Sedentary,True,False,2025-07-04,15.6,2,Moderate,False,None
+P0693,39,Male,Punjab,O+,168.9,66.2,23.2,113,84,78,False,True,Light,False,True,2024-12-04,6.1,0,Low,False,None
+P0694,48,Male,Punjab,AB-,178.7,87.8,27.5,137,66,85,False,False,Sedentary,False,False,2024-01-02,15.2,0,Low,False,None
+P0695,39,Male,Rajasthan,O+,171.5,65.0,22.1,124,65,71,False,False,Moderate,False,False,2025-02-07,5.4,0,Low,False,None
+P0696,52,Male,Punjab,B+,183.4,83.4,24.8,141,96,77,False,True,Sedentary,True,False,2025-12-19,19.8,1,Moderate,False,None
+P0697,49,Female,Uttar Pradesh,B+,157.9,49.6,19.9,115,66,84,False,False,Moderate,False,True,2025-09-18,11.5,1,Low,False,None
+P0698,56,Male,Bihar,B+,168.3,63.2,22.3,167,92,77,False,False,Sedentary,True,False,2025-02-22,28.1,1,High,True,Hypertensive Crisis
+P0699,51,Female,Rajasthan,O+,153.6,63.0,26.7,103,89,92,False,False,Light,False,False,2025-06-17,12.2,1,Low,False,None
+P0700,49,Female,Haryana,O+,152.9,75.5,32.3,127,81,68,False,True,Moderate,False,False,2025-07-12,14.9,4,Moderate,False,None
+P0701,43,Male,Rajasthan,O+,173.0,74.8,25.0,131,79,97,True,True,Sedentary,True,False,2025-07-30,19.7,1,Moderate,False,None
+P0702,63,Male,Tamil Nadu,O+,180.6,56.1,17.2,147,84,71,False,True,Moderate,True,False,2025-07-26,28.3,1,High,False,None
+P0703,63,Male,Bihar,B+,162.4,77.0,29.2,123,106,67,False,False,Sedentary,True,True,2025-06-04,34.5,4,Critical,True,Acute Coronary Syndrome
+P0704,39,Female,Andhra Pradesh,AB-,176.1,73.5,23.7,105,83,69,False,False,Sedentary,False,False,2024-06-02,4.1,1,Low,False,None
+P0705,30,Female,Telangana,A+,150.8,53.2,23.4,116,68,62,False,True,Light,True,False,2024-10-09,1.0,0,Low,False,None
+P0706,58,Female,Telangana,O+,158.8,68.6,27.2,157,84,71,False,False,Sedentary,False,False,2024-11-30,20.5,2,Moderate,False,None
+P0707,63,Male,Delhi,O-,177.0,63.9,20.4,146,80,61,False,True,Light,False,False,2024-02-24,29.1,1,High,False,None
+P0708,51,Male,Madhya Pradesh,O+,165.6,79.5,29.0,147,82,93,False,False,Sedentary,False,True,2025-05-30,25.6,3,High,True,Acute Coronary Syndrome
+P0709,51,Male,West Bengal,AB+,171.6,80.7,27.4,158,74,99,False,False,Light,False,False,2025-12-16,21.4,1,Moderate,False,None
+P0710,49,Male,Punjab,B+,161.1,80.5,31.0,136,76,89,True,False,Light,True,False,2024-09-13,26.9,2,High,False,None
+P0711,60,Female,Telangana,B+,155.0,67.8,28.2,167,83,75,False,False,Sedentary,False,True,2025-04-29,28.4,5,Critical,False,None
+P0712,55,Female,Kerala,A+,156.8,65.4,26.6,136,73,85,False,False,Sedentary,False,True,2024-08-31,17.7,0,Low,False,None
+P0713,41,Female,Rajasthan,A+,150.3,46.3,20.5,135,68,72,False,False,Moderate,False,True,2025-05-30,6.0,0,Low,False,None
+P0714,65,Female,Andhra Pradesh,A+,160.9,67.3,26.0,144,81,75,False,False,Sedentary,False,True,2025-10-20,23.5,2,High,False,None
+P0715,55,Female,Telangana,A-,157.0,60.1,24.4,157,90,64,True,False,Light,False,False,2024-04-06,28.5,4,High,False,None
+P0716,41,Male,Karnataka,A+,163.9,84.6,31.5,137,79,74,False,False,Sedentary,False,True,2025-07-13,20.0,1,Moderate,True,Acute Coronary Syndrome
+P0717,64,Female,Punjab,O+,153.8,51.6,21.8,148,97,67,False,False,Active,False,False,2025-11-30,19.9,3,High,True,Acute Coronary Syndrome
+P0718,48,Male,Kerala,A+,161.8,71.5,27.3,137,81,79,True,False,Light,False,False,2024-08-21,24.2,1,Moderate,False,None
+P0719,57,Female,Delhi,O+,154.7,43.6,18.2,143,82,60,False,False,Light,False,False,2025-01-28,16.3,2,Moderate,False,None
+P0720,57,Male,Telangana,B+,162.6,62.1,23.5,128,100,76,True,False,Sedentary,True,False,2024-08-28,28.6,3,High,True,Hypertensive Crisis
+P0721,25,Male,Bihar,B+,169.3,90.0,31.4,142,80,67,False,True,Sedentary,False,False,2025-06-01,1.0,2,Low,False,None
+P0722,69,Male,Punjab,O+,165.0,81.1,29.8,145,77,74,False,False,Active,True,True,2024-11-13,38.7,3,Critical,False,None
+P0723,25,Female,Uttar Pradesh,O+,164.0,76.4,28.4,138,95,53,False,False,Light,False,True,2024-09-10,1.0,2,Low,False,None
+P0724,58,Male,Tamil Nadu,A+,175.9,64.7,20.9,127,75,77,True,False,Sedentary,False,True,2024-11-08,30.0,1,High,True,Hypertensive Crisis
+P0725,46,Male,Rajasthan,AB+,173.2,74.7,24.9,155,77,61,False,False,Sedentary,True,False,2025-06-25,19.9,2,Moderate,False,None
+P0726,37,Female,Tamil Nadu,A+,157.9,55.6,22.3,110,84,69,False,False,Moderate,False,True,2024-08-17,3.4,0,Low,False,None
+P0727,66,Male,Punjab,A+,174.9,86.6,28.3,107,84,73,False,False,Sedentary,False,False,2025-03-06,34.1,1,High,False,None
+P0728,53,Male,Madhya Pradesh,B+,167.2,74.1,26.5,140,102,66,False,True,Active,True,False,2024-04-08,18.6,3,Moderate,True,Acute Coronary Syndrome
+P0729,45,Female,Tamil Nadu,O+,150.1,70.3,31.2,118,69,71,False,False,Moderate,True,True,2024-05-29,11.3,0,Low,False,None
+P0730,47,Female,Haryana,O+,163.6,82.2,30.7,149,90,86,False,False,Sedentary,True,True,2024-11-22,14.8,2,Moderate,False,None
+P0731,51,Female,Rajasthan,AB+,163.7,89.0,33.2,152,70,74,False,False,Light,False,False,2025-05-31,15.5,3,Moderate,False,None
+P0732,49,Male,Telangana,O-,173.9,75.9,25.1,119,79,83,False,False,Active,False,False,2024-10-21,17.7,0,Low,False,None
+P0733,36,Male,Rajasthan,A+,169.3,76.8,26.8,153,86,60,True,True,Light,True,True,2025-06-10,16.2,2,Moderate,False,None
+P0734,47,Male,Punjab,O+,179.9,92.9,28.7,111,83,65,True,False,Light,True,True,2025-08-04,29.7,3,High,False,None
+P0735,61,Female,Kerala,B+,155.9,69.3,28.5,129,83,69,False,False,Sedentary,False,True,2025-12-02,27.3,2,High,True,Hypertensive Crisis
+P0736,25,Male,Andhra Pradesh,B+,169.5,83.0,28.9,122,93,59,False,False,Sedentary,True,False,2024-05-15,3.6,2,Low,False,None
+P0737,63,Female,Maharashtra,A+,163.2,71.4,26.8,157,87,79,False,False,Light,True,False,2025-04-23,23.0,2,High,True,Acute Coronary Syndrome
+P0738,55,Male,Tamil Nadu,A+,171.1,77.3,26.4,164,104,56,False,False,Light,True,True,2025-03-18,24.7,1,Moderate,False,None
+P0739,52,Female,Punjab,B+,152.5,72.6,31.2,149,74,52,False,False,Sedentary,False,False,2024-08-21,24.8,2,High,False,None
+P0740,41,Female,Tamil Nadu,B-,156.9,77.5,31.5,133,70,77,False,False,Moderate,False,False,2024-11-11,15.4,1,Moderate,False,None
+P0741,46,Male,Madhya Pradesh,B+,178.3,89.3,28.1,120,72,62,False,False,Sedentary,False,False,2025-03-01,22.4,2,Moderate,True,Hypertensive Crisis
+P0742,41,Female,Telangana,O+,149.6,72.7,32.5,152,67,65,False,False,Sedentary,False,False,2025-10-09,17.1,4,Moderate,True,Arrhythmia
+P0743,44,Male,Bihar,A-,172.7,65.0,21.8,145,91,90,False,False,Sedentary,False,True,2024-01-01,13.8,1,Low,False,None
+P0744,59,Male,Karnataka,A+,181.2,69.9,21.3,146,85,72,False,False,Light,False,False,2024-08-24,25.9,1,High,False,None
+P0745,44,Male,Karnataka,B+,164.5,81.2,30.0,152,65,55,False,True,Light,False,False,2024-08-10,15.9,4,Moderate,False,None
+P0746,71,Female,Karnataka,O+,159.5,68.2,26.8,160,86,70,True,False,Light,False,False,2024-06-12,35.8,3,Critical,True,Arrhythmia
+P0747,70,Female,Punjab,O+,142.9,45.3,22.2,131,83,80,False,False,Light,False,False,2024-11-29,23.5,1,High,False,None
+P0748,51,Female,Rajasthan,B+,143.9,53.6,25.9,148,86,84,False,False,Sedentary,True,False,2025-09-02,15.5,2,Moderate,False,None
+P0749,62,Female,West Bengal,A+,150.5,76.3,33.7,120,83,76,False,False,Moderate,True,True,2025-03-26,26.1,2,High,True,Acute Coronary Syndrome
+P0750,41,Female,Telangana,B+,157.6,42.2,17.0,138,72,57,False,False,Sedentary,True,False,2025-04-16,9.1,0,Low,False,None
+P0751,64,Male,Haryana,A+,167.4,93.0,33.2,141,90,87,True,False,Light,False,False,2025-05-23,45.2,4,Critical,True,Acute Coronary Syndrome
+P0752,58,Male,Maharashtra,A-,163.1,69.7,26.2,144,83,79,False,True,Moderate,True,False,2024-09-07,26.8,1,High,False,None
+P0753,35,Male,Maharashtra,AB+,158.6,63.4,25.2,101,82,71,True,False,Moderate,False,False,2024-12-27,12.9,1,Low,False,None
+P0754,70,Male,Andhra Pradesh,A+,168.9,83.9,29.4,136,87,65,False,True,Sedentary,False,False,2024-12-09,38.6,3,Critical,True,Acute Coronary Syndrome
+P0755,46,Male,Telangana,A+,162.5,63.9,24.2,122,66,64,False,True,Moderate,False,False,2024-12-09,14.0,0,Low,True,Arrhythmia
+P0756,33,Male,Rajasthan,AB+,169.9,60.0,20.8,126,87,66,True,True,Moderate,False,False,2025-06-08,10.5,1,Low,False,None
+P0757,58,Female,Rajasthan,O-,166.4,49.6,17.9,133,81,82,False,False,Light,False,False,2024-06-14,16.3,1,Moderate,False,None
+P0758,43,Female,Madhya Pradesh,B-,167.4,78.7,28.1,115,76,84,False,False,Sedentary,False,False,2025-02-01,17.1,3,Moderate,False,None
+P0759,32,Male,Delhi,AB+,175.9,77.7,25.1,129,87,94,False,False,Active,True,True,2025-01-02,1.5,0,Low,False,None
+P0760,72,Female,Bihar,A-,161.0,67.1,25.9,117,91,71,True,False,Active,True,False,2025-09-08,30.3,3,Critical,False,None
+P0761,49,Female,Rajasthan,B+,160.2,68.3,26.6,122,77,76,False,False,Light,False,False,2025-11-30,12.3,1,Low,False,None
+P0762,30,Female,Gujarat,O+,151.5,62.7,27.3,141,76,62,False,False,Light,False,False,2025-09-10,1.0,2,Low,False,None
+P0763,71,Male,Punjab,O+,167.3,70.3,25.1,143,87,53,False,False,Light,True,False,2025-07-25,33.0,1,High,False,None
+P0764,40,Female,Telangana,A+,149.2,56.1,25.2,106,67,88,True,False,Moderate,False,False,2024-05-11,15.3,2,Moderate,False,None
+P0765,62,Male,Delhi,O+,179.9,94.2,29.1,138,79,85,False,False,Sedentary,True,False,2025-05-26,36.1,2,Critical,False,None
+P0766,70,Male,West Bengal,O+,175.8,66.4,21.5,147,92,74,True,False,Light,False,False,2024-03-06,41.5,4,Critical,True,Acute Coronary Syndrome
+P0767,63,Male,Haryana,O+,159.3,75.6,29.8,140,96,56,False,False,Sedentary,True,True,2024-08-08,34.7,4,Critical,False,None
+P0768,53,Male,Bihar,B+,168.3,77.3,27.3,129,85,74,False,True,Light,False,False,2025-02-04,17.9,1,Moderate,False,None
+P0769,56,Male,Tamil Nadu,B+,164.7,79.8,29.4,116,99,73,False,False,Light,False,True,2025-05-30,20.2,1,Moderate,False,None
+P0770,42,Female,Haryana,A+,149.9,55.1,24.5,148,70,69,False,False,Moderate,False,False,2025-05-06,9.0,1,Low,True,Arrhythmia
+P0771,63,Male,Uttar Pradesh,A+,165.3,71.3,26.1,157,85,90,True,False,Sedentary,False,True,2025-04-25,37.6,5,Critical,False,None
+P0772,62,Male,Uttar Pradesh,A+,173.1,79.4,26.5,123,87,72,True,False,Moderate,False,False,2024-09-17,33.8,3,Critical,True,Acute Coronary Syndrome
+P0773,51,Male,Uttar Pradesh,B+,177.4,79.6,25.3,104,93,69,True,True,Moderate,False,False,2024-03-13,24.8,2,High,True,Acute Coronary Syndrome
+P0774,68,Female,Punjab,A+,165.7,84.6,30.8,118,73,70,False,True,Sedentary,False,False,2025-09-27,21.7,1,High,True,Arrhythmia
+P0775,25,Male,Punjab,A+,170.1,88.0,30.4,100,90,60,False,False,Light,True,False,2025-08-06,1.0,2,Low,False,None
+P0776,72,Male,Uttar Pradesh,A-,169.6,84.3,29.3,136,73,86,False,False,Light,False,False,2024-07-01,40.8,1,Critical,False,None
+P0777,42,Male,Karnataka,O+,164.4,72.4,26.8,150,73,70,True,False,Sedentary,False,True,2025-06-06,21.5,2,Moderate,False,None
+P0778,85,Female,Maharashtra,O-,161.5,72.2,27.7,129,91,76,False,False,Sedentary,False,False,2024-08-29,34.6,3,Critical,False,None
+P0779,60,Female,Rajasthan,O+,150.9,59.0,25.9,116,81,70,False,False,Active,False,True,2024-06-23,18.0,1,Moderate,False,None
+P0780,58,Male,Karnataka,O+,165.7,81.8,29.8,133,78,94,False,False,Sedentary,False,False,2025-09-18,27.9,1,High,False,None
+P0781,60,Female,Andhra Pradesh,A+,152.7,68.3,29.3,125,74,84,False,False,Sedentary,False,False,2024-06-03,16.8,3,Moderate,False,None
+P0782,65,Female,Rajasthan,A+,164.4,88.1,32.6,153,91,89,False,False,Light,False,False,2024-04-24,34.0,3,Critical,True,Arrhythmia
+P0783,41,Male,Gujarat,B+,172.4,90.4,30.4,116,75,69,True,True,Sedentary,False,False,2024-01-19,23.1,3,High,False,None
+P0784,85,Male,Kerala,O+,164.0,83.4,31.0,140,82,68,False,False,Active,True,False,2024-02-05,46.5,1,Critical,True,Acute Coronary Syndrome
+P0785,48,Male,Haryana,AB+,170.2,80.2,27.7,125,88,76,False,True,Light,False,True,2024-07-09,16.7,0,Low,False,None
+P0786,60,Female,Punjab,O+,150.9,59.2,26.0,141,86,72,False,False,Moderate,False,False,2025-01-04,22.7,3,High,False,None
+P0787,51,Female,Kerala,B+,153.2,65.5,27.9,130,85,79,False,False,Sedentary,False,True,2025-04-19,12.1,1,Low,False,None
+P0788,28,Female,Tamil Nadu,A+,143.2,65.2,31.8,124,72,91,False,True,Moderate,False,True,2025-10-22,1.6,3,Low,False,None
+P0789,62,Female,Telangana,B+,156.7,76.9,31.3,122,70,78,False,False,Moderate,False,True,2025-08-19,31.7,4,Critical,True,Acute Coronary Syndrome
+P0790,36,Female,Haryana,O-,163.0,85.8,32.3,119,72,75,True,True,Light,True,False,2024-02-26,19.4,2,Moderate,False,None
+P0791,35,Male,Delhi,B+,174.4,72.4,23.8,129,70,69,False,True,Sedentary,True,False,2024-12-19,2.4,0,Low,False,None
+P0792,40,Male,Telangana,AB-,176.2,75.1,24.2,132,71,67,False,False,Active,False,False,2024-11-17,8.1,0,Low,False,None
+P0793,66,Male,Gujarat,B+,167.4,74.8,26.7,142,94,72,False,False,Light,True,False,2025-11-19,33.9,1,High,True,Acute Coronary Syndrome
+P0794,42,Male,Gujarat,A+,156.7,59.2,24.1,146,84,82,False,False,Moderate,False,True,2025-05-04,11.3,1,Low,False,None
+P0795,52,Male,Telangana,B+,165.6,76.5,27.9,142,84,84,True,False,Light,False,False,2025-03-23,32.4,4,High,False,None
+P0796,50,Female,Bihar,B+,155.4,68.8,28.5,133,89,85,False,False,Active,False,True,2024-05-31,16.2,2,Moderate,True,Arrhythmia
+P0797,53,Female,Haryana,O+,146.3,38.3,17.9,175,87,84,False,False,Sedentary,False,False,2025-07-11,18.2,1,Moderate,False,None
+P0798,54,Male,Maharashtra,A+,165.7,87.6,31.9,176,74,81,False,True,Light,False,False,2025-06-24,28.6,4,High,False,None
+P0799,57,Male,Haryana,O+,170.5,107.0,36.8,167,89,87,False,False,Sedentary,False,False,2024-10-25,31.9,5,Critical,True,Hypertensive Crisis
+P0800,50,Female,Andhra Pradesh,B+,172.0,91.1,30.8,138,81,77,False,True,Light,True,False,2025-01-18,10.4,3,Moderate,True,Arrhythmia
+P0801,78,Female,Telangana,O+,154.4,60.3,25.3,140,95,95,False,True,Sedentary,False,False,2024-11-06,29.5,2,Critical,True,Hypertensive Crisis
+P0802,44,Male,West Bengal,O+,167.3,68.3,24.4,138,96,67,False,False,Sedentary,False,True,2024-07-08,13.1,1,Low,False,None
+P0803,49,Male,Uttar Pradesh,A+,172.3,93.8,31.6,116,85,80,False,False,Active,True,False,2024-04-24,24.8,3,High,False,None
+P0804,43,Female,Haryana,A+,159.6,42.3,16.6,93,66,84,False,False,Light,True,False,2025-05-24,7.4,0,Low,False,None
+P0805,58,Male,Rajasthan,O+,170.6,94.3,32.4,142,82,68,True,False,Light,True,True,2025-06-18,35.4,7,Critical,True,Acute Coronary Syndrome
+P0806,36,Male,West Bengal,AB+,165.3,69.9,25.6,108,84,86,False,False,Moderate,False,False,2024-01-05,4.8,0,Low,False,None
+P0807,44,Male,West Bengal,A-,178.8,79.3,24.8,142,81,83,True,False,Light,True,True,2025-11-24,19.9,3,Moderate,False,None
+P0808,54,Male,Punjab,O+,175.7,77.2,25.0,137,93,83,False,False,Sedentary,False,False,2025-08-06,22.5,1,Moderate,False,None
+P0809,57,Male,Gujarat,O+,166.8,103.8,37.3,90,85,59,False,True,Sedentary,True,True,2025-10-30,29.4,3,High,False,None
+P0810,25,Female,Karnataka,B+,155.2,60.9,25.3,139,94,88,False,False,Sedentary,True,True,2025-08-21,1.0,1,Low,False,None
+P0811,40,Male,Punjab,A+,177.9,88.0,27.8,135,92,98,False,False,Moderate,False,True,2025-11-18,9.4,1,Low,False,None
+P0812,51,Female,Uttar Pradesh,B+,155.4,69.3,28.7,167,89,70,False,False,Moderate,False,False,2024-03-23,25.5,3,High,False,None
+P0813,53,Female,Rajasthan,O+,156.1,68.0,27.9,94,78,83,False,False,Light,True,False,2025-08-27,13.6,1,Low,False,None
+P0814,51,Male,Uttar Pradesh,O+,168.6,72.8,25.6,142,79,63,False,False,Light,False,False,2024-11-26,19.1,2,Moderate,False,None
+P0815,48,Male,Andhra Pradesh,B+,174.1,55.2,18.2,125,90,62,True,False,Light,False,True,2024-06-18,22.6,1,Moderate,False,None
+P0816,34,Male,Kerala,A-,165.9,66.6,24.2,127,88,79,False,False,Moderate,False,True,2024-05-16,3.6,0,Low,False,None
+P0817,38,Male,Punjab,O+,161.9,75.2,28.7,105,88,78,False,False,Moderate,True,False,2025-09-16,14.1,2,Moderate,False,None
+P0818,57,Male,Delhi,B+,180.3,58.2,17.9,136,85,65,False,False,Light,True,True,2025-06-24,22.9,0,Moderate,False,None
+P0819,47,Male,Bihar,AB+,169.1,91.8,32.1,116,82,92,False,True,Active,False,True,2025-02-06,19.6,3,Moderate,False,None
+P0820,61,Female,Andhra Pradesh,B+,144.6,39.5,18.9,174,80,77,True,False,Moderate,False,False,2024-12-26,31.6,4,Critical,False,None
+P0821,73,Male,Kerala,O+,175.3,92.8,30.2,122,94,77,False,False,Sedentary,False,True,2024-02-09,40.8,4,Critical,True,Acute Coronary Syndrome
+P0822,71,Male,Punjab,O+,172.6,87.0,29.2,141,97,74,False,True,Light,False,False,2025-03-08,40.3,3,Critical,False,None
+P0823,48,Female,Delhi,O-,143.5,55.4,26.9,121,75,70,False,False,Moderate,False,False,2024-07-12,7.7,0,Low,False,None
+P0824,53,Male,West Bengal,B+,180.1,86.6,26.7,134,88,69,False,False,Moderate,False,True,2025-12-13,17.9,0,Low,False,None
+P0825,59,Female,Tamil Nadu,B+,152.6,78.0,33.5,125,76,61,False,False,Light,False,False,2025-10-20,26.6,2,High,False,None
+P0826,35,Female,Bihar,A+,167.9,66.0,23.4,121,82,101,False,False,Sedentary,False,True,2024-04-04,2.2,0,Low,False,None
+P0827,27,Female,Gujarat,A+,152.0,70.0,30.3,119,83,78,False,False,Moderate,False,False,2024-12-20,1.4,3,Low,False,None
+P0828,59,Male,Telangana,B-,168.8,63.0,22.1,110,76,60,False,True,Light,False,True,2024-04-13,23.3,0,Moderate,False,None
+P0829,56,Female,Karnataka,A+,161.0,83.2,32.1,155,74,78,False,True,Light,True,True,2025-09-14,18.6,5,High,False,None
+P0830,45,Male,Haryana,A+,182.7,90.1,27.0,138,76,71,False,True,Sedentary,True,False,2024-12-26,13.3,0,Low,False,None
+P0831,67,Female,Delhi,O+,163.5,93.6,35.0,92,79,83,False,False,Sedentary,False,False,2025-06-02,20.3,2,High,False,None
+P0832,33,Female,Karnataka,A-,167.2,48.9,17.5,116,79,74,False,True,Light,True,False,2025-02-16,3.6,0,Low,False,None
+P0833,27,Male,Punjab,A+,163.9,81.1,30.2,127,81,67,True,True,Light,False,False,2025-03-10,9.2,2,Low,False,None
+P0834,80,Female,Punjab,A-,149.1,68.5,30.8,166,106,92,False,True,Sedentary,False,False,2025-04-07,36.0,5,Critical,True,Arrhythmia
+P0835,25,Male,Delhi,A+,174.3,49.5,16.3,90,82,69,False,False,Moderate,True,True,2024-09-03,1.0,0,Low,False,None
+P0836,52,Female,Karnataka,A+,160.7,74.6,28.9,119,79,61,False,False,Active,True,True,2025-08-09,19.7,3,Moderate,False,None
+P0837,74,Female,Gujarat,B+,146.1,66.0,30.9,146,91,91,False,False,Sedentary,False,True,2025-11-23,35.4,6,Critical,True,Acute Coronary Syndrome
+P0838,41,Female,Haryana,B+,149.8,54.5,24.3,120,76,56,False,False,Active,False,True,2024-12-09,5.9,0,Low,False,None
+P0839,62,Male,Punjab,B+,166.0,63.9,23.2,111,85,61,False,False,Light,False,False,2025-04-20,25.6,0,Moderate,False,None
+P0840,68,Male,Rajasthan,A+,178.4,117.1,36.8,124,79,88,False,False,Moderate,True,False,2025-09-25,35.4,3,Critical,True,Acute Coronary Syndrome
+P0841,63,Male,Madhya Pradesh,A+,165.0,74.3,27.3,170,75,77,False,False,Light,False,False,2025-07-12,34.4,1,High,True,Acute Coronary Syndrome
+P0842,28,Female,Gujarat,A+,162.2,67.9,25.8,115,89,60,False,False,Sedentary,False,False,2025-11-23,1.0,0,Low,False,None
+P0843,40,Male,Andhra Pradesh,O+,171.9,77.4,26.2,133,73,63,False,False,Moderate,False,True,2025-01-27,12.0,0,Low,True,Hypertensive Crisis
+P0844,44,Female,Andhra Pradesh,O+,158.4,58.2,23.2,118,80,73,False,False,Light,False,True,2024-11-27,11.4,1,Low,False,None
+P0845,60,Female,Delhi,AB+,164.4,86.2,31.9,132,99,79,False,False,Sedentary,False,False,2025-10-07,18.5,2,Moderate,False,None
+P0846,60,Male,Karnataka,A+,172.3,82.5,27.8,160,93,88,False,False,Sedentary,True,True,2025-12-05,28.3,1,High,True,Acute Coronary Syndrome
+P0847,51,Male,Karnataka,A+,169.8,73.8,25.6,144,91,72,False,True,Sedentary,False,False,2025-03-01,21.8,1,Moderate,False,None
+P0848,80,Female,Tamil Nadu,B+,151.1,63.0,27.6,91,85,64,False,False,Sedentary,False,False,2024-12-12,28.8,1,High,False,None
+P0849,40,Female,Delhi,A+,161.3,72.6,27.9,90,85,66,False,False,Sedentary,False,False,2025-11-27,5.6,1,Low,False,None
+P0850,40,Male,West Bengal,B-,171.4,72.9,24.8,114,93,50,False,False,Sedentary,False,False,2024-05-03,8.4,1,Low,True,Arrhythmia
+P0851,55,Male,Kerala,B-,159.2,84.4,33.3,139,91,86,False,False,Light,True,True,2025-07-31,23.5,2,Moderate,False,None
+P0852,42,Male,Gujarat,O-,166.7,58.6,21.1,130,73,72,False,False,Moderate,False,False,2025-10-31,10.4,0,Low,False,None
+P0853,85,Female,Delhi,O+,148.1,77.9,35.5,142,83,67,False,False,Light,False,True,2025-01-03,35.8,7,Critical,False,None
+P0854,55,Male,West Bengal,O+,151.1,82.9,36.3,129,89,70,False,False,Light,True,True,2024-12-15,21.8,3,High,True,Hypertensive Crisis
+P0855,48,Male,Rajasthan,O+,173.8,86.4,28.6,133,79,85,False,False,Active,False,True,2024-07-20,21.0,1,Moderate,False,None
+P0856,43,Male,Bihar,O+,179.4,86.3,26.8,138,76,66,False,True,Light,False,True,2025-08-06,15.5,0,Low,False,None
+P0857,55,Female,Andhra Pradesh,B+,166.9,81.1,29.1,154,77,82,False,True,Sedentary,True,True,2024-07-11,19.6,4,High,True,Acute Coronary Syndrome
+P0858,31,Male,Punjab,A+,167.2,73.2,26.2,126,84,90,True,False,Light,True,True,2025-10-14,9.3,1,Low,False,None
+P0859,57,Male,Kerala,A+,181.4,87.9,26.7,128,82,75,False,True,Light,False,False,2025-05-10,23.6,0,Moderate,False,None
+P0860,59,Male,Maharashtra,A+,169.3,67.4,23.5,125,96,66,False,True,Light,False,True,2024-08-03,25.1,1,High,False,None
+P0861,51,Male,Rajasthan,O-,171.8,82.1,27.8,114,87,85,False,False,Sedentary,False,False,2025-08-17,16.0,0,Low,False,None
+P0862,52,Male,Uttar Pradesh,O+,184.2,95.7,28.2,154,74,82,True,False,Sedentary,False,True,2025-08-27,28.8,4,High,False,None
+P0863,37,Male,West Bengal,O+,153.5,48.3,20.5,148,77,85,False,False,Light,False,False,2025-02-08,9.3,1,Low,False,None
+P0864,55,Female,Uttar Pradesh,O+,144.9,44.3,21.1,150,68,90,False,False,Moderate,False,True,2025-01-11,16.5,2,Moderate,False,None
+P0865,58,Male,Rajasthan,B+,181.3,76.6,23.3,164,87,60,False,False,Moderate,False,False,2025-05-01,26.5,1,High,False,None
+P0866,68,Female,Uttar Pradesh,O+,152.7,70.9,30.4,114,78,71,False,False,Moderate,True,False,2024-07-04,25.0,4,High,False,None
+P0867,30,Female,Haryana,B+,154.8,70.7,29.5,94,68,89,False,False,Sedentary,False,False,2024-08-01,8.0,1,Low,False,None
+P0868,53,Female,Tamil Nadu,A+,170.3,57.1,19.7,135,90,65,False,False,Moderate,False,False,2024-12-07,13.7,1,Low,False,None
+P0869,25,Female,Delhi,A+,170.3,76.3,26.3,133,73,71,False,False,Sedentary,False,False,2024-03-01,1.0,0,Low,False,None
+P0870,53,Male,Rajasthan,B+,173.8,81.0,26.8,142,108,51,False,False,Light,True,True,2025-07-08,22.3,1,Moderate,False,None
+P0871,71,Male,Telangana,O+,163.5,85.3,31.9,139,89,93,False,True,Light,True,False,2024-08-09,39.9,1,Critical,True,Acute Coronary Syndrome
+P0872,67,Male,Haryana,B+,180.9,84.1,25.7,113,80,72,False,False,Sedentary,False,False,2024-07-01,30.1,2,High,False,None
+P0873,53,Male,Haryana,AB+,165.6,72.7,26.5,134,75,68,False,False,Moderate,False,False,2024-07-30,20.3,0,Moderate,True,Arrhythmia
+P0874,85,Male,Karnataka,B+,171.7,89.6,30.4,110,89,84,True,False,Active,True,True,2024-09-17,61.0,4,Critical,True,Arrhythmia
+P0875,31,Male,Rajasthan,O+,167.0,70.3,25.2,140,75,59,False,False,Moderate,False,False,2024-09-05,2.8,0,Low,True,Hypertensive Crisis
+P0876,47,Female,Telangana,O+,161.1,63.1,24.3,114,81,74,False,False,Light,True,True,2025-11-24,10.1,0,Low,False,None
+P0877,28,Male,West Bengal,B+,172.1,61.6,20.8,106,73,65,False,False,Light,True,True,2025-02-23,1.0,0,Low,False,None
+P0878,47,Male,Delhi,A+,160.9,67.1,25.9,119,82,74,True,True,Sedentary,False,True,2024-03-03,23.5,1,Moderate,True,Acute Coronary Syndrome
+P0879,55,Male,Bihar,O+,163.0,72.0,27.1,158,87,67,False,False,Light,False,False,2024-04-17,22.0,2,Moderate,True,Hypertensive Crisis
+P0880,59,Male,Punjab,B+,163.1,72.6,27.3,124,77,86,False,True,Light,True,True,2024-04-27,25.8,0,Moderate,False,None
+P0881,31,Male,Telangana,A-,164.6,70.2,25.9,111,90,82,False,True,Light,True,True,2024-06-28,1.7,1,Low,False,None
+P0882,47,Male,Tamil Nadu,A+,177.0,79.9,25.5,124,76,75,False,False,Sedentary,False,False,2024-10-24,12.7,0,Low,False,None
+P0883,37,Male,Telangana,B+,177.9,64.6,20.4,144,77,78,True,True,Moderate,False,False,2025-06-23,15.3,2,Moderate,True,Arrhythmia
+P0884,44,Male,Rajasthan,O+,157.3,63.1,25.5,153,85,70,False,True,Light,False,False,2024-04-28,16.9,1,Moderate,False,None
+P0885,46,Female,Madhya Pradesh,B+,164.9,83.2,30.6,121,91,91,True,False,Moderate,False,True,2025-07-02,19.4,5,High,False,None
+P0886,55,Male,Karnataka,B+,176.3,103.2,33.2,140,81,90,False,False,Moderate,True,True,2024-06-15,24.2,3,High,False,None
+P0887,64,Male,Uttar Pradesh,O+,162.0,52.8,20.1,125,81,51,False,True,Sedentary,False,False,2024-02-19,26.0,1,High,False,None
+P0888,69,Male,West Bengal,A-,173.1,64.4,21.5,135,86,91,False,False,Moderate,True,True,2024-11-18,36.7,2,Critical,True,Arrhythmia
+P0889,25,Female,Punjab,B+,161.5,65.2,25.0,138,73,70,False,False,Sedentary,False,True,2024-11-12,1.0,0,Low,False,None
+P0890,54,Female,Telangana,A+,156.7,44.4,18.1,94,92,87,False,False,Light,False,True,2024-09-14,13.8,2,Moderate,False,None
+P0891,71,Female,Andhra Pradesh,O+,164.2,73.3,27.2,141,98,66,False,False,Moderate,True,True,2025-02-25,28.3,2,High,False,None
+P0892,64,Female,Delhi,B+,149.7,90.3,40.3,134,88,67,False,False,Sedentary,False,True,2024-12-27,28.6,3,High,False,None
+P0893,57,Male,Tamil Nadu,O+,170.9,88.5,30.3,134,83,76,False,False,Moderate,True,False,2024-11-18,23.1,1,Moderate,False,None
+P0894,76,Male,Rajasthan,B+,174.2,78.3,25.8,147,93,94,False,False,Sedentary,False,True,2024-02-18,44.7,3,Critical,True,Hypertensive Crisis
+P0895,54,Female,West Bengal,O+,162.7,78.6,29.7,137,84,76,False,False,Sedentary,False,False,2024-06-09,20.1,1,Moderate,False,None
+P0896,31,Male,Telangana,B-,178.5,74.2,23.3,140,70,71,True,False,Sedentary,True,False,2025-10-08,10.0,1,Low,False,None
+P0897,47,Female,Kerala,AB+,155.9,77.8,32.0,96,92,95,False,True,Moderate,True,False,2024-11-22,11.8,4,Moderate,False,None
+P0898,48,Female,Karnataka,O+,161.6,61.1,23.4,129,93,56,False,False,Light,False,True,2024-10-29,13.2,1,Low,False,None
+P0899,49,Female,West Bengal,B+,156.3,42.0,17.2,102,102,91,False,False,Sedentary,True,False,2025-12-03,16.2,2,Moderate,False,None
+P0900,49,Female,Andhra Pradesh,B+,163.9,46.5,17.3,129,82,67,False,False,Active,False,False,2025-08-20,12.9,0,Low,False,None
+P0901,44,Female,Punjab,A+,157.1,64.4,26.1,103,76,59,False,True,Sedentary,False,False,2025-03-29,9.0,0,Low,False,None
+P0902,47,Female,Kerala,AB-,167.0,85.6,30.7,126,82,84,False,False,Sedentary,True,True,2025-06-24,11.4,2,Low,False,None
+P0903,61,Female,Gujarat,A+,157.0,81.6,33.1,135,107,64,False,False,Moderate,False,False,2024-01-16,25.6,4,High,True,Hypertensive Crisis
+P0904,25,Female,Bihar,O+,166.7,94.8,34.1,148,98,87,False,False,Light,False,False,2025-10-27,6.8,4,Moderate,True,Hypertensive Crisis
+P0905,34,Female,West Bengal,A+,152.8,42.5,18.2,137,85,70,False,False,Light,False,False,2025-11-15,3.8,0,Low,False,None
+P0906,48,Female,Andhra Pradesh,O+,160.2,63.1,24.6,110,63,77,False,False,Light,False,True,2025-08-17,12.0,3,Moderate,True,Hypertensive Crisis
+P0907,35,Male,Bihar,B+,173.0,47.9,16.0,108,80,76,True,False,Sedentary,True,True,2025-03-23,10.7,1,Low,False,None
+P0908,25,Female,Bihar,B+,163.1,68.6,25.8,124,70,67,True,False,Sedentary,True,True,2024-10-22,7.0,1,Low,False,None
+P0909,35,Female,Kerala,O-,154.2,58.7,24.7,116,76,77,False,False,Active,False,False,2025-01-05,4.6,0,Low,False,None
+P0910,46,Female,Kerala,O+,159.2,65.9,26.0,133,96,81,False,False,Moderate,True,True,2024-01-05,14.8,2,Moderate,False,None
+P0911,40,Female,Maharashtra,B+,154.8,58.7,24.5,131,79,88,False,True,Light,True,False,2024-09-30,6.9,0,Low,False,None
+P0912,72,Male,West Bengal,B+,176.8,93.5,29.9,139,76,80,False,True,Sedentary,True,True,2024-08-19,40.3,1,Critical,False,None
+P0913,42,Female,Maharashtra,B+,152.0,52.4,22.7,114,86,60,False,False,Moderate,False,True,2025-08-08,5.5,1,Low,False,None
+P0914,53,Female,Haryana,O-,165.6,81.4,29.7,143,79,56,True,True,Light,False,False,2024-10-29,23.7,4,High,True,Acute Coronary Syndrome
+P0915,58,Male,Maharashtra,B+,172.3,76.6,25.8,116,80,67,False,True,Light,False,True,2025-10-24,23.5,0,Moderate,False,None
+P0916,73,Female,Gujarat,O+,155.9,49.3,20.3,131,78,92,False,True,Moderate,False,False,2025-11-23,28.3,2,High,False,None
+P0917,55,Male,Gujarat,O+,170.2,72.1,24.9,118,103,50,False,True,Light,True,False,2025-10-11,21.8,1,Moderate,False,None
+P0918,55,Male,Uttar Pradesh,B+,162.1,57.5,21.9,144,88,75,True,True,Light,False,False,2024-11-21,30.1,3,High,False,None
+P0919,40,Female,Punjab,O+,162.8,55.1,20.8,103,73,72,False,False,Sedentary,False,False,2025-02-22,5.9,1,Low,False,None
+P0920,70,Male,Telangana,B+,170.2,64.3,22.2,117,70,70,False,False,Moderate,True,False,2025-08-03,31.7,0,High,False,None
+P0921,59,Female,Karnataka,A+,148.2,64.1,29.2,123,81,92,False,False,Sedentary,False,False,2025-07-24,17.7,1,Moderate,False,None
+P0922,79,Male,Maharashtra,B+,176.6,89.5,28.7,141,73,71,False,False,Moderate,False,False,2025-02-28,47.4,3,Critical,False,None
+P0923,43,Male,Uttar Pradesh,B+,170.2,70.1,24.2,123,66,82,True,False,Sedentary,False,True,2025-09-13,18.6,1,Moderate,False,None
+P0924,42,Female,Maharashtra,A+,153.3,72.1,30.7,113,78,66,False,True,Light,False,False,2025-04-13,8.7,4,Moderate,False,None
+P0925,33,Female,Karnataka,O+,158.5,55.3,22.0,130,90,65,False,False,Moderate,False,False,2025-11-28,2.3,0,Low,False,None
+P0926,35,Female,Bihar,B+,151.9,80.1,34.7,110,68,77,False,False,Sedentary,True,True,2024-06-20,3.7,0,Low,False,None
+P0927,48,Male,Kerala,O+,165.2,85.1,31.2,111,81,76,False,False,Sedentary,False,True,2025-01-14,22.3,1,Moderate,False,None
+P0928,41,Female,West Bengal,B-,160.2,64.9,25.3,119,91,70,False,False,Sedentary,False,True,2024-06-19,7.2,1,Low,False,None
+P0929,58,Female,Telangana,O+,157.4,49.5,20.0,139,100,85,True,False,Light,False,False,2024-07-30,26.0,3,High,False,None
+P0930,39,Female,Karnataka,O+,161.8,54.2,20.7,118,80,79,False,False,Light,False,False,2024-12-04,5.9,0,Low,False,None
+P0931,58,Male,Gujarat,A+,159.0,71.8,28.4,131,80,84,False,True,Moderate,False,True,2025-01-12,28.7,1,High,True,Arrhythmia
+P0932,73,Male,Haryana,A+,165.8,59.1,21.5,128,84,78,False,False,Sedentary,True,False,2024-01-23,37.0,0,Critical,False,None
+P0933,58,Male,Gujarat,O+,172.2,102.6,34.6,149,70,77,False,True,Sedentary,False,True,2024-10-29,27.0,1,High,True,Acute Coronary Syndrome
+P0934,34,Female,Telangana,B-,157.6,70.5,28.4,113,77,57,False,False,Sedentary,False,False,2024-09-18,2.3,2,Low,False,None
+P0935,74,Male,Telangana,B+,161.4,71.6,27.5,93,66,82,False,False,Sedentary,True,False,2025-06-03,33.8,1,Critical,True,Acute Coronary Syndrome
+P0936,25,Female,Madhya Pradesh,O+,153.5,89.5,38.0,126,82,70,False,False,Active,True,True,2025-06-11,4.8,2,Low,False,None
+P0937,56,Male,Maharashtra,A-,171.9,83.3,28.2,128,81,63,True,False,Light,True,False,2025-09-11,30.3,3,High,False,None
+P0938,46,Female,Haryana,AB+,160.0,78.8,30.8,125,55,70,False,False,Moderate,False,True,2024-11-10,7.1,3,Low,False,None
+P0939,55,Female,Delhi,O+,161.4,62.3,23.9,168,79,95,False,False,Moderate,False,False,2025-07-16,20.8,2,Moderate,False,None
+P0940,60,Female,Haryana,O+,159.4,65.6,25.8,118,88,83,False,False,Light,False,False,2024-05-08,17.1,1,Moderate,False,None
+P0941,67,Female,Gujarat,A+,151.4,76.1,33.2,149,72,74,False,False,Active,False,True,2025-10-14,36.1,4,Critical,True,Acute Coronary Syndrome
+P0942,73,Female,West Bengal,B+,151.2,60.4,26.4,147,85,75,False,False,Moderate,False,False,2024-12-29,26.3,3,High,False,None
+P0943,42,Male,Gujarat,A+,178.7,95.8,30.0,121,80,54,False,False,Moderate,True,False,2025-12-15,16.4,1,Moderate,False,None
+P0944,45,Male,Karnataka,O+,192.1,79.3,21.5,132,81,63,False,True,Sedentary,False,True,2024-04-09,13.0,0,Low,False,None
+P0945,25,Female,Punjab,O+,163.6,77.6,29.0,113,97,74,True,False,Sedentary,False,False,2025-04-28,4.7,3,Low,False,None
+P0946,42,Male,Maharashtra,B+,163.5,72.7,27.2,131,72,93,True,True,Sedentary,True,True,2025-02-18,18.7,1,Moderate,False,None
+P0947,42,Female,Delhi,O+,157.3,71.0,28.7,118,88,57,False,False,Light,False,False,2024-01-21,5.0,2,Low,False,None
+P0948,69,Male,Bihar,B+,171.5,91.8,31.2,138,73,70,False,False,Sedentary,True,True,2025-12-05,36.7,2,Critical,True,Acute Coronary Syndrome
+P0949,50,Male,Telangana,A+,173.7,65.5,21.7,101,86,74,False,True,Sedentary,False,False,2024-11-02,18.3,0,Moderate,False,None
+P0950,64,Male,Bihar,O-,172.9,70.6,23.6,143,90,83,False,False,Light,False,False,2025-04-04,29.4,1,High,False,None
+P0951,28,Male,Bihar,B+,175.1,88.0,28.7,127,78,74,False,True,Moderate,False,False,2025-03-14,1.0,1,Low,False,None
+P0952,54,Female,West Bengal,A+,157.5,68.5,27.6,128,98,78,False,False,Light,True,True,2025-05-29,13.0,2,Moderate,False,None
+P0953,71,Male,Delhi,O+,165.3,78.4,28.7,136,81,66,False,True,Moderate,False,False,2024-01-22,44.5,4,Critical,True,Hypertensive Crisis
+P0954,36,Male,Andhra Pradesh,O+,170.4,81.0,27.9,116,77,80,True,False,Moderate,True,False,2024-03-06,14.6,1,Low,False,None
+P0955,79,Female,Rajasthan,AB+,155.8,60.7,25.0,146,86,62,False,False,Sedentary,False,False,2025-05-14,31.0,2,Critical,True,Acute Coronary Syndrome
+P0956,55,Female,Andhra Pradesh,B+,156.6,64.7,26.4,135,73,63,False,False,Active,False,True,2024-11-28,19.4,2,Moderate,True,Arrhythmia
+P0957,32,Female,Rajasthan,O+,158.4,71.3,28.4,115,88,71,False,False,Sedentary,False,True,2024-04-15,12.7,3,Moderate,False,None
+P0958,44,Female,West Bengal,A+,154.6,62.6,26.2,123,73,89,False,False,Sedentary,False,False,2025-11-04,7.4,0,Low,False,None
+P0959,25,Female,West Bengal,B+,164.8,61.7,22.7,108,76,77,False,False,Sedentary,False,True,2024-12-24,1.0,0,Low,False,None
+P0960,65,Male,Andhra Pradesh,B+,174.2,78.0,25.7,137,64,73,False,False,Active,False,True,2024-05-21,31.6,0,High,False,None
+P0961,67,Male,Madhya Pradesh,O+,162.2,66.6,25.3,134,72,85,False,False,Light,False,True,2024-02-09,31.2,0,High,True,Hypertensive Crisis
+P0962,33,Female,Haryana,B+,145.3,65.0,30.8,109,83,68,False,False,Light,False,True,2024-07-21,8.5,2,Low,False,None
+P0963,43,Female,Telangana,O+,156.3,47.1,19.3,111,75,63,False,False,Moderate,False,True,2024-10-21,9.3,1,Low,False,None
+P0964,45,Female,Karnataka,A+,158.4,47.4,18.9,135,76,69,False,False,Sedentary,False,False,2024-09-11,9.0,0,Low,False,None
+P0965,51,Male,Maharashtra,AB-,177.6,75.4,23.9,133,97,86,True,False,Light,False,False,2024-06-13,24.9,3,High,True,Acute Coronary Syndrome
+P0966,49,Male,Gujarat,AB-,166.7,61.4,22.1,115,82,96,True,True,Moderate,False,False,2024-12-19,23.2,1,Moderate,True,Acute Coronary Syndrome
+P0967,67,Female,Maharashtra,AB+,153.6,62.0,26.3,116,103,82,True,False,Sedentary,False,True,2024-09-10,30.1,4,Critical,False,None
+P0968,25,Male,Gujarat,B+,176.2,70.5,22.7,105,69,77,True,False,Moderate,True,False,2024-09-19,4.6,1,Low,False,None
+P0969,75,Male,Haryana,O+,176.2,75.8,24.4,132,88,73,False,False,Light,False,False,2025-08-14,37.3,0,Critical,True,Arrhythmia
+P0970,62,Male,Punjab,AB+,178.2,81.9,25.8,158,74,75,True,False,Moderate,False,True,2025-11-14,39.3,2,Critical,False,None
+P0971,54,Male,Telangana,AB+,172.1,64.0,21.6,133,100,76,True,False,Sedentary,False,True,2024-10-21,29.0,2,High,False,None
+P0972,44,Male,Uttar Pradesh,O+,171.4,75.5,25.7,120,76,78,True,False,Moderate,False,True,2024-08-04,20.5,1,Moderate,False,None
+P0973,36,Female,Gujarat,B+,153.4,68.9,29.3,119,92,62,False,False,Light,False,True,2025-08-07,9.9,3,Moderate,False,None
+P0974,43,Male,Andhra Pradesh,A+,165.9,53.7,19.5,123,90,58,False,False,Light,True,False,2025-10-08,10.6,0,Low,False,None
+P0975,34,Male,Kerala,B+,164.3,60.2,22.3,132,69,76,True,False,Light,True,False,2024-11-23,11.3,1,Low,False,None
+P0976,53,Male,Telangana,A-,175.6,101.8,33.0,132,107,55,False,False,Light,True,False,2024-07-14,21.3,4,High,True,Acute Coronary Syndrome
+P0977,53,Male,Andhra Pradesh,B+,169.0,58.0,20.3,135,86,68,False,False,Light,True,False,2025-10-10,19.3,0,Moderate,False,None
+P0978,52,Male,Haryana,O-,180.6,93.0,28.5,90,71,95,False,False,Sedentary,True,False,2024-03-04,21.0,1,Moderate,False,None
+P0979,55,Female,Haryana,O+,154.9,85.9,35.8,104,85,77,False,False,Sedentary,False,True,2024-12-31,13.8,3,Moderate,False,None
+P0980,42,Female,Tamil Nadu,B-,145.7,50.7,23.9,132,65,74,False,False,Active,True,False,2024-01-16,7.9,0,Low,False,None
+P0981,25,Female,Maharashtra,A+,143.4,33.5,16.3,129,97,74,True,False,Sedentary,False,True,2025-08-04,7.7,2,Low,False,None
+P0982,48,Female,Maharashtra,O+,153.8,80.4,34.0,101,82,81,False,False,Active,False,False,2025-02-22,17.5,1,Moderate,False,None
+P0983,43,Female,Karnataka,O+,146.4,42.2,19.7,148,80,85,False,False,Moderate,True,False,2024-02-10,9.1,1,Low,False,None
+P0984,67,Female,Tamil Nadu,B+,151.9,68.1,29.5,129,69,75,False,False,Active,False,True,2024-09-28,29.6,3,High,False,None
+P0985,49,Male,Punjab,A+,171.4,81.1,27.6,131,88,72,True,False,Sedentary,False,False,2024-06-23,24.3,1,Moderate,False,None
+P0986,55,Male,Punjab,A+,176.7,91.2,29.2,137,79,72,True,False,Light,False,False,2025-05-19,29.8,3,High,False,None
+P0987,59,Male,Maharashtra,B+,157.8,54.8,22.0,144,96,67,False,True,Active,True,False,2024-02-23,27.5,1,High,False,None
+P0988,34,Male,Rajasthan,B+,172.9,92.7,31.0,128,70,72,False,False,Light,True,False,2025-08-29,5.5,2,Low,False,None
+P0989,52,Male,Haryana,B+,171.5,63.8,21.7,148,109,76,False,False,Moderate,False,True,2025-05-21,22.8,3,High,False,None
+P0990,44,Male,Delhi,O+,176.6,80.5,25.8,99,94,74,False,False,Moderate,False,True,2024-02-01,15.3,3,Moderate,False,None
+P0991,48,Female,Kerala,B+,160.8,59.2,22.9,137,87,70,False,False,Moderate,False,False,2025-08-08,11.3,1,Low,False,None
+P0992,46,Female,Rajasthan,O+,152.3,74.0,31.9,106,86,85,False,False,Moderate,False,False,2024-01-25,16.0,3,Moderate,False,None
+P0993,53,Female,Madhya Pradesh,A+,158.5,77.1,30.7,138,82,77,False,True,Moderate,False,True,2024-07-11,15.2,2,Moderate,False,None
+P0994,74,Female,Tamil Nadu,B+,160.0,67.8,26.5,139,90,84,False,False,Active,True,True,2024-06-03,26.9,2,High,False,None
+P0995,38,Female,Bihar,A+,155.9,82.4,33.9,128,84,75,False,False,Moderate,False,True,2025-10-13,7.0,1,Low,False,None
+P0996,54,Male,Madhya Pradesh,B+,177.5,94.5,30.0,118,97,81,True,True,Moderate,True,False,2024-01-16,37.5,3,Critical,False,None
+P0997,61,Male,Tamil Nadu,A-,181.7,121.8,36.9,134,82,71,True,False,Sedentary,False,True,2025-04-27,35.2,3,Critical,True,Hypertensive Crisis
+P0998,53,Female,Karnataka,B+,158.4,64.5,25.7,95,96,76,False,False,Light,True,True,2024-04-28,13.0,3,Moderate,False,None
+P0999,37,Male,Tamil Nadu,O+,161.8,69.4,26.5,114,84,55,False,False,Light,False,False,2024-07-04,8.6,1,Low,False,None
+P1000,51,Female,West Bengal,B+,160.8,64.6,25.0,130,78,73,False,False,Sedentary,False,False,2024-04-08,13.6,1,Low,False,None

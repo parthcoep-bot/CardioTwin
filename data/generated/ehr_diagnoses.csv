@@ -1,0 +1,1755 @@
+patient_id,icd10_code,description,diagnosis_date,status
+P0001,I10,Essential hypertension,2020-10-15,Active
+P0001,I11.9,Hypertensive heart disease without heart failure,2021-01-02,Active
+P0001,F17.210,"Nicotine dependence, cigarettes",2020-07-14,Active
+P0003,I10,Essential hypertension,2022-11-01,Active
+P0003,I11.9,Hypertensive heart disease without heart failure,2023-08-08,Active
+P0005,I10,Essential hypertension,2024-03-25,Active
+P0005,E11.9,Type 2 diabetes mellitus without complications,2021-10-12,Active
+P0005,G47.33,Obstructive sleep apnea,2024-06-21,Resolved
+P0006,E11.9,Type 2 diabetes mellitus without complications,2023-05-12,Active
+P0006,E11.65,Type 2 diabetes with hyperglycemia,2021-07-13,Resolved
+P0007,I10,Essential hypertension,2022-06-09,Active
+P0008,E78.5,"Dyslipidemia, unspecified",2022-05-24,Active
+P0009,F17.210,"Nicotine dependence, cigarettes",2023-04-22,Active
+P0010,I10,Essential hypertension,2024-05-07,Resolved
+P0010,E11.9,Type 2 diabetes mellitus without complications,2025-01-14,Active
+P0010,E11.65,Type 2 diabetes with hyperglycemia,2020-11-11,Active
+P0010,N18.3,"Chronic kidney disease, stage 3",2023-03-30,Active
+P0011,I10,Essential hypertension,2021-03-14,Resolved
+P0011,E11.9,Type 2 diabetes mellitus without complications,2021-04-27,Active
+P0011,I25.10,Atherosclerotic heart disease,2024-04-12,Active
+P0013,E11.9,Type 2 diabetes mellitus without complications,2021-10-11,Active
+P0014,I10,Essential hypertension,2024-11-15,Active
+P0015,I10,Essential hypertension,2022-03-20,Active
+P0015,E11.9,Type 2 diabetes mellitus without complications,2021-09-28,Active
+P0016,I10,Essential hypertension,2023-06-09,Resolved
+P0016,I11.9,Hypertensive heart disease without heart failure,2024-07-23,Resolved
+P0017,E11.9,Type 2 diabetes mellitus without complications,2023-09-10,Active
+P0018,E78.5,"Dyslipidemia, unspecified",2020-08-31,Active
+P0019,I10,Essential hypertension,2023-03-29,Resolved
+P0019,E11.9,Type 2 diabetes mellitus without complications,2021-02-18,Active
+P0019,G47.33,Obstructive sleep apnea,2022-08-27,Active
+P0020,E78.5,"Dyslipidemia, unspecified",2020-06-22,Active
+P0020,N18.3,"Chronic kidney disease, stage 3",2020-09-01,Resolved
+P0021,I10,Essential hypertension,2023-04-19,Resolved
+P0021,F17.210,"Nicotine dependence, cigarettes",2020-09-13,Active
+P0022,I10,Essential hypertension,2024-05-29,Active
+P0022,E11.9,Type 2 diabetes mellitus without complications,2023-04-09,Active
+P0022,E78.5,"Dyslipidemia, unspecified",2023-09-27,Active
+P0022,E66.01,Morbid obesity due to excess calories,2020-07-05,Active
+P0022,N18.3,"Chronic kidney disease, stage 3",2021-09-01,Active
+P0024,E11.9,Type 2 diabetes mellitus without complications,2021-10-24,Active
+P0024,E11.65,Type 2 diabetes with hyperglycemia,2021-09-28,Active
+P0024,I25.10,Atherosclerotic heart disease,2024-06-29,Active
+P0024,N18.3,"Chronic kidney disease, stage 3",2021-11-25,Active
+P0025,I10,Essential hypertension,2024-06-06,Active
+P0025,E78.5,"Dyslipidemia, unspecified",2022-02-13,Active
+P0025,F17.210,"Nicotine dependence, cigarettes",2024-12-23,Active
+P0026,I10,Essential hypertension,2021-10-10,Active
+P0026,I11.9,Hypertensive heart disease without heart failure,2020-06-25,Resolved
+P0026,E11.9,Type 2 diabetes mellitus without complications,2022-12-05,Active
+P0027,E11.9,Type 2 diabetes mellitus without complications,2022-06-04,Resolved
+P0027,N18.3,"Chronic kidney disease, stage 3",2021-08-13,Active
+P0027,G47.33,Obstructive sleep apnea,2023-05-26,Resolved
+P0028,E11.9,Type 2 diabetes mellitus without complications,2023-04-19,Active
+P0028,E11.65,Type 2 diabetes with hyperglycemia,2023-05-24,Active
+P0028,N18.3,"Chronic kidney disease, stage 3",2022-12-04,Active
+P0028,G47.33,Obstructive sleep apnea,2024-06-30,Active
+P0029,I10,Essential hypertension,2024-05-19,Active
+P0029,N18.3,"Chronic kidney disease, stage 3",2023-05-30,Active
+P0030,I10,Essential hypertension,2021-03-22,Active
+P0030,I11.9,Hypertensive heart disease without heart failure,2020-06-28,Active
+P0030,E11.9,Type 2 diabetes mellitus without complications,2022-12-10,Active
+P0031,I10,Essential hypertension,2022-02-07,Active
+P0031,N18.3,"Chronic kidney disease, stage 3",2023-04-27,Active
+P0033,F17.210,"Nicotine dependence, cigarettes",2022-04-02,Resolved
+P0034,I10,Essential hypertension,2025-04-03,Active
+P0034,E11.9,Type 2 diabetes mellitus without complications,2023-02-09,Resolved
+P0034,E78.5,"Dyslipidemia, unspecified",2023-10-04,Active
+P0034,E66.01,Morbid obesity due to excess calories,2023-06-13,Active
+P0034,I25.10,Atherosclerotic heart disease,2021-10-13,Active
+P0035,I10,Essential hypertension,2023-03-02,Active
+P0035,E11.9,Type 2 diabetes mellitus without complications,2021-02-12,Active
+P0035,E78.5,"Dyslipidemia, unspecified",2021-12-30,Resolved
+P0035,F17.210,"Nicotine dependence, cigarettes",2022-09-13,Active
+P0036,N18.3,"Chronic kidney disease, stage 3",2021-10-06,Active
+P0038,I10,Essential hypertension,2022-01-11,Active
+P0038,E11.9,Type 2 diabetes mellitus without complications,2024-02-10,Active
+P0038,E11.65,Type 2 diabetes with hyperglycemia,2021-08-18,Active
+P0039,I10,Essential hypertension,2024-11-18,Active
+P0040,I10,Essential hypertension,2023-03-10,Active
+P0040,E11.9,Type 2 diabetes mellitus without complications,2023-04-19,Active
+P0040,E11.65,Type 2 diabetes with hyperglycemia,2020-09-25,Active
+P0041,I10,Essential hypertension,2020-06-30,Active
+P0041,N18.3,"Chronic kidney disease, stage 3",2024-08-12,Resolved
+P0042,I10,Essential hypertension,2021-01-24,Resolved
+P0043,E11.9,Type 2 diabetes mellitus without complications,2021-12-16,Active
+P0043,E11.65,Type 2 diabetes with hyperglycemia,2021-01-25,Active
+P0043,F17.210,"Nicotine dependence, cigarettes",2022-02-06,Resolved
+P0044,I10,Essential hypertension,2024-06-19,Active
+P0044,E11.9,Type 2 diabetes mellitus without complications,2024-12-20,Active
+P0044,N18.3,"Chronic kidney disease, stage 3",2024-02-19,Resolved
+P0044,G47.33,Obstructive sleep apnea,2022-05-06,Resolved
+P0045,E78.5,"Dyslipidemia, unspecified",2023-08-06,Active
+P0045,F17.210,"Nicotine dependence, cigarettes",2020-12-29,Active
+P0045,I25.10,Atherosclerotic heart disease,2024-08-22,Active
+P0046,I10,Essential hypertension,2025-01-20,Active
+P0047,E11.9,Type 2 diabetes mellitus without complications,2023-06-08,Active
+P0047,E78.5,"Dyslipidemia, unspecified",2021-06-19,Active
+P0049,I10,Essential hypertension,2022-11-28,Active
+P0049,E11.9,Type 2 diabetes mellitus without complications,2022-08-17,Active
+P0049,I25.10,Atherosclerotic heart disease,2021-10-27,Active
+P0049,N18.3,"Chronic kidney disease, stage 3",2023-11-09,Active
+P0051,I10,Essential hypertension,2020-08-01,Active
+P0051,E11.9,Type 2 diabetes mellitus without complications,2021-12-23,Active
+P0051,I48.91,"Atrial fibrillation, unspecified",2023-06-06,Active
+P0052,N18.3,"Chronic kidney disease, stage 3",2022-08-04,Active
+P0053,I10,Essential hypertension,2021-10-12,Active
+P0053,E66.01,Morbid obesity due to excess calories,2022-03-13,Resolved
+P0053,N18.3,"Chronic kidney disease, stage 3",2024-01-13,Active
+P0053,G47.33,Obstructive sleep apnea,2024-06-03,Active
+P0054,I10,Essential hypertension,2020-10-29,Active
+P0054,I11.9,Hypertensive heart disease without heart failure,2021-06-24,Active
+P0054,E11.9,Type 2 diabetes mellitus without complications,2024-06-07,Active
+P0054,G47.33,Obstructive sleep apnea,2023-12-22,Active
+P0054,I63.9,"Cerebral infarction, unspecified",2024-09-21,Resolved
+P0055,I10,Essential hypertension,2024-11-30,Active
+P0055,I11.9,Hypertensive heart disease without heart failure,2022-06-08,Active
+P0055,E11.9,Type 2 diabetes mellitus without complications,2023-02-14,Active
+P0055,F17.210,"Nicotine dependence, cigarettes",2022-07-08,Active
+P0058,I10,Essential hypertension,2024-10-09,Active
+P0058,I11.9,Hypertensive heart disease without heart failure,2024-03-03,Active
+P0059,I10,Essential hypertension,2025-03-19,Active
+P0059,F17.210,"Nicotine dependence, cigarettes",2021-06-18,Active
+P0059,J44.1,COPD with acute exacerbation,2021-05-10,Active
+P0059,I25.10,Atherosclerotic heart disease,2024-08-24,Active
+P0059,N18.3,"Chronic kidney disease, stage 3",2021-10-04,Active
+P0061,I10,Essential hypertension,2023-12-30,Resolved
+P0061,E11.9,Type 2 diabetes mellitus without complications,2020-08-17,Active
+P0061,N18.3,"Chronic kidney disease, stage 3",2022-09-23,Active
+P0062,E11.9,Type 2 diabetes mellitus without complications,2024-09-23,Active
+P0062,E11.65,Type 2 diabetes with hyperglycemia,2025-03-13,Active
+P0063,I10,Essential hypertension,2021-09-19,Active
+P0064,F17.210,"Nicotine dependence, cigarettes",2022-01-13,Active
+P0066,I10,Essential hypertension,2021-11-10,Active
+P0066,I11.9,Hypertensive heart disease without heart failure,2021-06-02,Active
+P0067,I10,Essential hypertension,2023-08-28,Active
+P0068,I10,Essential hypertension,2021-07-07,Active
+P0068,N18.3,"Chronic kidney disease, stage 3",2023-04-13,Active
+P0069,E11.9,Type 2 diabetes mellitus without complications,2023-09-11,Active
+P0070,I10,Essential hypertension,2021-02-10,Active
+P0070,N18.3,"Chronic kidney disease, stage 3",2022-03-09,Active
+P0071,N18.3,"Chronic kidney disease, stage 3",2025-03-30,Active
+P0072,E11.9,Type 2 diabetes mellitus without complications,2022-12-16,Active
+P0072,E66.01,Morbid obesity due to excess calories,2024-08-03,Active
+P0072,I48.91,"Atrial fibrillation, unspecified",2024-05-17,Active
+P0072,N18.3,"Chronic kidney disease, stage 3",2021-05-24,Active
+P0073,I10,Essential hypertension,2022-03-14,Active
+P0073,N18.3,"Chronic kidney disease, stage 3",2022-04-15,Active
+P0074,I10,Essential hypertension,2023-09-17,Active
+P0074,I11.9,Hypertensive heart disease without heart failure,2021-09-16,Active
+P0074,N18.3,"Chronic kidney disease, stage 3",2022-09-26,Active
+P0075,I10,Essential hypertension,2021-08-31,Active
+P0076,I10,Essential hypertension,2021-07-01,Active
+P0077,I10,Essential hypertension,2024-03-24,Active
+P0078,N18.3,"Chronic kidney disease, stage 3",2024-07-28,Active
+P0079,I10,Essential hypertension,2023-12-10,Active
+P0079,F17.210,"Nicotine dependence, cigarettes",2021-06-13,Active
+P0079,J44.1,COPD with acute exacerbation,2021-06-22,Resolved
+P0080,I10,Essential hypertension,2024-08-02,Active
+P0081,I10,Essential hypertension,2022-04-03,Active
+P0081,N18.3,"Chronic kidney disease, stage 3",2022-03-11,Active
+P0082,I10,Essential hypertension,2021-05-14,Active
+P0083,F17.210,"Nicotine dependence, cigarettes",2023-10-27,Resolved
+P0084,I10,Essential hypertension,2024-06-08,Active
+P0085,E11.9,Type 2 diabetes mellitus without complications,2022-02-08,Active
+P0085,N18.3,"Chronic kidney disease, stage 3",2023-03-30,Resolved
+P0086,I10,Essential hypertension,2024-11-29,Active
+P0086,F17.210,"Nicotine dependence, cigarettes",2022-06-11,Active
+P0087,I10,Essential hypertension,2024-08-12,Active
+P0087,N18.3,"Chronic kidney disease, stage 3",2024-05-23,Active
+P0088,I10,Essential hypertension,2020-09-05,Active
+P0089,I10,Essential hypertension,2024-05-17,Active
+P0089,F17.210,"Nicotine dependence, cigarettes",2024-06-12,Active
+P0090,I10,Essential hypertension,2022-06-13,Active
+P0090,I11.9,Hypertensive heart disease without heart failure,2021-06-28,Active
+P0092,I10,Essential hypertension,2024-06-07,Resolved
+P0092,E11.9,Type 2 diabetes mellitus without complications,2021-02-21,Resolved
+P0092,E78.5,"Dyslipidemia, unspecified",2023-10-07,Resolved
+P0094,E11.9,Type 2 diabetes mellitus without complications,2024-10-22,Active
+P0094,E11.65,Type 2 diabetes with hyperglycemia,2025-04-11,Active
+P0094,E66.01,Morbid obesity due to excess calories,2022-04-05,Active
+P0094,G47.33,Obstructive sleep apnea,2021-04-24,Active
+P0095,I10,Essential hypertension,2023-02-08,Active
+P0095,I11.9,Hypertensive heart disease without heart failure,2023-12-25,Active
+P0095,I25.10,Atherosclerotic heart disease,2021-07-22,Active
+P0097,I10,Essential hypertension,2020-09-04,Active
+P0098,I10,Essential hypertension,2023-11-01,Active
+P0098,E11.9,Type 2 diabetes mellitus without complications,2021-09-23,Active
+P0098,N18.3,"Chronic kidney disease, stage 3",2024-09-26,Active
+P0101,I10,Essential hypertension,2022-05-13,Resolved
+P0101,E11.9,Type 2 diabetes mellitus without complications,2021-01-23,Active
+P0102,I10,Essential hypertension,2023-12-01,Active
+P0102,E11.9,Type 2 diabetes mellitus without complications,2024-06-26,Resolved
+P0102,E11.65,Type 2 diabetes with hyperglycemia,2020-12-07,Active
+P0102,N18.3,"Chronic kidney disease, stage 3",2024-05-23,Active
+P0103,I10,Essential hypertension,2024-03-18,Resolved
+P0103,N18.3,"Chronic kidney disease, stage 3",2024-11-05,Active
+P0105,I10,Essential hypertension,2023-08-18,Active
+P0105,E11.9,Type 2 diabetes mellitus without complications,2020-08-09,Active
+P0105,E11.65,Type 2 diabetes with hyperglycemia,2020-06-03,Active
+P0105,I48.91,"Atrial fibrillation, unspecified",2023-11-02,Active
+P0106,I10,Essential hypertension,2023-06-03,Active
+P0106,N18.3,"Chronic kidney disease, stage 3",2022-01-07,Active
+P0108,E11.9,Type 2 diabetes mellitus without complications,2022-04-21,Resolved
+P0108,E78.5,"Dyslipidemia, unspecified",2021-08-13,Active
+P0108,N18.3,"Chronic kidney disease, stage 3",2020-06-18,Active
+P0109,N18.3,"Chronic kidney disease, stage 3",2021-04-26,Active
+P0111,I10,Essential hypertension,2024-07-21,Active
+P0112,F17.210,"Nicotine dependence, cigarettes",2023-08-02,Active
+P0113,I10,Essential hypertension,2021-12-15,Active
+P0114,N18.3,"Chronic kidney disease, stage 3",2021-01-20,Resolved
+P0115,I10,Essential hypertension,2020-11-19,Active
+P0115,E11.9,Type 2 diabetes mellitus without complications,2020-08-17,Active
+P0115,E66.01,Morbid obesity due to excess calories,2022-08-20,Active
+P0119,I10,Essential hypertension,2023-08-25,Active
+P0119,E11.9,Type 2 diabetes mellitus without complications,2021-02-25,Active
+P0119,F17.210,"Nicotine dependence, cigarettes",2023-07-04,Active
+P0119,J44.1,COPD with acute exacerbation,2021-07-31,Active
+P0119,G47.33,Obstructive sleep apnea,2021-12-31,Active
+P0121,E78.5,"Dyslipidemia, unspecified",2025-01-24,Active
+P0122,I10,Essential hypertension,2023-02-05,Active
+P0123,E11.9,Type 2 diabetes mellitus without complications,2024-01-23,Active
+P0123,E78.5,"Dyslipidemia, unspecified",2022-05-28,Active
+P0123,E78.0,Pure hypercholesterolemia,2022-08-16,Active
+P0124,I10,Essential hypertension,2024-10-22,Active
+P0126,N18.3,"Chronic kidney disease, stage 3",2020-10-31,Active
+P0127,E11.9,Type 2 diabetes mellitus without complications,2020-11-26,Active
+P0127,E11.65,Type 2 diabetes with hyperglycemia,2021-05-22,Active
+P0127,F17.210,"Nicotine dependence, cigarettes",2023-05-22,Active
+P0127,N18.3,"Chronic kidney disease, stage 3",2020-07-16,Active
+P0128,N18.3,"Chronic kidney disease, stage 3",2024-02-05,Active
+P0130,E11.9,Type 2 diabetes mellitus without complications,2022-12-04,Active
+P0131,N18.3,"Chronic kidney disease, stage 3",2022-12-09,Active
+P0132,I10,Essential hypertension,2023-02-19,Active
+P0132,N18.3,"Chronic kidney disease, stage 3",2021-07-14,Active
+P0134,E78.5,"Dyslipidemia, unspecified",2020-11-29,Active
+P0134,E78.0,Pure hypercholesterolemia,2023-10-14,Resolved
+P0134,N18.3,"Chronic kidney disease, stage 3",2024-09-19,Active
+P0135,F17.210,"Nicotine dependence, cigarettes",2023-11-25,Active
+P0136,I10,Essential hypertension,2023-05-01,Active
+P0137,I10,Essential hypertension,2025-01-22,Active
+P0137,E78.5,"Dyslipidemia, unspecified",2021-01-09,Active
+P0138,I10,Essential hypertension,2022-01-24,Resolved
+P0139,I10,Essential hypertension,2023-03-01,Active
+P0139,I11.9,Hypertensive heart disease without heart failure,2024-04-20,Active
+P0139,N18.3,"Chronic kidney disease, stage 3",2022-10-14,Active
+P0141,E11.9,Type 2 diabetes mellitus without complications,2021-09-01,Active
+P0141,F17.210,"Nicotine dependence, cigarettes",2024-09-20,Active
+P0142,I10,Essential hypertension,2021-09-01,Active
+P0142,I11.9,Hypertensive heart disease without heart failure,2024-11-22,Active
+P0142,E11.9,Type 2 diabetes mellitus without complications,2020-10-20,Active
+P0144,E11.9,Type 2 diabetes mellitus without complications,2025-03-13,Resolved
+P0145,I10,Essential hypertension,2021-04-17,Active
+P0145,E78.5,"Dyslipidemia, unspecified",2021-09-16,Active
+P0145,E78.0,Pure hypercholesterolemia,2025-04-21,Active
+P0145,N18.3,"Chronic kidney disease, stage 3",2021-06-02,Active
+P0146,I10,Essential hypertension,2021-04-13,Active
+P0146,I11.9,Hypertensive heart disease without heart failure,2025-04-01,Active
+P0146,E78.5,"Dyslipidemia, unspecified",2022-01-14,Active
+P0146,F17.210,"Nicotine dependence, cigarettes",2020-09-06,Active
+P0146,I25.10,Atherosclerotic heart disease,2023-07-17,Active
+P0147,I10,Essential hypertension,2022-06-23,Active
+P0147,E11.9,Type 2 diabetes mellitus without complications,2023-06-24,Active
+P0147,N18.3,"Chronic kidney disease, stage 3",2023-12-28,Active
+P0149,I10,Essential hypertension,2024-09-14,Active
+P0149,F17.210,"Nicotine dependence, cigarettes",2020-06-11,Resolved
+P0149,I25.10,Atherosclerotic heart disease,2024-05-23,Active
+P0150,I10,Essential hypertension,2022-10-28,Active
+P0150,F17.210,"Nicotine dependence, cigarettes",2023-09-07,Active
+P0151,I10,Essential hypertension,2022-10-22,Active
+P0151,N18.3,"Chronic kidney disease, stage 3",2022-08-10,Resolved
+P0154,I10,Essential hypertension,2023-07-19,Resolved
+P0154,I11.9,Hypertensive heart disease without heart failure,2024-06-21,Active
+P0154,N18.3,"Chronic kidney disease, stage 3",2021-09-28,Resolved
+P0155,I10,Essential hypertension,2020-11-03,Resolved
+P0155,I11.9,Hypertensive heart disease without heart failure,2020-09-03,Resolved
+P0156,N18.3,"Chronic kidney disease, stage 3",2024-04-24,Resolved
+P0158,I10,Essential hypertension,2023-06-23,Active
+P0159,E11.9,Type 2 diabetes mellitus without complications,2022-07-29,Resolved
+P0159,G47.33,Obstructive sleep apnea,2021-07-18,Active
+P0160,I10,Essential hypertension,2022-07-03,Active
+P0160,I48.91,"Atrial fibrillation, unspecified",2020-09-28,Active
+P0162,I10,Essential hypertension,2023-11-13,Resolved
+P0163,F17.210,"Nicotine dependence, cigarettes",2020-12-14,Active
+P0164,E11.9,Type 2 diabetes mellitus without complications,2023-01-11,Active
+P0164,E11.65,Type 2 diabetes with hyperglycemia,2023-09-15,Active
+P0164,E78.5,"Dyslipidemia, unspecified",2023-10-24,Resolved
+P0164,G47.33,Obstructive sleep apnea,2021-08-19,Active
+P0165,I10,Essential hypertension,2022-09-21,Active
+P0165,F17.210,"Nicotine dependence, cigarettes",2024-02-26,Active
+P0165,J44.1,COPD with acute exacerbation,2022-10-01,Active
+P0165,N18.3,"Chronic kidney disease, stage 3",2025-02-09,Active
+P0166,I10,Essential hypertension,2024-02-27,Active
+P0167,I10,Essential hypertension,2021-02-02,Active
+P0167,E78.5,"Dyslipidemia, unspecified",2022-03-29,Active
+P0167,E78.0,Pure hypercholesterolemia,2023-10-28,Active
+P0167,N18.3,"Chronic kidney disease, stage 3",2024-07-03,Active
+P0169,N18.3,"Chronic kidney disease, stage 3",2022-09-18,Active
+P0170,I10,Essential hypertension,2023-07-02,Active
+P0170,E11.9,Type 2 diabetes mellitus without complications,2023-04-20,Active
+P0170,E11.65,Type 2 diabetes with hyperglycemia,2022-02-03,Active
+P0170,I48.91,"Atrial fibrillation, unspecified",2020-09-13,Active
+P0170,N18.3,"Chronic kidney disease, stage 3",2024-04-12,Resolved
+P0171,I10,Essential hypertension,2022-09-12,Active
+P0171,F17.210,"Nicotine dependence, cigarettes",2024-12-14,Resolved
+P0172,I10,Essential hypertension,2021-10-31,Active
+P0172,E11.9,Type 2 diabetes mellitus without complications,2023-06-18,Active
+P0173,E11.9,Type 2 diabetes mellitus without complications,2020-06-26,Active
+P0173,E11.65,Type 2 diabetes with hyperglycemia,2023-03-25,Active
+P0173,G47.33,Obstructive sleep apnea,2020-10-19,Active
+P0178,I10,Essential hypertension,2021-10-26,Active
+P0179,I10,Essential hypertension,2020-07-28,Active
+P0180,I10,Essential hypertension,2024-09-27,Resolved
+P0180,N18.3,"Chronic kidney disease, stage 3",2023-07-17,Active
+P0181,I10,Essential hypertension,2022-11-13,Resolved
+P0181,I48.91,"Atrial fibrillation, unspecified",2024-01-16,Active
+P0181,I25.10,Atherosclerotic heart disease,2020-06-24,Active
+P0183,I10,Essential hypertension,2024-11-01,Resolved
+P0185,I10,Essential hypertension,2020-11-09,Active
+P0185,N18.3,"Chronic kidney disease, stage 3",2022-08-07,Resolved
+P0186,I10,Essential hypertension,2021-06-21,Active
+P0186,N18.3,"Chronic kidney disease, stage 3",2023-04-13,Active
+P0187,I10,Essential hypertension,2024-10-18,Active
+P0187,I11.9,Hypertensive heart disease without heart failure,2025-01-18,Active
+P0187,N18.3,"Chronic kidney disease, stage 3",2022-04-10,Active
+P0188,E11.9,Type 2 diabetes mellitus without complications,2021-01-19,Active
+P0188,E11.65,Type 2 diabetes with hyperglycemia,2021-09-17,Resolved
+P0188,N18.3,"Chronic kidney disease, stage 3",2021-11-05,Active
+P0190,E11.9,Type 2 diabetes mellitus without complications,2024-05-22,Active
+P0190,E78.5,"Dyslipidemia, unspecified",2024-06-22,Active
+P0190,G47.33,Obstructive sleep apnea,2023-01-29,Active
+P0191,E11.9,Type 2 diabetes mellitus without complications,2020-12-30,Active
+P0191,N18.3,"Chronic kidney disease, stage 3",2021-03-19,Active
+P0192,I10,Essential hypertension,2023-05-22,Resolved
+P0192,E78.5,"Dyslipidemia, unspecified",2021-11-21,Resolved
+P0192,E78.0,Pure hypercholesterolemia,2025-01-04,Active
+P0192,I25.10,Atherosclerotic heart disease,2021-01-12,Resolved
+P0193,I10,Essential hypertension,2025-02-22,Active
+P0193,I11.9,Hypertensive heart disease without heart failure,2022-08-28,Active
+P0193,I25.10,Atherosclerotic heart disease,2022-04-27,Active
+P0195,F17.210,"Nicotine dependence, cigarettes",2022-11-11,Active
+P0197,E78.5,"Dyslipidemia, unspecified",2023-08-16,Active
+P0197,E78.0,Pure hypercholesterolemia,2022-02-13,Active
+P0198,E11.9,Type 2 diabetes mellitus without complications,2022-02-07,Active
+P0198,E11.65,Type 2 diabetes with hyperglycemia,2021-04-07,Active
+P0198,N18.3,"Chronic kidney disease, stage 3",2020-07-29,Active
+P0199,N18.3,"Chronic kidney disease, stage 3",2022-05-29,Active
+P0200,I10,Essential hypertension,2022-08-31,Resolved
+P0200,F17.210,"Nicotine dependence, cigarettes",2023-04-05,Active
+P0202,I10,Essential hypertension,2020-09-02,Active
+P0202,I11.9,Hypertensive heart disease without heart failure,2020-11-07,Active
+P0202,I25.10,Atherosclerotic heart disease,2022-03-15,Active
+P0203,I10,Essential hypertension,2023-05-08,Active
+P0203,N18.3,"Chronic kidney disease, stage 3",2023-01-03,Active
+P0205,I10,Essential hypertension,2022-02-07,Active
+P0205,I11.9,Hypertensive heart disease without heart failure,2021-07-28,Active
+P0205,I48.91,"Atrial fibrillation, unspecified",2024-03-15,Active
+P0205,N18.3,"Chronic kidney disease, stage 3",2020-11-08,Active
+P0206,I10,Essential hypertension,2024-05-23,Resolved
+P0206,I11.9,Hypertensive heart disease without heart failure,2024-03-13,Active
+P0206,E11.9,Type 2 diabetes mellitus without complications,2023-09-15,Active
+P0206,E11.65,Type 2 diabetes with hyperglycemia,2023-08-21,Active
+P0207,E66.01,Morbid obesity due to excess calories,2023-09-13,Active
+P0208,E11.9,Type 2 diabetes mellitus without complications,2024-06-20,Active
+P0209,I10,Essential hypertension,2023-01-05,Active
+P0209,I11.9,Hypertensive heart disease without heart failure,2020-12-30,Active
+P0209,E11.9,Type 2 diabetes mellitus without complications,2023-02-06,Active
+P0209,E11.65,Type 2 diabetes with hyperglycemia,2022-03-12,Active
+P0209,E66.01,Morbid obesity due to excess calories,2024-08-15,Active
+P0209,N18.3,"Chronic kidney disease, stage 3",2024-05-04,Active
+P0210,I10,Essential hypertension,2023-07-20,Active
+P0211,I10,Essential hypertension,2024-04-03,Active
+P0211,E11.9,Type 2 diabetes mellitus without complications,2025-03-15,Active
+P0211,E78.5,"Dyslipidemia, unspecified",2023-12-12,Active
+P0212,E11.9,Type 2 diabetes mellitus without complications,2023-04-08,Resolved
+P0213,I10,Essential hypertension,2022-06-10,Active
+P0213,N18.3,"Chronic kidney disease, stage 3",2024-04-08,Active
+P0214,I10,Essential hypertension,2020-08-16,Active
+P0216,F17.210,"Nicotine dependence, cigarettes",2024-02-28,Active
+P0217,N18.3,"Chronic kidney disease, stage 3",2021-08-16,Active
+P0218,I10,Essential hypertension,2023-02-17,Active
+P0218,N18.3,"Chronic kidney disease, stage 3",2022-08-31,Active
+P0219,I10,Essential hypertension,2024-12-29,Resolved
+P0219,I11.9,Hypertensive heart disease without heart failure,2021-01-12,Active
+P0219,N18.3,"Chronic kidney disease, stage 3",2021-09-17,Active
+P0222,I10,Essential hypertension,2023-08-06,Resolved
+P0222,N18.3,"Chronic kidney disease, stage 3",2022-05-17,Resolved
+P0223,N18.3,"Chronic kidney disease, stage 3",2025-03-05,Active
+P0226,I10,Essential hypertension,2020-11-10,Active
+P0227,I10,Essential hypertension,2024-12-09,Active
+P0228,E11.9,Type 2 diabetes mellitus without complications,2024-07-11,Active
+P0228,E11.65,Type 2 diabetes with hyperglycemia,2022-12-25,Active
+P0229,F17.210,"Nicotine dependence, cigarettes",2021-10-20,Active
+P0230,E11.9,Type 2 diabetes mellitus without complications,2023-02-23,Resolved
+P0230,E11.65,Type 2 diabetes with hyperglycemia,2021-06-09,Active
+P0231,N18.3,"Chronic kidney disease, stage 3",2025-03-16,Active
+P0232,I10,Essential hypertension,2024-06-13,Active
+P0233,E11.9,Type 2 diabetes mellitus without complications,2022-07-24,Active
+P0233,N18.3,"Chronic kidney disease, stage 3",2024-07-26,Resolved
+P0233,G47.33,Obstructive sleep apnea,2024-12-13,Active
+P0234,F17.210,"Nicotine dependence, cigarettes",2024-06-28,Active
+P0235,N18.3,"Chronic kidney disease, stage 3",2022-07-12,Active
+P0236,F17.210,"Nicotine dependence, cigarettes",2023-08-20,Active
+P0237,F17.210,"Nicotine dependence, cigarettes",2023-01-22,Active
+P0238,I10,Essential hypertension,2020-07-06,Active
+P0238,E11.9,Type 2 diabetes mellitus without complications,2025-04-14,Active
+P0238,F17.210,"Nicotine dependence, cigarettes",2025-04-04,Active
+P0238,I25.10,Atherosclerotic heart disease,2023-08-06,Active
+P0238,G47.33,Obstructive sleep apnea,2021-07-03,Resolved
+P0239,I10,Essential hypertension,2022-11-01,Active
+P0239,E78.5,"Dyslipidemia, unspecified",2021-10-23,Active
+P0240,I10,Essential hypertension,2022-07-22,Active
+P0240,N18.3,"Chronic kidney disease, stage 3",2024-05-28,Active
+P0241,I10,Essential hypertension,2022-01-26,Active
+P0242,I10,Essential hypertension,2023-05-28,Active
+P0243,I10,Essential hypertension,2023-01-31,Active
+P0243,I11.9,Hypertensive heart disease without heart failure,2022-09-02,Active
+P0243,E66.01,Morbid obesity due to excess calories,2023-04-15,Active
+P0243,N18.3,"Chronic kidney disease, stage 3",2020-11-29,Active
+P0244,I10,Essential hypertension,2023-08-05,Active
+P0244,I11.9,Hypertensive heart disease without heart failure,2021-03-31,Active
+P0247,E11.9,Type 2 diabetes mellitus without complications,2024-12-25,Active
+P0247,N18.3,"Chronic kidney disease, stage 3",2021-02-11,Active
+P0248,I10,Essential hypertension,2021-06-18,Active
+P0248,E11.9,Type 2 diabetes mellitus without complications,2022-11-14,Active
+P0248,E78.5,"Dyslipidemia, unspecified",2022-04-28,Active
+P0248,E66.01,Morbid obesity due to excess calories,2024-02-01,Active
+P0248,I48.91,"Atrial fibrillation, unspecified",2023-02-09,Active
+P0251,E11.9,Type 2 diabetes mellitus without complications,2023-03-28,Active
+P0252,I10,Essential hypertension,2025-04-04,Active
+P0252,I11.9,Hypertensive heart disease without heart failure,2025-02-10,Active
+P0252,E78.5,"Dyslipidemia, unspecified",2020-11-26,Resolved
+P0252,N18.3,"Chronic kidney disease, stage 3",2024-02-20,Active
+P0254,I10,Essential hypertension,2022-04-30,Active
+P0254,E11.9,Type 2 diabetes mellitus without complications,2023-03-28,Active
+P0254,E78.5,"Dyslipidemia, unspecified",2024-04-29,Active
+P0254,E66.01,Morbid obesity due to excess calories,2021-07-26,Active
+P0254,N18.3,"Chronic kidney disease, stage 3",2022-05-24,Active
+P0255,I10,Essential hypertension,2021-11-28,Active
+P0255,F17.210,"Nicotine dependence, cigarettes",2025-04-30,Resolved
+P0255,J44.1,COPD with acute exacerbation,2025-02-20,Resolved
+P0257,I10,Essential hypertension,2022-10-11,Active
+P0257,E11.9,Type 2 diabetes mellitus without complications,2022-06-24,Active
+P0257,F17.210,"Nicotine dependence, cigarettes",2024-07-10,Active
+P0258,N18.3,"Chronic kidney disease, stage 3",2025-03-14,Resolved
+P0260,I10,Essential hypertension,2020-11-24,Active
+P0260,I11.9,Hypertensive heart disease without heart failure,2024-08-21,Active
+P0262,E11.9,Type 2 diabetes mellitus without complications,2021-06-26,Active
+P0262,E78.5,"Dyslipidemia, unspecified",2024-07-05,Active
+P0263,N18.3,"Chronic kidney disease, stage 3",2021-12-15,Active
+P0264,I10,Essential hypertension,2021-09-01,Active
+P0264,I11.9,Hypertensive heart disease without heart failure,2023-07-14,Active
+P0264,E11.9,Type 2 diabetes mellitus without complications,2023-12-08,Resolved
+P0264,E78.5,"Dyslipidemia, unspecified",2023-05-20,Active
+P0264,E78.0,Pure hypercholesterolemia,2023-10-02,Active
+P0264,F17.210,"Nicotine dependence, cigarettes",2022-03-02,Active
+P0264,J44.1,COPD with acute exacerbation,2022-02-09,Active
+P0264,I63.9,"Cerebral infarction, unspecified",2022-12-16,Active
+P0265,E78.5,"Dyslipidemia, unspecified",2021-04-13,Active
+P0265,E78.0,Pure hypercholesterolemia,2023-02-08,Active
+P0265,N18.3,"Chronic kidney disease, stage 3",2021-12-10,Active
+P0267,I10,Essential hypertension,2021-02-05,Active
+P0268,I10,Essential hypertension,2022-10-11,Active
+P0269,E11.9,Type 2 diabetes mellitus without complications,2023-04-02,Active
+P0269,F17.210,"Nicotine dependence, cigarettes",2022-10-08,Resolved
+P0270,I10,Essential hypertension,2022-11-16,Active
+P0270,E11.9,Type 2 diabetes mellitus without complications,2022-09-03,Active
+P0270,E11.65,Type 2 diabetes with hyperglycemia,2022-02-21,Active
+P0270,E66.01,Morbid obesity due to excess calories,2023-10-02,Active
+P0271,N18.3,"Chronic kidney disease, stage 3",2024-10-02,Active
+P0272,E11.9,Type 2 diabetes mellitus without complications,2020-09-23,Resolved
+P0272,E78.5,"Dyslipidemia, unspecified",2021-04-20,Active
+P0272,E78.0,Pure hypercholesterolemia,2024-03-12,Active
+P0272,E66.01,Morbid obesity due to excess calories,2023-05-19,Active
+P0273,E66.01,Morbid obesity due to excess calories,2021-05-02,Active
+P0273,N18.3,"Chronic kidney disease, stage 3",2023-07-10,Active
+P0275,E11.9,Type 2 diabetes mellitus without complications,2022-07-26,Active
+P0275,E78.5,"Dyslipidemia, unspecified",2024-12-01,Active
+P0275,N18.3,"Chronic kidney disease, stage 3",2023-11-03,Active
+P0276,N18.3,"Chronic kidney disease, stage 3",2022-03-11,Active
+P0277,I10,Essential hypertension,2022-08-08,Active
+P0278,I10,Essential hypertension,2021-09-27,Active
+P0278,I11.9,Hypertensive heart disease without heart failure,2024-09-10,Active
+P0278,E11.9,Type 2 diabetes mellitus without complications,2023-05-05,Active
+P0278,E11.65,Type 2 diabetes with hyperglycemia,2022-08-30,Active
+P0278,F17.210,"Nicotine dependence, cigarettes",2020-10-18,Active
+P0280,E78.5,"Dyslipidemia, unspecified",2025-05-02,Active
+P0280,G47.33,Obstructive sleep apnea,2024-01-05,Active
+P0281,E11.9,Type 2 diabetes mellitus without complications,2023-03-13,Active
+P0281,G47.33,Obstructive sleep apnea,2024-01-20,Active
+P0283,I10,Essential hypertension,2023-08-06,Active
+P0283,N18.3,"Chronic kidney disease, stage 3",2021-08-05,Resolved
+P0284,N18.3,"Chronic kidney disease, stage 3",2022-02-21,Active
+P0285,I10,Essential hypertension,2023-02-27,Active
+P0285,F17.210,"Nicotine dependence, cigarettes",2020-07-20,Resolved
+P0286,F17.210,"Nicotine dependence, cigarettes",2023-06-13,Active
+P0287,I10,Essential hypertension,2022-08-28,Active
+P0287,N18.3,"Chronic kidney disease, stage 3",2020-09-06,Active
+P0288,F17.210,"Nicotine dependence, cigarettes",2023-05-28,Active
+P0290,E11.9,Type 2 diabetes mellitus without complications,2020-10-07,Active
+P0290,E11.65,Type 2 diabetes with hyperglycemia,2025-03-26,Active
+P0290,E78.5,"Dyslipidemia, unspecified",2024-09-12,Active
+P0290,E78.0,Pure hypercholesterolemia,2022-11-08,Resolved
+P0290,G47.33,Obstructive sleep apnea,2023-03-18,Active
+P0291,E11.9,Type 2 diabetes mellitus without complications,2024-09-17,Active
+P0291,E11.65,Type 2 diabetes with hyperglycemia,2021-09-01,Active
+P0291,F17.210,"Nicotine dependence, cigarettes",2024-07-11,Active
+P0294,E78.5,"Dyslipidemia, unspecified",2021-09-03,Active
+P0294,E78.0,Pure hypercholesterolemia,2020-11-23,Active
+P0294,N18.3,"Chronic kidney disease, stage 3",2020-12-04,Active
+P0295,I10,Essential hypertension,2023-02-13,Active
+P0295,I48.91,"Atrial fibrillation, unspecified",2023-06-03,Active
+P0297,I10,Essential hypertension,2023-08-10,Active
+P0297,N18.3,"Chronic kidney disease, stage 3",2024-01-04,Active
+P0300,I10,Essential hypertension,2023-06-25,Active
+P0300,N18.3,"Chronic kidney disease, stage 3",2022-05-18,Active
+P0301,N18.3,"Chronic kidney disease, stage 3",2023-03-21,Active
+P0302,I10,Essential hypertension,2022-07-05,Active
+P0302,E11.9,Type 2 diabetes mellitus without complications,2022-11-18,Active
+P0302,E66.01,Morbid obesity due to excess calories,2023-02-08,Active
+P0304,I10,Essential hypertension,2021-02-06,Active
+P0305,I10,Essential hypertension,2024-12-14,Active
+P0305,F17.210,"Nicotine dependence, cigarettes",2025-02-02,Active
+P0305,I25.10,Atherosclerotic heart disease,2024-02-07,Active
+P0305,N18.3,"Chronic kidney disease, stage 3",2022-12-06,Active
+P0306,I10,Essential hypertension,2023-09-16,Active
+P0306,E78.5,"Dyslipidemia, unspecified",2021-12-15,Active
+P0306,I25.10,Atherosclerotic heart disease,2021-07-12,Active
+P0307,E78.5,"Dyslipidemia, unspecified",2020-08-30,Resolved
+P0308,E11.9,Type 2 diabetes mellitus without complications,2021-11-11,Resolved
+P0308,N18.3,"Chronic kidney disease, stage 3",2025-04-29,Active
+P0309,E11.9,Type 2 diabetes mellitus without complications,2025-04-08,Active
+P0309,E11.65,Type 2 diabetes with hyperglycemia,2022-10-10,Active
+P0309,E66.01,Morbid obesity due to excess calories,2021-09-26,Active
+P0310,I10,Essential hypertension,2021-10-29,Active
+P0311,E78.5,"Dyslipidemia, unspecified",2020-12-03,Active
+P0311,E78.0,Pure hypercholesterolemia,2022-10-15,Active
+P0314,F17.210,"Nicotine dependence, cigarettes",2024-03-08,Active
+P0316,F17.210,"Nicotine dependence, cigarettes",2021-09-16,Active
+P0317,I10,Essential hypertension,2025-03-20,Active
+P0317,I11.9,Hypertensive heart disease without heart failure,2021-11-23,Active
+P0318,I10,Essential hypertension,2022-04-02,Active
+P0319,N18.3,"Chronic kidney disease, stage 3",2021-01-16,Active
+P0320,N18.3,"Chronic kidney disease, stage 3",2024-10-27,Resolved
+P0321,N18.3,"Chronic kidney disease, stage 3",2021-04-22,Resolved
+P0323,N18.3,"Chronic kidney disease, stage 3",2021-04-12,Active
+P0324,I10,Essential hypertension,2022-05-02,Active
+P0325,E11.9,Type 2 diabetes mellitus without complications,2024-04-04,Active
+P0325,E78.5,"Dyslipidemia, unspecified",2021-05-23,Active
+P0325,E66.01,Morbid obesity due to excess calories,2023-11-28,Active
+P0326,E11.9,Type 2 diabetes mellitus without complications,2021-08-02,Active
+P0326,G47.33,Obstructive sleep apnea,2021-03-31,Active
+P0327,F17.210,"Nicotine dependence, cigarettes",2022-11-13,Active
+P0328,I10,Essential hypertension,2024-01-02,Active
+P0328,F17.210,"Nicotine dependence, cigarettes",2024-07-31,Active
+P0334,I10,Essential hypertension,2023-08-03,Active
+P0335,I10,Essential hypertension,2021-05-21,Active
+P0337,I10,Essential hypertension,2024-09-06,Resolved
+P0338,I10,Essential hypertension,2022-01-17,Active
+P0338,N18.3,"Chronic kidney disease, stage 3",2021-06-06,Active
+P0339,E11.9,Type 2 diabetes mellitus without complications,2024-07-18,Active
+P0339,N18.3,"Chronic kidney disease, stage 3",2025-02-12,Active
+P0340,F17.210,"Nicotine dependence, cigarettes",2020-06-08,Active
+P0341,E11.9,Type 2 diabetes mellitus without complications,2023-08-06,Active
+P0341,G47.33,Obstructive sleep apnea,2022-12-16,Active
+P0342,N18.3,"Chronic kidney disease, stage 3",2024-08-26,Active
+P0343,I10,Essential hypertension,2023-11-08,Active
+P0345,E11.9,Type 2 diabetes mellitus without complications,2020-10-05,Active
+P0345,F17.210,"Nicotine dependence, cigarettes",2024-06-18,Active
+P0349,I10,Essential hypertension,2022-05-01,Active
+P0350,E78.5,"Dyslipidemia, unspecified",2023-10-20,Active
+P0351,I10,Essential hypertension,2024-05-16,Active
+P0351,F17.210,"Nicotine dependence, cigarettes",2023-01-19,Active
+P0352,I10,Essential hypertension,2025-02-23,Active
+P0352,N18.3,"Chronic kidney disease, stage 3",2020-08-29,Active
+P0353,E78.5,"Dyslipidemia, unspecified",2021-03-08,Active
+P0353,E78.0,Pure hypercholesterolemia,2024-07-15,Active
+P0354,F17.210,"Nicotine dependence, cigarettes",2022-04-04,Resolved
+P0354,N18.3,"Chronic kidney disease, stage 3",2023-05-29,Active
+P0355,I10,Essential hypertension,2022-11-13,Active
+P0355,E11.9,Type 2 diabetes mellitus without complications,2023-02-28,Active
+P0355,I48.91,"Atrial fibrillation, unspecified",2023-07-14,Active
+P0355,N18.3,"Chronic kidney disease, stage 3",2020-12-14,Active
+P0355,G47.33,Obstructive sleep apnea,2020-08-12,Active
+P0356,I10,Essential hypertension,2024-04-22,Active
+P0357,F17.210,"Nicotine dependence, cigarettes",2024-11-30,Active
+P0358,I10,Essential hypertension,2022-03-07,Resolved
+P0358,E11.9,Type 2 diabetes mellitus without complications,2022-09-29,Active
+P0358,E11.65,Type 2 diabetes with hyperglycemia,2022-06-18,Active
+P0358,N18.3,"Chronic kidney disease, stage 3",2024-10-26,Active
+P0359,I10,Essential hypertension,2022-06-04,Active
+P0359,N18.3,"Chronic kidney disease, stage 3",2020-07-11,Active
+P0360,I10,Essential hypertension,2022-01-12,Active
+P0360,E78.5,"Dyslipidemia, unspecified",2022-02-25,Active
+P0360,F17.210,"Nicotine dependence, cigarettes",2023-02-01,Active
+P0361,I10,Essential hypertension,2024-05-30,Resolved
+P0361,F17.210,"Nicotine dependence, cigarettes",2024-11-28,Active
+P0361,N18.3,"Chronic kidney disease, stage 3",2020-10-30,Resolved
+P0361,I63.9,"Cerebral infarction, unspecified",2020-11-06,Resolved
+P0362,I10,Essential hypertension,2022-02-28,Active
+P0362,E11.9,Type 2 diabetes mellitus without complications,2025-01-22,Active
+P0362,E78.5,"Dyslipidemia, unspecified",2021-06-15,Active
+P0362,E78.0,Pure hypercholesterolemia,2022-06-03,Active
+P0362,F17.210,"Nicotine dependence, cigarettes",2023-07-13,Active
+P0362,J44.1,COPD with acute exacerbation,2023-12-28,Active
+P0363,N18.3,"Chronic kidney disease, stage 3",2022-10-13,Active
+P0364,I10,Essential hypertension,2024-04-26,Active
+P0366,F17.210,"Nicotine dependence, cigarettes",2021-01-22,Resolved
+P0367,F17.210,"Nicotine dependence, cigarettes",2023-10-19,Resolved
+P0371,N18.3,"Chronic kidney disease, stage 3",2022-04-28,Active
+P0372,E11.9,Type 2 diabetes mellitus without complications,2024-04-24,Active
+P0373,I10,Essential hypertension,2021-12-03,Active
+P0373,E11.9,Type 2 diabetes mellitus without complications,2021-01-13,Resolved
+P0373,I25.10,Atherosclerotic heart disease,2021-07-12,Active
+P0374,I10,Essential hypertension,2024-08-11,Resolved
+P0374,N18.3,"Chronic kidney disease, stage 3",2024-08-22,Active
+P0375,E66.01,Morbid obesity due to excess calories,2022-11-21,Active
+P0376,E11.9,Type 2 diabetes mellitus without complications,2022-02-12,Active
+P0376,F17.210,"Nicotine dependence, cigarettes",2021-05-08,Active
+P0376,G47.33,Obstructive sleep apnea,2021-03-23,Active
+P0377,I10,Essential hypertension,2025-04-11,Active
+P0377,E11.9,Type 2 diabetes mellitus without complications,2024-10-02,Active
+P0377,E78.5,"Dyslipidemia, unspecified",2021-12-14,Active
+P0378,I10,Essential hypertension,2023-01-22,Resolved
+P0378,E11.9,Type 2 diabetes mellitus without complications,2024-06-04,Resolved
+P0378,N18.3,"Chronic kidney disease, stage 3",2021-02-13,Resolved
+P0379,I10,Essential hypertension,2020-06-18,Active
+P0380,I10,Essential hypertension,2022-07-08,Active
+P0380,E11.9,Type 2 diabetes mellitus without complications,2023-10-02,Active
+P0381,E11.9,Type 2 diabetes mellitus without complications,2023-01-04,Active
+P0381,F17.210,"Nicotine dependence, cigarettes",2022-04-08,Active
+P0382,I10,Essential hypertension,2021-04-14,Active
+P0382,N18.3,"Chronic kidney disease, stage 3",2020-07-24,Active
+P0383,N18.3,"Chronic kidney disease, stage 3",2024-06-21,Active
+P0384,I48.91,"Atrial fibrillation, unspecified",2023-06-11,Active
+P0384,N18.3,"Chronic kidney disease, stage 3",2025-02-23,Active
+P0385,F17.210,"Nicotine dependence, cigarettes",2021-10-02,Active
+P0386,I10,Essential hypertension,2024-07-14,Active
+P0386,I11.9,Hypertensive heart disease without heart failure,2022-03-26,Active
+P0386,N18.3,"Chronic kidney disease, stage 3",2022-03-21,Active
+P0387,E11.9,Type 2 diabetes mellitus without complications,2024-04-13,Resolved
+P0387,E11.65,Type 2 diabetes with hyperglycemia,2023-11-05,Resolved
+P0387,E66.01,Morbid obesity due to excess calories,2020-07-07,Active
+P0387,N18.3,"Chronic kidney disease, stage 3",2021-01-25,Active
+P0388,N18.3,"Chronic kidney disease, stage 3",2021-05-11,Active
+P0389,E11.9,Type 2 diabetes mellitus without complications,2021-08-19,Resolved
+P0390,E11.9,Type 2 diabetes mellitus without complications,2020-10-14,Active
+P0390,E78.5,"Dyslipidemia, unspecified",2025-03-07,Active
+P0390,E78.0,Pure hypercholesterolemia,2024-07-19,Active
+P0391,E11.9,Type 2 diabetes mellitus without complications,2024-05-05,Active
+P0391,E78.5,"Dyslipidemia, unspecified",2023-01-17,Active
+P0392,E11.9,Type 2 diabetes mellitus without complications,2023-06-30,Active
+P0392,E11.65,Type 2 diabetes with hyperglycemia,2023-05-10,Active
+P0392,E66.01,Morbid obesity due to excess calories,2024-02-08,Active
+P0393,E11.9,Type 2 diabetes mellitus without complications,2020-08-19,Active
+P0393,E78.5,"Dyslipidemia, unspecified",2022-02-19,Active
+P0393,I25.10,Atherosclerotic heart disease,2022-08-24,Active
+P0393,N18.3,"Chronic kidney disease, stage 3",2025-03-02,Resolved
+P0395,I10,Essential hypertension,2023-12-25,Resolved
+P0396,I10,Essential hypertension,2020-06-18,Active
+P0396,I11.9,Hypertensive heart disease without heart failure,2021-05-06,Active
+P0396,E11.9,Type 2 diabetes mellitus without complications,2023-11-03,Active
+P0396,E78.5,"Dyslipidemia, unspecified",2024-06-17,Active
+P0396,N18.3,"Chronic kidney disease, stage 3",2020-10-03,Resolved
+P0396,G47.33,Obstructive sleep apnea,2023-08-04,Active
+P0397,E11.9,Type 2 diabetes mellitus without complications,2020-07-11,Active
+P0397,E11.65,Type 2 diabetes with hyperglycemia,2024-04-27,Active
+P0398,F17.210,"Nicotine dependence, cigarettes",2023-04-09,Active
+P0399,I10,Essential hypertension,2022-03-03,Active
+P0399,E11.9,Type 2 diabetes mellitus without complications,2021-08-07,Active
+P0399,F17.210,"Nicotine dependence, cigarettes",2021-06-25,Active
+P0399,I48.91,"Atrial fibrillation, unspecified",2022-10-01,Active
+P0399,N18.3,"Chronic kidney disease, stage 3",2023-10-01,Active
+P0400,I10,Essential hypertension,2021-07-07,Active
+P0400,E11.9,Type 2 diabetes mellitus without complications,2021-05-17,Active
+P0400,F17.210,"Nicotine dependence, cigarettes",2023-01-29,Active
+P0400,G47.33,Obstructive sleep apnea,2021-12-09,Active
+P0401,I10,Essential hypertension,2024-05-31,Active
+P0401,N18.3,"Chronic kidney disease, stage 3",2024-11-20,Active
+P0402,I10,Essential hypertension,2024-09-07,Resolved
+P0402,F17.210,"Nicotine dependence, cigarettes",2021-09-21,Active
+P0403,I10,Essential hypertension,2022-01-10,Active
+P0403,I11.9,Hypertensive heart disease without heart failure,2021-02-10,Active
+P0403,E11.9,Type 2 diabetes mellitus without complications,2024-03-20,Active
+P0403,N18.3,"Chronic kidney disease, stage 3",2024-04-16,Active
+P0405,I10,Essential hypertension,2025-02-14,Active
+P0405,E11.9,Type 2 diabetes mellitus without complications,2024-12-12,Active
+P0405,E11.65,Type 2 diabetes with hyperglycemia,2024-01-08,Active
+P0407,N18.3,"Chronic kidney disease, stage 3",2024-02-03,Active
+P0408,I10,Essential hypertension,2024-06-08,Active
+P0408,E11.9,Type 2 diabetes mellitus without complications,2021-12-02,Active
+P0408,E78.5,"Dyslipidemia, unspecified",2024-06-28,Active
+P0409,N18.3,"Chronic kidney disease, stage 3",2024-10-04,Active
+P0410,E11.9,Type 2 diabetes mellitus without complications,2025-02-06,Active
+P0410,F17.210,"Nicotine dependence, cigarettes",2020-12-09,Active
+P0412,I10,Essential hypertension,2023-08-07,Active
+P0412,E11.9,Type 2 diabetes mellitus without complications,2022-01-28,Active
+P0412,N18.3,"Chronic kidney disease, stage 3",2022-11-10,Active
+P0413,N18.3,"Chronic kidney disease, stage 3",2023-03-13,Active
+P0414,E11.9,Type 2 diabetes mellitus without complications,2021-06-11,Active
+P0414,E11.65,Type 2 diabetes with hyperglycemia,2020-07-20,Active
+P0414,E78.5,"Dyslipidemia, unspecified",2022-05-06,Active
+P0414,G47.33,Obstructive sleep apnea,2022-11-29,Resolved
+P0415,I10,Essential hypertension,2020-11-06,Active
+P0415,I11.9,Hypertensive heart disease without heart failure,2023-12-11,Active
+P0415,E11.9,Type 2 diabetes mellitus without complications,2024-02-29,Active
+P0415,E78.5,"Dyslipidemia, unspecified",2023-09-18,Active
+P0415,F17.210,"Nicotine dependence, cigarettes",2022-10-14,Active
+P0416,E11.9,Type 2 diabetes mellitus without complications,2020-12-16,Active
+P0416,E11.65,Type 2 diabetes with hyperglycemia,2021-04-17,Active
+P0416,E78.5,"Dyslipidemia, unspecified",2024-07-16,Active
+P0416,I25.10,Atherosclerotic heart disease,2020-11-18,Active
+P0416,N18.3,"Chronic kidney disease, stage 3",2024-10-15,Active
+P0416,G47.33,Obstructive sleep apnea,2023-01-08,Active
+P0417,N18.3,"Chronic kidney disease, stage 3",2024-06-28,Active
+P0418,E11.9,Type 2 diabetes mellitus without complications,2024-02-28,Resolved
+P0419,I10,Essential hypertension,2023-08-07,Active
+P0420,E11.9,Type 2 diabetes mellitus without complications,2021-03-16,Active
+P0420,F17.210,"Nicotine dependence, cigarettes",2020-06-22,Active
+P0420,G47.33,Obstructive sleep apnea,2022-10-03,Resolved
+P0421,E11.9,Type 2 diabetes mellitus without complications,2023-09-11,Active
+P0421,E11.65,Type 2 diabetes with hyperglycemia,2022-10-25,Active
+P0421,F17.210,"Nicotine dependence, cigarettes",2024-03-11,Active
+P0422,I10,Essential hypertension,2023-09-14,Active
+P0422,E11.9,Type 2 diabetes mellitus without complications,2021-03-17,Active
+P0423,I10,Essential hypertension,2024-07-02,Active
+P0423,E11.9,Type 2 diabetes mellitus without complications,2024-06-10,Active
+P0425,N18.3,"Chronic kidney disease, stage 3",2025-01-27,Active
+P0426,E11.9,Type 2 diabetes mellitus without complications,2024-11-12,Active
+P0426,E66.01,Morbid obesity due to excess calories,2023-01-29,Active
+P0427,I10,Essential hypertension,2022-03-08,Active
+P0427,E11.9,Type 2 diabetes mellitus without complications,2023-11-11,Active
+P0427,I25.10,Atherosclerotic heart disease,2020-06-13,Active
+P0428,I10,Essential hypertension,2024-04-13,Active
+P0428,E78.5,"Dyslipidemia, unspecified",2020-11-22,Active
+P0428,E78.0,Pure hypercholesterolemia,2022-10-31,Active
+P0429,E11.9,Type 2 diabetes mellitus without complications,2020-09-20,Active
+P0429,E78.5,"Dyslipidemia, unspecified",2024-05-23,Active
+P0429,N18.3,"Chronic kidney disease, stage 3",2024-01-11,Active
+P0430,I10,Essential hypertension,2024-03-23,Active
+P0430,E11.9,Type 2 diabetes mellitus without complications,2024-04-29,Active
+P0430,I25.10,Atherosclerotic heart disease,2022-11-20,Active
+P0430,N18.3,"Chronic kidney disease, stage 3",2022-02-28,Active
+P0430,G47.33,Obstructive sleep apnea,2024-01-17,Active
+P0431,N18.3,"Chronic kidney disease, stage 3",2024-11-09,Resolved
+P0434,I10,Essential hypertension,2024-10-19,Active
+P0435,I10,Essential hypertension,2020-07-07,Resolved
+P0435,I48.91,"Atrial fibrillation, unspecified",2021-11-18,Active
+P0438,E78.5,"Dyslipidemia, unspecified",2021-02-09,Resolved
+P0439,I10,Essential hypertension,2023-05-12,Active
+P0439,I11.9,Hypertensive heart disease without heart failure,2024-05-12,Active
+P0439,E66.01,Morbid obesity due to excess calories,2021-07-18,Resolved
+P0439,I25.10,Atherosclerotic heart disease,2023-11-09,Active
+P0440,E11.9,Type 2 diabetes mellitus without complications,2020-10-22,Active
+P0440,E78.5,"Dyslipidemia, unspecified",2020-11-28,Resolved
+P0442,I10,Essential hypertension,2023-05-12,Resolved
+P0442,I11.9,Hypertensive heart disease without heart failure,2021-10-31,Active
+P0442,F17.210,"Nicotine dependence, cigarettes",2020-10-12,Active
+P0443,I10,Essential hypertension,2022-10-07,Active
+P0444,I10,Essential hypertension,2020-08-09,Active
+P0445,I10,Essential hypertension,2023-06-13,Resolved
+P0446,F17.210,"Nicotine dependence, cigarettes",2020-10-10,Active
+P0447,I10,Essential hypertension,2024-05-01,Active
+P0448,I10,Essential hypertension,2025-01-02,Active
+P0448,E11.9,Type 2 diabetes mellitus without complications,2022-07-09,Active
+P0448,E11.65,Type 2 diabetes with hyperglycemia,2022-06-02,Active
+P0448,N18.3,"Chronic kidney disease, stage 3",2022-11-26,Active
+P0449,I10,Essential hypertension,2024-11-20,Active
+P0449,E11.9,Type 2 diabetes mellitus without complications,2020-11-06,Active
+P0449,E11.65,Type 2 diabetes with hyperglycemia,2024-04-25,Active
+P0450,F17.210,"Nicotine dependence, cigarettes",2021-11-02,Active
+P0451,I10,Essential hypertension,2024-10-27,Active
+P0452,E11.9,Type 2 diabetes mellitus without complications,2025-02-17,Active
+P0454,I10,Essential hypertension,2023-05-10,Active
+P0454,I11.9,Hypertensive heart disease without heart failure,2020-06-03,Active
+P0454,N18.3,"Chronic kidney disease, stage 3",2021-04-23,Active
+P0455,I10,Essential hypertension,2023-10-30,Active
+P0456,F17.210,"Nicotine dependence, cigarettes",2023-06-17,Active
+P0457,I10,Essential hypertension,2020-09-17,Active
+P0457,I11.9,Hypertensive heart disease without heart failure,2022-02-02,Active
+P0457,N18.3,"Chronic kidney disease, stage 3",2025-02-26,Active
+P0458,I10,Essential hypertension,2021-03-21,Active
+P0458,E11.9,Type 2 diabetes mellitus without complications,2020-06-09,Active
+P0458,E11.65,Type 2 diabetes with hyperglycemia,2020-11-04,Active
+P0459,I10,Essential hypertension,2021-11-05,Resolved
+P0460,E11.9,Type 2 diabetes mellitus without complications,2022-02-03,Active
+P0461,I10,Essential hypertension,2024-11-13,Active
+P0461,I11.9,Hypertensive heart disease without heart failure,2022-10-27,Active
+P0461,E11.9,Type 2 diabetes mellitus without complications,2020-09-20,Active
+P0461,E78.5,"Dyslipidemia, unspecified",2022-10-29,Active
+P0461,E78.0,Pure hypercholesterolemia,2021-11-20,Resolved
+P0461,F17.210,"Nicotine dependence, cigarettes",2021-10-10,Active
+P0462,I10,Essential hypertension,2021-09-16,Active
+P0462,I11.9,Hypertensive heart disease without heart failure,2022-02-01,Active
+P0462,F17.210,"Nicotine dependence, cigarettes",2024-08-11,Active
+P0462,J44.1,COPD with acute exacerbation,2024-09-06,Active
+P0462,N18.3,"Chronic kidney disease, stage 3",2022-03-07,Active
+P0464,I10,Essential hypertension,2021-05-31,Resolved
+P0466,I10,Essential hypertension,2020-07-18,Active
+P0466,E78.5,"Dyslipidemia, unspecified",2023-12-29,Active
+P0467,N18.3,"Chronic kidney disease, stage 3",2021-08-04,Active
+P0468,I10,Essential hypertension,2022-04-02,Resolved
+P0468,E11.9,Type 2 diabetes mellitus without complications,2023-10-19,Active
+P0468,N18.3,"Chronic kidney disease, stage 3",2024-03-21,Resolved
+P0469,I10,Essential hypertension,2023-10-11,Active
+P0469,E11.9,Type 2 diabetes mellitus without complications,2025-03-12,Active
+P0469,F17.210,"Nicotine dependence, cigarettes",2021-09-30,Active
+P0469,I25.10,Atherosclerotic heart disease,2020-06-26,Active
+P0470,I10,Essential hypertension,2024-12-12,Active
+P0470,I11.9,Hypertensive heart disease without heart failure,2022-07-18,Active
+P0470,N18.3,"Chronic kidney disease, stage 3",2024-01-15,Active
+P0471,I10,Essential hypertension,2025-04-27,Active
+P0471,E11.9,Type 2 diabetes mellitus without complications,2021-05-23,Active
+P0471,F17.210,"Nicotine dependence, cigarettes",2023-05-11,Active
+P0471,N18.3,"Chronic kidney disease, stage 3",2020-09-02,Active
+P0472,E11.9,Type 2 diabetes mellitus without complications,2024-08-21,Active
+P0472,E11.65,Type 2 diabetes with hyperglycemia,2025-03-05,Active
+P0472,E78.5,"Dyslipidemia, unspecified",2020-10-15,Active
+P0473,I10,Essential hypertension,2020-06-27,Active
+P0473,E11.9,Type 2 diabetes mellitus without complications,2022-08-25,Active
+P0474,I10,Essential hypertension,2024-10-17,Active
+P0475,E78.5,"Dyslipidemia, unspecified",2020-10-18,Active
+P0475,F17.210,"Nicotine dependence, cigarettes",2020-11-11,Active
+P0475,G47.33,Obstructive sleep apnea,2025-04-26,Active
+P0476,E11.9,Type 2 diabetes mellitus without complications,2023-09-30,Active
+P0477,I10,Essential hypertension,2023-07-20,Active
+P0477,E78.5,"Dyslipidemia, unspecified",2020-10-19,Active
+P0477,E78.0,Pure hypercholesterolemia,2021-06-04,Active
+P0478,I10,Essential hypertension,2023-07-02,Active
+P0479,I10,Essential hypertension,2024-10-16,Active
+P0479,N18.3,"Chronic kidney disease, stage 3",2020-07-29,Active
+P0481,E11.9,Type 2 diabetes mellitus without complications,2021-09-20,Active
+P0481,E11.65,Type 2 diabetes with hyperglycemia,2022-09-12,Resolved
+P0481,E66.01,Morbid obesity due to excess calories,2025-03-26,Active
+P0482,E11.9,Type 2 diabetes mellitus without complications,2023-07-31,Active
+P0482,E66.01,Morbid obesity due to excess calories,2020-08-15,Active
+P0482,G47.33,Obstructive sleep apnea,2020-09-28,Active
+P0483,E11.9,Type 2 diabetes mellitus without complications,2023-09-17,Active
+P0484,I10,Essential hypertension,2021-06-30,Active
+P0484,I11.9,Hypertensive heart disease without heart failure,2024-03-31,Active
+P0484,E11.9,Type 2 diabetes mellitus without complications,2022-01-28,Active
+P0484,N18.3,"Chronic kidney disease, stage 3",2024-05-17,Active
+P0485,I10,Essential hypertension,2020-12-23,Active
+P0485,N18.3,"Chronic kidney disease, stage 3",2024-03-16,Active
+P0486,I10,Essential hypertension,2023-12-09,Active
+P0486,E11.9,Type 2 diabetes mellitus without complications,2025-02-12,Active
+P0487,I10,Essential hypertension,2021-05-02,Active
+P0488,I10,Essential hypertension,2024-11-18,Active
+P0489,I10,Essential hypertension,2023-06-04,Resolved
+P0489,E78.5,"Dyslipidemia, unspecified",2021-03-10,Active
+P0491,I10,Essential hypertension,2023-11-30,Active
+P0491,I11.9,Hypertensive heart disease without heart failure,2025-02-03,Active
+P0491,F17.210,"Nicotine dependence, cigarettes",2022-11-23,Active
+P0491,J44.1,COPD with acute exacerbation,2022-01-08,Active
+P0493,E11.9,Type 2 diabetes mellitus without complications,2025-01-14,Active
+P0494,I10,Essential hypertension,2023-07-10,Active
+P0494,I11.9,Hypertensive heart disease without heart failure,2020-10-07,Active
+P0495,I10,Essential hypertension,2021-10-23,Active
+P0496,F17.210,"Nicotine dependence, cigarettes",2024-02-11,Active
+P0497,F17.210,"Nicotine dependence, cigarettes",2025-02-02,Active
+P0498,F17.210,"Nicotine dependence, cigarettes",2024-01-30,Active
+P0499,I10,Essential hypertension,2020-08-19,Active
+P0499,I11.9,Hypertensive heart disease without heart failure,2023-12-24,Active
+P0499,E11.9,Type 2 diabetes mellitus without complications,2023-05-12,Active
+P0500,N18.3,"Chronic kidney disease, stage 3",2023-03-04,Active
+P0501,E11.9,Type 2 diabetes mellitus without complications,2025-04-20,Active
+P0501,E11.65,Type 2 diabetes with hyperglycemia,2023-11-20,Active
+P0501,E78.5,"Dyslipidemia, unspecified",2022-08-22,Active
+P0501,E78.0,Pure hypercholesterolemia,2022-05-27,Active
+P0503,I10,Essential hypertension,2023-12-06,Active
+P0503,I48.91,"Atrial fibrillation, unspecified",2025-03-19,Active
+P0504,I10,Essential hypertension,2020-07-20,Active
+P0504,E11.9,Type 2 diabetes mellitus without complications,2022-03-23,Resolved
+P0504,E78.5,"Dyslipidemia, unspecified",2022-07-05,Active
+P0506,I10,Essential hypertension,2020-09-26,Active
+P0508,N18.3,"Chronic kidney disease, stage 3",2024-12-11,Active
+P0509,I48.91,"Atrial fibrillation, unspecified",2020-10-05,Resolved
+P0509,N18.3,"Chronic kidney disease, stage 3",2020-07-08,Active
+P0510,E11.9,Type 2 diabetes mellitus without complications,2022-08-07,Active
+P0510,E78.5,"Dyslipidemia, unspecified",2020-06-26,Resolved
+P0510,E78.0,Pure hypercholesterolemia,2022-05-03,Active
+P0511,N18.3,"Chronic kidney disease, stage 3",2021-10-28,Active
+P0513,E11.9,Type 2 diabetes mellitus without complications,2021-04-28,Resolved
+P0514,I10,Essential hypertension,2022-12-31,Resolved
+P0514,E11.9,Type 2 diabetes mellitus without complications,2024-01-24,Active
+P0514,E11.65,Type 2 diabetes with hyperglycemia,2020-11-14,Active
+P0514,N18.3,"Chronic kidney disease, stage 3",2021-01-04,Active
+P0515,E78.5,"Dyslipidemia, unspecified",2022-11-20,Active
+P0518,E78.5,"Dyslipidemia, unspecified",2022-06-11,Resolved
+P0518,E78.0,Pure hypercholesterolemia,2023-04-14,Active
+P0518,E66.01,Morbid obesity due to excess calories,2021-12-17,Active
+P0518,I50.9,"Heart failure, unspecified",2022-08-14,Active
+P0518,N18.3,"Chronic kidney disease, stage 3",2022-09-26,Resolved
+P0519,F17.210,"Nicotine dependence, cigarettes",2022-03-28,Active
+P0520,N18.3,"Chronic kidney disease, stage 3",2022-01-11,Active
+P0521,E11.9,Type 2 diabetes mellitus without complications,2023-06-30,Active
+P0522,I10,Essential hypertension,2020-12-06,Active
+P0522,E78.5,"Dyslipidemia, unspecified",2021-05-29,Active
+P0522,E66.01,Morbid obesity due to excess calories,2021-06-20,Resolved
+P0522,F17.210,"Nicotine dependence, cigarettes",2024-02-21,Active
+P0522,I48.91,"Atrial fibrillation, unspecified",2021-10-16,Active
+P0523,E11.9,Type 2 diabetes mellitus without complications,2022-09-05,Active
+P0524,E11.9,Type 2 diabetes mellitus without complications,2023-11-13,Active
+P0525,I10,Essential hypertension,2022-01-25,Active
+P0525,E78.5,"Dyslipidemia, unspecified",2024-07-15,Active
+P0525,E78.0,Pure hypercholesterolemia,2024-01-03,Resolved
+P0525,N18.3,"Chronic kidney disease, stage 3",2021-10-07,Resolved
+P0526,N18.3,"Chronic kidney disease, stage 3",2020-06-30,Active
+P0529,E11.9,Type 2 diabetes mellitus without complications,2024-12-14,Active
+P0530,G47.33,Obstructive sleep apnea,2020-12-29,Active
+P0531,E11.9,Type 2 diabetes mellitus without complications,2020-06-11,Active
+P0531,E78.5,"Dyslipidemia, unspecified",2021-07-28,Active
+P0531,I25.10,Atherosclerotic heart disease,2023-02-09,Active
+P0531,N18.3,"Chronic kidney disease, stage 3",2023-09-21,Resolved
+P0531,G47.33,Obstructive sleep apnea,2020-11-20,Active
+P0532,E11.9,Type 2 diabetes mellitus without complications,2021-07-10,Resolved
+P0532,E78.5,"Dyslipidemia, unspecified",2021-10-05,Active
+P0533,F17.210,"Nicotine dependence, cigarettes",2022-03-20,Active
+P0534,E11.9,Type 2 diabetes mellitus without complications,2020-08-19,Active
+P0536,E78.5,"Dyslipidemia, unspecified",2022-02-16,Active
+P0537,E11.9,Type 2 diabetes mellitus without complications,2021-06-28,Active
+P0537,E78.5,"Dyslipidemia, unspecified",2025-03-12,Resolved
+P0537,N18.3,"Chronic kidney disease, stage 3",2021-10-21,Resolved
+P0538,I10,Essential hypertension,2021-08-03,Active
+P0538,I11.9,Hypertensive heart disease without heart failure,2020-11-11,Active
+P0538,E11.9,Type 2 diabetes mellitus without complications,2024-02-26,Resolved
+P0538,F17.210,"Nicotine dependence, cigarettes",2024-01-09,Active
+P0538,I25.10,Atherosclerotic heart disease,2022-09-25,Active
+P0538,G47.33,Obstructive sleep apnea,2020-10-11,Active
+P0539,E11.9,Type 2 diabetes mellitus without complications,2022-07-15,Active
+P0539,E11.65,Type 2 diabetes with hyperglycemia,2022-09-29,Active
+P0539,N18.3,"Chronic kidney disease, stage 3",2022-11-24,Active
+P0540,I10,Essential hypertension,2025-04-29,Active
+P0541,I10,Essential hypertension,2021-06-18,Active
+P0541,F17.210,"Nicotine dependence, cigarettes",2021-08-13,Active
+P0541,I25.10,Atherosclerotic heart disease,2022-02-06,Active
+P0544,N18.3,"Chronic kidney disease, stage 3",2020-11-02,Active
+P0545,E11.9,Type 2 diabetes mellitus without complications,2021-04-01,Active
+P0546,E11.9,Type 2 diabetes mellitus without complications,2024-09-13,Active
+P0546,I48.91,"Atrial fibrillation, unspecified",2021-09-08,Active
+P0546,N18.3,"Chronic kidney disease, stage 3",2021-12-16,Resolved
+P0547,I10,Essential hypertension,2020-08-23,Active
+P0547,E11.9,Type 2 diabetes mellitus without complications,2023-10-25,Active
+P0547,E11.65,Type 2 diabetes with hyperglycemia,2021-06-26,Active
+P0547,F17.210,"Nicotine dependence, cigarettes",2022-12-11,Active
+P0548,I10,Essential hypertension,2022-06-08,Active
+P0550,I10,Essential hypertension,2021-04-11,Active
+P0550,I11.9,Hypertensive heart disease without heart failure,2025-01-30,Active
+P0550,F17.210,"Nicotine dependence, cigarettes",2021-05-18,Active
+P0551,I10,Essential hypertension,2022-05-06,Active
+P0551,I11.9,Hypertensive heart disease without heart failure,2023-09-04,Active
+P0551,F17.210,"Nicotine dependence, cigarettes",2022-09-11,Active
+P0551,J44.1,COPD with acute exacerbation,2023-03-17,Active
+P0552,I10,Essential hypertension,2023-07-08,Active
+P0553,F17.210,"Nicotine dependence, cigarettes",2021-08-11,Active
+P0555,I10,Essential hypertension,2024-08-04,Active
+P0555,N18.3,"Chronic kidney disease, stage 3",2025-01-04,Active
+P0556,I10,Essential hypertension,2024-08-05,Active
+P0557,N18.3,"Chronic kidney disease, stage 3",2020-11-07,Resolved
+P0558,I10,Essential hypertension,2021-12-16,Resolved
+P0558,I11.9,Hypertensive heart disease without heart failure,2023-08-08,Active
+P0558,E11.9,Type 2 diabetes mellitus without complications,2023-08-14,Active
+P0558,F17.210,"Nicotine dependence, cigarettes",2025-01-24,Active
+P0558,J44.1,COPD with acute exacerbation,2023-12-08,Active
+P0558,G47.33,Obstructive sleep apnea,2020-07-10,Active
+P0559,F17.210,"Nicotine dependence, cigarettes",2022-10-15,Resolved
+P0561,I10,Essential hypertension,2025-01-03,Active
+P0561,N18.3,"Chronic kidney disease, stage 3",2025-03-03,Active
+P0562,F17.210,"Nicotine dependence, cigarettes",2024-04-16,Active
+P0563,N18.3,"Chronic kidney disease, stage 3",2022-09-29,Resolved
+P0564,I10,Essential hypertension,2021-08-29,Active
+P0564,E11.9,Type 2 diabetes mellitus without complications,2023-11-17,Active
+P0564,E11.65,Type 2 diabetes with hyperglycemia,2022-01-12,Resolved
+P0564,E78.5,"Dyslipidemia, unspecified",2025-03-26,Resolved
+P0564,E78.0,Pure hypercholesterolemia,2024-05-23,Active
+P0564,N18.3,"Chronic kidney disease, stage 3",2025-01-27,Active
+P0565,I10,Essential hypertension,2022-07-23,Resolved
+P0566,I10,Essential hypertension,2020-06-22,Active
+P0566,I11.9,Hypertensive heart disease without heart failure,2023-07-09,Active
+P0566,F17.210,"Nicotine dependence, cigarettes",2020-11-03,Active
+P0568,I10,Essential hypertension,2024-05-10,Active
+P0568,E11.9,Type 2 diabetes mellitus without complications,2020-07-30,Active
+P0568,E11.65,Type 2 diabetes with hyperglycemia,2020-07-26,Active
+P0568,E66.01,Morbid obesity due to excess calories,2024-08-17,Active
+P0568,F17.210,"Nicotine dependence, cigarettes",2021-09-05,Active
+P0568,J44.1,COPD with acute exacerbation,2021-07-13,Active
+P0569,E11.9,Type 2 diabetes mellitus without complications,2021-12-10,Active
+P0569,N18.3,"Chronic kidney disease, stage 3",2024-02-28,Active
+P0570,I10,Essential hypertension,2023-03-12,Active
+P0570,F17.210,"Nicotine dependence, cigarettes",2023-01-23,Active
+P0571,E78.5,"Dyslipidemia, unspecified",2022-02-16,Resolved
+P0571,E78.0,Pure hypercholesterolemia,2022-10-15,Active
+P0572,I10,Essential hypertension,2024-02-09,Resolved
+P0572,E11.9,Type 2 diabetes mellitus without complications,2021-04-06,Resolved
+P0573,F17.210,"Nicotine dependence, cigarettes",2021-04-11,Active
+P0574,I10,Essential hypertension,2024-05-24,Active
+P0575,I10,Essential hypertension,2022-12-20,Active
+P0575,F17.210,"Nicotine dependence, cigarettes",2023-05-05,Resolved
+P0576,I10,Essential hypertension,2024-05-09,Resolved
+P0576,E11.9,Type 2 diabetes mellitus without complications,2022-03-20,Active
+P0577,I10,Essential hypertension,2024-09-25,Active
+P0578,I10,Essential hypertension,2024-11-25,Active
+P0579,E11.9,Type 2 diabetes mellitus without complications,2024-05-30,Active
+P0581,I48.91,"Atrial fibrillation, unspecified",2024-11-02,Active
+P0581,N18.3,"Chronic kidney disease, stage 3",2022-03-24,Active
+P0582,I10,Essential hypertension,2022-08-25,Active
+P0582,E11.9,Type 2 diabetes mellitus without complications,2024-01-13,Active
+P0582,E78.5,"Dyslipidemia, unspecified",2020-09-03,Active
+P0582,F17.210,"Nicotine dependence, cigarettes",2022-03-23,Resolved
+P0582,J44.1,COPD with acute exacerbation,2024-03-09,Resolved
+P0582,N18.3,"Chronic kidney disease, stage 3",2022-09-09,Resolved
+P0583,I10,Essential hypertension,2023-12-26,Active
+P0583,I11.9,Hypertensive heart disease without heart failure,2020-08-04,Active
+P0583,E11.9,Type 2 diabetes mellitus without complications,2024-09-27,Active
+P0583,F17.210,"Nicotine dependence, cigarettes",2022-10-24,Active
+P0584,E78.5,"Dyslipidemia, unspecified",2022-05-09,Active
+P0585,N18.3,"Chronic kidney disease, stage 3",2023-02-07,Resolved
+P0587,I10,Essential hypertension,2020-08-17,Active
+P0588,E11.9,Type 2 diabetes mellitus without complications,2020-12-14,Active
+P0588,E11.65,Type 2 diabetes with hyperglycemia,2024-12-18,Active
+P0588,N18.3,"Chronic kidney disease, stage 3",2020-06-29,Active
+P0589,I10,Essential hypertension,2025-01-03,Resolved
+P0589,I11.9,Hypertensive heart disease without heart failure,2022-04-18,Active
+P0589,E11.9,Type 2 diabetes mellitus without complications,2020-10-13,Active
+P0591,I10,Essential hypertension,2022-12-08,Active
+P0591,E11.9,Type 2 diabetes mellitus without complications,2022-09-08,Active
+P0591,N18.3,"Chronic kidney disease, stage 3",2021-01-07,Active
+P0591,G47.33,Obstructive sleep apnea,2025-01-20,Active
+P0591,I63.9,"Cerebral infarction, unspecified",2024-08-26,Active
+P0592,F17.210,"Nicotine dependence, cigarettes",2021-11-09,Active
+P0593,I10,Essential hypertension,2022-01-13,Active
+P0593,N18.3,"Chronic kidney disease, stage 3",2021-03-28,Active
+P0594,I10,Essential hypertension,2020-12-27,Active
+P0594,E11.9,Type 2 diabetes mellitus without complications,2021-11-20,Active
+P0594,E78.5,"Dyslipidemia, unspecified",2020-07-22,Resolved
+P0594,E66.01,Morbid obesity due to excess calories,2022-12-22,Active
+P0594,N18.3,"Chronic kidney disease, stage 3",2024-07-27,Active
+P0594,G47.33,Obstructive sleep apnea,2022-08-04,Active
+P0595,E11.9,Type 2 diabetes mellitus without complications,2024-12-12,Active
+P0595,E11.65,Type 2 diabetes with hyperglycemia,2023-08-31,Active
+P0595,F17.210,"Nicotine dependence, cigarettes",2021-11-22,Active
+P0595,J44.1,COPD with acute exacerbation,2023-09-24,Active
+P0595,I48.91,"Atrial fibrillation, unspecified",2022-11-23,Active
+P0595,I50.9,"Heart failure, unspecified",2022-03-22,Active
+P0596,F17.210,"Nicotine dependence, cigarettes",2023-03-15,Active
+P0597,I10,Essential hypertension,2020-09-01,Active
+P0597,E11.9,Type 2 diabetes mellitus without complications,2022-02-13,Active
+P0597,N18.3,"Chronic kidney disease, stage 3",2021-09-12,Active
+P0598,I10,Essential hypertension,2023-05-26,Active
+P0598,E11.9,Type 2 diabetes mellitus without complications,2022-09-05,Resolved
+P0598,E78.5,"Dyslipidemia, unspecified",2024-03-05,Active
+P0598,E66.01,Morbid obesity due to excess calories,2024-02-10,Active
+P0598,N18.3,"Chronic kidney disease, stage 3",2023-03-08,Resolved
+P0598,G47.33,Obstructive sleep apnea,2022-01-18,Active
+P0599,E11.9,Type 2 diabetes mellitus without complications,2021-06-05,Active
+P0599,E11.65,Type 2 diabetes with hyperglycemia,2024-06-10,Active
+P0600,I10,Essential hypertension,2023-05-21,Active
+P0600,E11.9,Type 2 diabetes mellitus without complications,2023-10-02,Active
+P0600,E11.65,Type 2 diabetes with hyperglycemia,2024-02-21,Active
+P0601,I10,Essential hypertension,2023-01-24,Active
+P0601,E11.9,Type 2 diabetes mellitus without complications,2023-01-26,Active
+P0601,E11.65,Type 2 diabetes with hyperglycemia,2021-02-14,Active
+P0601,N18.3,"Chronic kidney disease, stage 3",2023-12-17,Active
+P0602,E78.5,"Dyslipidemia, unspecified",2020-11-27,Active
+P0602,E78.0,Pure hypercholesterolemia,2024-12-01,Resolved
+P0603,E11.9,Type 2 diabetes mellitus without complications,2025-01-10,Active
+P0603,E66.01,Morbid obesity due to excess calories,2024-03-07,Active
+P0603,G47.33,Obstructive sleep apnea,2024-11-23,Active
+P0604,E11.9,Type 2 diabetes mellitus without complications,2021-03-28,Active
+P0604,E11.65,Type 2 diabetes with hyperglycemia,2020-12-27,Active
+P0604,F17.210,"Nicotine dependence, cigarettes",2021-12-16,Active
+P0605,I10,Essential hypertension,2022-11-25,Active
+P0605,E11.9,Type 2 diabetes mellitus without complications,2021-09-20,Active
+P0605,I48.91,"Atrial fibrillation, unspecified",2022-01-03,Resolved
+P0605,N18.3,"Chronic kidney disease, stage 3",2023-02-04,Active
+P0606,I10,Essential hypertension,2022-11-28,Active
+P0607,I10,Essential hypertension,2025-03-13,Active
+P0608,I10,Essential hypertension,2022-02-10,Active
+P0608,N18.3,"Chronic kidney disease, stage 3",2020-12-30,Active
+P0609,I10,Essential hypertension,2020-06-10,Active
+P0609,N18.3,"Chronic kidney disease, stage 3",2021-09-10,Active
+P0611,I48.91,"Atrial fibrillation, unspecified",2024-01-30,Resolved
+P0611,N18.3,"Chronic kidney disease, stage 3",2022-10-25,Active
+P0612,I10,Essential hypertension,2022-07-18,Active
+P0612,I11.9,Hypertensive heart disease without heart failure,2025-01-04,Resolved
+P0612,G47.33,Obstructive sleep apnea,2023-11-07,Active
+P0613,I10,Essential hypertension,2024-02-08,Active
+P0613,E11.9,Type 2 diabetes mellitus without complications,2024-05-07,Active
+P0613,E11.65,Type 2 diabetes with hyperglycemia,2021-05-28,Resolved
+P0613,E66.01,Morbid obesity due to excess calories,2021-11-22,Active
+P0613,N18.3,"Chronic kidney disease, stage 3",2023-06-15,Active
+P0613,G47.33,Obstructive sleep apnea,2021-01-19,Active
+P0614,I10,Essential hypertension,2021-05-10,Active
+P0614,E11.9,Type 2 diabetes mellitus without complications,2023-07-30,Active
+P0614,E11.65,Type 2 diabetes with hyperglycemia,2023-06-06,Active
+P0614,E66.01,Morbid obesity due to excess calories,2020-12-27,Active
+P0615,I10,Essential hypertension,2021-06-02,Active
+P0615,I11.9,Hypertensive heart disease without heart failure,2021-06-22,Active
+P0615,F17.210,"Nicotine dependence, cigarettes",2020-11-18,Active
+P0615,J44.1,COPD with acute exacerbation,2025-03-13,Active
+P0615,I48.91,"Atrial fibrillation, unspecified",2021-04-02,Active
+P0615,I25.10,Atherosclerotic heart disease,2023-10-10,Active
+P0616,F17.210,"Nicotine dependence, cigarettes",2022-07-07,Resolved
+P0617,I10,Essential hypertension,2022-01-11,Active
+P0618,I10,Essential hypertension,2023-07-09,Active
+P0619,I10,Essential hypertension,2024-02-01,Active
+P0620,I10,Essential hypertension,2024-01-02,Active
+P0621,I10,Essential hypertension,2023-09-28,Active
+P0621,N18.3,"Chronic kidney disease, stage 3",2022-08-24,Active
+P0623,I10,Essential hypertension,2022-02-01,Active
+P0623,I11.9,Hypertensive heart disease without heart failure,2023-11-16,Active
+P0623,N18.3,"Chronic kidney disease, stage 3",2021-07-19,Active
+P0624,E11.9,Type 2 diabetes mellitus without complications,2025-04-08,Resolved
+P0624,E11.65,Type 2 diabetes with hyperglycemia,2021-02-23,Active
+P0624,F17.210,"Nicotine dependence, cigarettes",2022-10-18,Active
+P0625,E11.9,Type 2 diabetes mellitus without complications,2023-06-01,Active
+P0626,E11.9,Type 2 diabetes mellitus without complications,2023-03-17,Active
+P0626,E11.65,Type 2 diabetes with hyperglycemia,2024-06-12,Active
+P0626,G47.33,Obstructive sleep apnea,2023-09-27,Active
+P0627,I10,Essential hypertension,2023-06-08,Active
+P0627,I11.9,Hypertensive heart disease without heart failure,2021-08-27,Active
+P0627,E11.9,Type 2 diabetes mellitus without complications,2024-05-14,Active
+P0627,I48.91,"Atrial fibrillation, unspecified",2021-12-21,Active
+P0627,I63.9,"Cerebral infarction, unspecified",2022-04-15,Active
+P0628,I10,Essential hypertension,2021-03-22,Active
+P0628,E11.9,Type 2 diabetes mellitus without complications,2021-09-21,Active
+P0628,E78.5,"Dyslipidemia, unspecified",2022-12-15,Active
+P0628,E66.01,Morbid obesity due to excess calories,2021-07-03,Active
+P0628,N18.3,"Chronic kidney disease, stage 3",2022-09-05,Active
+P0628,G47.33,Obstructive sleep apnea,2021-03-31,Resolved
+P0629,I10,Essential hypertension,2023-03-10,Active
+P0629,F17.210,"Nicotine dependence, cigarettes",2024-01-10,Active
+P0630,E11.9,Type 2 diabetes mellitus without complications,2021-11-19,Active
+P0630,E11.65,Type 2 diabetes with hyperglycemia,2022-09-16,Active
+P0630,F17.210,"Nicotine dependence, cigarettes",2021-10-04,Resolved
+P0631,I10,Essential hypertension,2024-11-01,Active
+P0631,I11.9,Hypertensive heart disease without heart failure,2022-03-25,Active
+P0631,E11.9,Type 2 diabetes mellitus without complications,2022-08-30,Active
+P0632,E11.9,Type 2 diabetes mellitus without complications,2024-01-20,Active
+P0632,I48.91,"Atrial fibrillation, unspecified",2021-08-28,Active
+P0632,N18.3,"Chronic kidney disease, stage 3",2022-07-09,Active
+P0632,I63.9,"Cerebral infarction, unspecified",2022-08-24,Active
+P0633,E11.9,Type 2 diabetes mellitus without complications,2021-01-05,Active
+P0633,N18.3,"Chronic kidney disease, stage 3",2022-06-08,Active
+P0634,N18.3,"Chronic kidney disease, stage 3",2021-06-16,Active
+P0635,I10,Essential hypertension,2024-11-18,Active
+P0635,I11.9,Hypertensive heart disease without heart failure,2022-10-13,Active
+P0635,N18.3,"Chronic kidney disease, stage 3",2024-03-15,Active
+P0636,E11.9,Type 2 diabetes mellitus without complications,2022-10-03,Active
+P0636,E78.5,"Dyslipidemia, unspecified",2023-06-29,Active
+P0636,E78.0,Pure hypercholesterolemia,2023-07-23,Active
+P0636,F17.210,"Nicotine dependence, cigarettes",2021-09-05,Resolved
+P0637,I10,Essential hypertension,2020-11-03,Resolved
+P0638,F17.210,"Nicotine dependence, cigarettes",2024-02-24,Resolved
+P0639,F17.210,"Nicotine dependence, cigarettes",2021-02-01,Active
+P0641,I10,Essential hypertension,2021-01-12,Active
+P0643,I10,Essential hypertension,2024-07-09,Active
+P0644,N18.3,"Chronic kidney disease, stage 3",2022-10-14,Active
+P0645,I10,Essential hypertension,2022-02-05,Active
+P0646,I10,Essential hypertension,2022-02-21,Active
+P0646,E11.9,Type 2 diabetes mellitus without complications,2024-11-12,Resolved
+P0646,E11.65,Type 2 diabetes with hyperglycemia,2021-01-16,Active
+P0646,F17.210,"Nicotine dependence, cigarettes",2022-03-29,Resolved
+P0648,E11.9,Type 2 diabetes mellitus without complications,2022-03-17,Resolved
+P0648,E11.65,Type 2 diabetes with hyperglycemia,2021-03-23,Active
+P0648,F17.210,"Nicotine dependence, cigarettes",2020-08-28,Active
+P0649,N18.3,"Chronic kidney disease, stage 3",2024-11-10,Active
+P0650,I10,Essential hypertension,2023-12-24,Resolved
+P0651,N18.3,"Chronic kidney disease, stage 3",2021-02-13,Active
+P0652,I10,Essential hypertension,2021-09-13,Active
+P0653,I10,Essential hypertension,2021-05-02,Active
+P0653,I11.9,Hypertensive heart disease without heart failure,2022-12-22,Active
+P0653,N18.3,"Chronic kidney disease, stage 3",2020-06-14,Active
+P0654,I10,Essential hypertension,2023-02-24,Active
+P0654,I48.91,"Atrial fibrillation, unspecified",2022-04-08,Active
+P0655,E11.9,Type 2 diabetes mellitus without complications,2024-08-06,Active
+P0656,I10,Essential hypertension,2021-09-17,Active
+P0656,I48.91,"Atrial fibrillation, unspecified",2024-06-03,Resolved
+P0658,E78.5,"Dyslipidemia, unspecified",2024-03-09,Active
+P0658,N18.3,"Chronic kidney disease, stage 3",2024-11-02,Active
+P0659,N18.3,"Chronic kidney disease, stage 3",2023-02-24,Active
+P0660,I10,Essential hypertension,2021-12-08,Active
+P0661,E11.9,Type 2 diabetes mellitus without complications,2025-01-22,Active
+P0662,I10,Essential hypertension,2023-05-28,Active
+P0662,F17.210,"Nicotine dependence, cigarettes",2024-04-02,Active
+P0663,I10,Essential hypertension,2024-07-05,Active
+P0663,E11.9,Type 2 diabetes mellitus without complications,2024-08-05,Active
+P0664,E11.9,Type 2 diabetes mellitus without complications,2021-12-15,Active
+P0667,I10,Essential hypertension,2020-07-13,Active
+P0667,E78.5,"Dyslipidemia, unspecified",2024-01-02,Resolved
+P0667,N18.3,"Chronic kidney disease, stage 3",2024-11-06,Active
+P0668,E11.9,Type 2 diabetes mellitus without complications,2024-03-11,Active
+P0668,E11.65,Type 2 diabetes with hyperglycemia,2022-06-19,Active
+P0668,G47.33,Obstructive sleep apnea,2021-09-12,Active
+P0669,I10,Essential hypertension,2024-04-22,Active
+P0671,I10,Essential hypertension,2021-07-21,Active
+P0671,E11.9,Type 2 diabetes mellitus without complications,2024-08-04,Active
+P0671,N18.3,"Chronic kidney disease, stage 3",2020-11-23,Active
+P0672,I10,Essential hypertension,2020-10-29,Active
+P0672,N18.3,"Chronic kidney disease, stage 3",2021-10-19,Active
+P0674,I10,Essential hypertension,2020-10-29,Active
+P0674,I11.9,Hypertensive heart disease without heart failure,2021-07-22,Active
+P0674,F17.210,"Nicotine dependence, cigarettes",2023-01-10,Active
+P0676,F17.210,"Nicotine dependence, cigarettes",2021-04-23,Active
+P0677,I10,Essential hypertension,2023-10-12,Active
+P0677,F17.210,"Nicotine dependence, cigarettes",2020-07-16,Active
+P0677,N18.3,"Chronic kidney disease, stage 3",2022-06-09,Active
+P0678,I10,Essential hypertension,2022-12-31,Active
+P0679,I10,Essential hypertension,2022-04-10,Active
+P0679,N18.3,"Chronic kidney disease, stage 3",2022-11-12,Active
+P0680,I10,Essential hypertension,2020-10-16,Active
+P0680,I11.9,Hypertensive heart disease without heart failure,2023-02-09,Active
+P0681,I10,Essential hypertension,2021-01-27,Active
+P0682,E11.9,Type 2 diabetes mellitus without complications,2020-12-13,Active
+P0682,N18.3,"Chronic kidney disease, stage 3",2023-11-09,Active
+P0683,I10,Essential hypertension,2022-04-28,Active
+P0683,N18.3,"Chronic kidney disease, stage 3",2023-12-19,Active
+P0685,E11.9,Type 2 diabetes mellitus without complications,2024-03-24,Active
+P0685,F17.210,"Nicotine dependence, cigarettes",2022-11-30,Resolved
+P0686,I10,Essential hypertension,2024-02-14,Active
+P0687,E11.9,Type 2 diabetes mellitus without complications,2021-06-27,Active
+P0687,E11.65,Type 2 diabetes with hyperglycemia,2020-10-01,Active
+P0687,E78.5,"Dyslipidemia, unspecified",2022-12-16,Active
+P0688,I10,Essential hypertension,2023-09-12,Active
+P0688,N18.3,"Chronic kidney disease, stage 3",2024-04-15,Active
+P0690,E11.9,Type 2 diabetes mellitus without complications,2023-11-15,Active
+P0690,E11.65,Type 2 diabetes with hyperglycemia,2021-03-19,Resolved
+P0692,I10,Essential hypertension,2023-10-31,Active
+P0692,I11.9,Hypertensive heart disease without heart failure,2021-03-07,Active
+P0696,I10,Essential hypertension,2023-02-07,Active
+P0697,N18.3,"Chronic kidney disease, stage 3",2023-10-13,Active
+P0698,I10,Essential hypertension,2020-12-28,Active
+P0699,N18.3,"Chronic kidney disease, stage 3",2021-07-27,Active
+P0700,E11.9,Type 2 diabetes mellitus without complications,2024-07-21,Active
+P0700,E78.5,"Dyslipidemia, unspecified",2021-05-08,Active
+P0700,E78.0,Pure hypercholesterolemia,2022-07-06,Active
+P0700,N18.3,"Chronic kidney disease, stage 3",2021-09-05,Active
+P0701,F17.210,"Nicotine dependence, cigarettes",2024-07-12,Active
+P0702,I10,Essential hypertension,2023-12-01,Active
+P0703,I10,Essential hypertension,2022-07-29,Active
+P0703,E11.9,Type 2 diabetes mellitus without complications,2022-02-19,Active
+P0703,E78.5,"Dyslipidemia, unspecified",2021-04-20,Active
+P0703,E78.0,Pure hypercholesterolemia,2021-09-01,Active
+P0704,N18.3,"Chronic kidney disease, stage 3",2021-09-01,Active
+P0706,I10,Essential hypertension,2021-11-01,Resolved
+P0706,N18.3,"Chronic kidney disease, stage 3",2023-04-06,Active
+P0707,I10,Essential hypertension,2021-07-20,Active
+P0708,I10,Essential hypertension,2020-10-17,Active
+P0708,E11.9,Type 2 diabetes mellitus without complications,2023-04-22,Active
+P0708,E11.65,Type 2 diabetes with hyperglycemia,2024-09-16,Active
+P0709,I10,Essential hypertension,2021-03-23,Resolved
+P0710,E11.9,Type 2 diabetes mellitus without complications,2024-01-29,Active
+P0710,F17.210,"Nicotine dependence, cigarettes",2021-06-07,Active
+P0711,I10,Essential hypertension,2024-06-08,Active
+P0711,I11.9,Hypertensive heart disease without heart failure,2022-01-22,Active
+P0711,E11.9,Type 2 diabetes mellitus without complications,2023-04-12,Active
+P0711,E11.65,Type 2 diabetes with hyperglycemia,2023-04-14,Active
+P0711,N18.3,"Chronic kidney disease, stage 3",2022-03-27,Active
+P0714,I10,Essential hypertension,2024-10-21,Active
+P0714,N18.3,"Chronic kidney disease, stage 3",2022-08-20,Active
+P0715,I10,Essential hypertension,2021-04-30,Active
+P0715,I11.9,Hypertensive heart disease without heart failure,2021-09-04,Active
+P0715,F17.210,"Nicotine dependence, cigarettes",2021-10-25,Active
+P0715,N18.3,"Chronic kidney disease, stage 3",2024-07-15,Active
+P0716,E11.9,Type 2 diabetes mellitus without complications,2021-09-21,Active
+P0717,I10,Essential hypertension,2023-03-24,Active
+P0717,I11.9,Hypertensive heart disease without heart failure,2021-08-02,Active
+P0717,N18.3,"Chronic kidney disease, stage 3",2025-03-28,Active
+P0718,F17.210,"Nicotine dependence, cigarettes",2020-10-04,Active
+P0719,I10,Essential hypertension,2022-02-22,Active
+P0719,N18.3,"Chronic kidney disease, stage 3",2022-03-08,Active
+P0720,I10,Essential hypertension,2020-06-11,Resolved
+P0720,F17.210,"Nicotine dependence, cigarettes",2023-05-20,Active
+P0720,J44.1,COPD with acute exacerbation,2020-08-14,Resolved
+P0721,I10,Essential hypertension,2024-05-05,Active
+P0721,E11.9,Type 2 diabetes mellitus without complications,2024-06-29,Active
+P0722,I10,Essential hypertension,2023-02-06,Active
+P0722,E11.9,Type 2 diabetes mellitus without complications,2021-07-02,Active
+P0722,N18.3,"Chronic kidney disease, stage 3",2024-04-04,Active
+P0723,I10,Essential hypertension,2021-12-20,Active
+P0723,E11.9,Type 2 diabetes mellitus without complications,2021-03-22,Active
+P0724,F17.210,"Nicotine dependence, cigarettes",2023-03-31,Active
+P0725,I10,Essential hypertension,2021-04-01,Active
+P0725,I11.9,Hypertensive heart disease without heart failure,2023-11-09,Active
+P0727,E11.9,Type 2 diabetes mellitus without complications,2024-11-06,Active
+P0728,I10,Essential hypertension,2023-01-27,Active
+P0728,I11.9,Hypertensive heart disease without heart failure,2023-12-25,Active
+P0728,I25.10,Atherosclerotic heart disease,2022-10-04,Active
+P0730,I10,Essential hypertension,2024-10-23,Active
+P0730,E11.9,Type 2 diabetes mellitus without complications,2022-09-14,Active
+P0731,I10,Essential hypertension,2023-01-22,Resolved
+P0731,I11.9,Hypertensive heart disease without heart failure,2022-08-07,Active
+P0731,N18.3,"Chronic kidney disease, stage 3",2022-06-14,Resolved
+P0733,I10,Essential hypertension,2021-04-01,Active
+P0733,F17.210,"Nicotine dependence, cigarettes",2021-11-27,Active
+P0734,E11.9,Type 2 diabetes mellitus without complications,2023-03-11,Active
+P0734,E11.65,Type 2 diabetes with hyperglycemia,2020-12-02,Active
+P0734,F17.210,"Nicotine dependence, cigarettes",2023-08-04,Active
+P0735,E11.9,Type 2 diabetes mellitus without complications,2023-05-24,Active
+P0735,N18.3,"Chronic kidney disease, stage 3",2022-11-05,Active
+P0736,I10,Essential hypertension,2022-10-16,Active
+P0736,E11.9,Type 2 diabetes mellitus without complications,2021-05-25,Active
+P0737,I10,Essential hypertension,2023-05-31,Active
+P0737,N18.3,"Chronic kidney disease, stage 3",2022-02-08,Active
+P0738,I10,Essential hypertension,2021-04-19,Active
+P0739,I10,Essential hypertension,2024-12-06,Active
+P0739,E11.9,Type 2 diabetes mellitus without complications,2024-07-24,Active
+P0740,E11.9,Type 2 diabetes mellitus without complications,2024-03-07,Active
+P0741,E11.9,Type 2 diabetes mellitus without complications,2020-09-16,Active
+P0741,E11.65,Type 2 diabetes with hyperglycemia,2024-09-27,Active
+P0742,I10,Essential hypertension,2024-03-11,Active
+P0742,E11.9,Type 2 diabetes mellitus without complications,2022-10-16,Active
+P0742,E11.65,Type 2 diabetes with hyperglycemia,2023-07-23,Active
+P0742,G47.33,Obstructive sleep apnea,2023-11-28,Active
+P0743,I10,Essential hypertension,2021-07-06,Active
+P0744,I10,Essential hypertension,2021-12-14,Active
+P0745,I10,Essential hypertension,2022-09-15,Resolved
+P0745,E11.9,Type 2 diabetes mellitus without complications,2020-12-19,Active
+P0745,E78.5,"Dyslipidemia, unspecified",2023-03-19,Active
+P0745,E78.0,Pure hypercholesterolemia,2022-02-24,Active
+P0746,I10,Essential hypertension,2025-02-19,Active
+P0746,F17.210,"Nicotine dependence, cigarettes",2023-02-20,Resolved
+P0746,N18.3,"Chronic kidney disease, stage 3",2020-12-26,Active
+P0747,N18.3,"Chronic kidney disease, stage 3",2021-12-27,Active
+P0748,I10,Essential hypertension,2023-10-17,Resolved
+P0748,N18.3,"Chronic kidney disease, stage 3",2021-12-05,Active
+P0749,E11.9,Type 2 diabetes mellitus without complications,2021-07-08,Resolved
+P0749,N18.3,"Chronic kidney disease, stage 3",2023-08-19,Resolved
+P0751,I10,Essential hypertension,2020-06-05,Resolved
+P0751,E11.9,Type 2 diabetes mellitus without complications,2024-04-01,Active
+P0751,F17.210,"Nicotine dependence, cigarettes",2023-03-30,Active
+P0751,G47.33,Obstructive sleep apnea,2021-06-15,Active
+P0752,I10,Essential hypertension,2024-09-28,Active
+P0753,F17.210,"Nicotine dependence, cigarettes",2022-07-03,Active
+P0754,E11.9,Type 2 diabetes mellitus without complications,2022-04-09,Active
+P0754,E11.65,Type 2 diabetes with hyperglycemia,2021-06-07,Active
+P0754,N18.3,"Chronic kidney disease, stage 3",2022-08-22,Active
+P0756,F17.210,"Nicotine dependence, cigarettes",2022-01-08,Active
+P0757,N18.3,"Chronic kidney disease, stage 3",2024-03-07,Active
+P0758,E11.9,Type 2 diabetes mellitus without complications,2025-01-14,Active
+P0758,E11.65,Type 2 diabetes with hyperglycemia,2023-07-14,Active
+P0758,N18.3,"Chronic kidney disease, stage 3",2022-11-18,Active
+P0760,I10,Essential hypertension,2021-11-13,Active
+P0760,F17.210,"Nicotine dependence, cigarettes",2023-11-27,Active
+P0760,N18.3,"Chronic kidney disease, stage 3",2023-03-13,Active
+P0761,N18.3,"Chronic kidney disease, stage 3",2023-01-29,Active
+P0762,I10,Essential hypertension,2021-03-17,Active
+P0762,N18.3,"Chronic kidney disease, stage 3",2021-01-23,Active
+P0763,I10,Essential hypertension,2021-10-02,Active
+P0764,F17.210,"Nicotine dependence, cigarettes",2021-02-27,Resolved
+P0764,N18.3,"Chronic kidney disease, stage 3",2023-09-09,Active
+P0765,E11.9,Type 2 diabetes mellitus without complications,2021-04-18,Active
+P0765,I48.91,"Atrial fibrillation, unspecified",2020-10-13,Resolved
+P0766,I10,Essential hypertension,2024-05-24,Active
+P0766,F17.210,"Nicotine dependence, cigarettes",2022-06-15,Active
+P0766,I25.10,Atherosclerotic heart disease,2020-06-29,Active
+P0766,I50.9,"Heart failure, unspecified",2022-06-18,Resolved
+P0767,I10,Essential hypertension,2021-06-25,Active
+P0767,E11.9,Type 2 diabetes mellitus without complications,2022-11-29,Active
+P0767,E78.5,"Dyslipidemia, unspecified",2022-01-22,Active
+P0767,I25.10,Atherosclerotic heart disease,2020-07-06,Active
+P0768,N18.3,"Chronic kidney disease, stage 3",2023-02-20,Active
+P0769,I10,Essential hypertension,2023-08-06,Resolved
+P0770,I10,Essential hypertension,2024-05-15,Active
+P0771,I10,Essential hypertension,2022-05-08,Active
+P0771,F17.210,"Nicotine dependence, cigarettes",2024-07-06,Active
+P0771,J44.1,COPD with acute exacerbation,2021-11-05,Active
+P0771,I48.91,"Atrial fibrillation, unspecified",2024-09-29,Active
+P0771,N18.3,"Chronic kidney disease, stage 3",2020-09-28,Active
+P0772,F17.210,"Nicotine dependence, cigarettes",2022-08-10,Active
+P0772,I48.91,"Atrial fibrillation, unspecified",2021-10-30,Active
+P0772,I25.10,Atherosclerotic heart disease,2023-02-20,Active
+P0773,I10,Essential hypertension,2025-04-07,Active
+P0773,F17.210,"Nicotine dependence, cigarettes",2021-11-25,Active
+P0774,N18.3,"Chronic kidney disease, stage 3",2022-03-24,Active
+P0775,E11.9,Type 2 diabetes mellitus without complications,2023-09-18,Active
+P0775,G47.33,Obstructive sleep apnea,2022-10-12,Active
+P0776,E11.9,Type 2 diabetes mellitus without complications,2024-05-31,Active
+P0777,I10,Essential hypertension,2021-11-18,Active
+P0777,F17.210,"Nicotine dependence, cigarettes",2020-09-03,Active
+P0778,I10,Essential hypertension,2023-12-24,Active
+P0778,I48.91,"Atrial fibrillation, unspecified",2023-11-24,Active
+P0778,N18.3,"Chronic kidney disease, stage 3",2023-02-20,Active
+P0779,N18.3,"Chronic kidney disease, stage 3",2024-04-22,Active
+P0780,E11.9,Type 2 diabetes mellitus without complications,2025-04-19,Active
+P0781,E11.9,Type 2 diabetes mellitus without complications,2020-12-03,Active
+P0781,E78.5,"Dyslipidemia, unspecified",2022-01-09,Active
+P0781,E78.0,Pure hypercholesterolemia,2024-11-30,Resolved
+P0782,I10,Essential hypertension,2021-12-10,Active
+P0782,E11.9,Type 2 diabetes mellitus without complications,2024-04-21,Active
+P0782,N18.3,"Chronic kidney disease, stage 3",2025-04-10,Active
+P0783,E11.9,Type 2 diabetes mellitus without complications,2022-11-30,Active
+P0783,F17.210,"Nicotine dependence, cigarettes",2021-10-13,Active
+P0783,G47.33,Obstructive sleep apnea,2022-05-21,Active
+P0784,N18.3,"Chronic kidney disease, stage 3",2022-07-13,Active
+P0786,I10,Essential hypertension,2021-11-02,Resolved
+P0786,E78.5,"Dyslipidemia, unspecified",2022-08-19,Active
+P0786,N18.3,"Chronic kidney disease, stage 3",2022-02-05,Resolved
+P0787,N18.3,"Chronic kidney disease, stage 3",2021-11-06,Resolved
+P0788,E11.9,Type 2 diabetes mellitus without complications,2023-12-28,Active
+P0788,E11.65,Type 2 diabetes with hyperglycemia,2025-03-08,Resolved
+P0788,E78.5,"Dyslipidemia, unspecified",2021-11-10,Active
+P0789,E11.9,Type 2 diabetes mellitus without complications,2024-05-08,Active
+P0789,E11.65,Type 2 diabetes with hyperglycemia,2021-09-30,Active
+P0789,E78.5,"Dyslipidemia, unspecified",2020-10-22,Active
+P0789,G47.33,Obstructive sleep apnea,2025-01-05,Active
+P0790,E11.9,Type 2 diabetes mellitus without complications,2022-09-06,Active
+P0790,F17.210,"Nicotine dependence, cigarettes",2020-11-30,Active
+P0793,I10,Essential hypertension,2023-07-29,Active
+P0794,I10,Essential hypertension,2023-09-15,Active
+P0795,I10,Essential hypertension,2024-06-07,Active
+P0795,E78.5,"Dyslipidemia, unspecified",2022-08-12,Active
+P0795,F17.210,"Nicotine dependence, cigarettes",2023-04-27,Active
+P0795,I25.10,Atherosclerotic heart disease,2024-11-30,Active
+P0796,E11.9,Type 2 diabetes mellitus without complications,2023-04-23,Active
+P0796,N18.3,"Chronic kidney disease, stage 3",2022-07-16,Active
+P0797,I10,Essential hypertension,2020-09-08,Active
+P0798,I10,Essential hypertension,2024-12-07,Active
+P0798,I11.9,Hypertensive heart disease without heart failure,2022-01-30,Resolved
+P0798,E78.5,"Dyslipidemia, unspecified",2024-03-28,Active
+P0798,I25.10,Atherosclerotic heart disease,2025-02-17,Active
+P0799,I10,Essential hypertension,2024-05-02,Active
+P0799,E11.9,Type 2 diabetes mellitus without complications,2024-03-19,Active
+P0799,E11.65,Type 2 diabetes with hyperglycemia,2025-04-01,Active
+P0799,E66.01,Morbid obesity due to excess calories,2024-05-26,Active
+P0799,G47.33,Obstructive sleep apnea,2023-12-31,Active
+P0800,E11.9,Type 2 diabetes mellitus without complications,2024-04-08,Active
+P0800,E11.65,Type 2 diabetes with hyperglycemia,2022-10-10,Active
+P0800,N18.3,"Chronic kidney disease, stage 3",2023-12-14,Active
+P0801,I10,Essential hypertension,2024-04-03,Active
+P0801,N18.3,"Chronic kidney disease, stage 3",2020-08-27,Resolved
+P0802,I10,Essential hypertension,2023-04-06,Active
+P0803,E11.9,Type 2 diabetes mellitus without complications,2021-06-30,Active
+P0803,E78.5,"Dyslipidemia, unspecified",2024-01-06,Resolved
+P0803,G47.33,Obstructive sleep apnea,2024-12-10,Resolved
+P0805,I10,Essential hypertension,2023-12-19,Active
+P0805,E11.9,Type 2 diabetes mellitus without complications,2023-02-07,Active
+P0805,E78.5,"Dyslipidemia, unspecified",2021-05-15,Active
+P0805,E78.0,Pure hypercholesterolemia,2022-06-16,Active
+P0805,F17.210,"Nicotine dependence, cigarettes",2024-09-28,Active
+P0805,J44.1,COPD with acute exacerbation,2022-04-12,Resolved
+P0805,G47.33,Obstructive sleep apnea,2022-03-02,Active
+P0807,I10,Essential hypertension,2022-05-11,Active
+P0807,E78.5,"Dyslipidemia, unspecified",2021-03-16,Active
+P0807,F17.210,"Nicotine dependence, cigarettes",2020-07-11,Active
+P0808,I10,Essential hypertension,2024-11-05,Resolved
+P0809,E11.9,Type 2 diabetes mellitus without complications,2024-10-23,Active
+P0809,E78.5,"Dyslipidemia, unspecified",2021-11-15,Active
+P0809,E66.01,Morbid obesity due to excess calories,2021-10-22,Active
+P0810,I10,Essential hypertension,2023-08-05,Resolved
+P0811,I10,Essential hypertension,2023-12-05,Active
+P0812,I10,Essential hypertension,2020-08-23,Active
+P0812,I11.9,Hypertensive heart disease without heart failure,2021-12-28,Active
+P0812,E11.9,Type 2 diabetes mellitus without complications,2020-11-25,Active
+P0813,N18.3,"Chronic kidney disease, stage 3",2022-05-16,Resolved
+P0814,I10,Essential hypertension,2021-08-09,Active
+P0814,I11.9,Hypertensive heart disease without heart failure,2024-07-04,Active
+P0815,F17.210,"Nicotine dependence, cigarettes",2022-10-21,Active
+P0817,E11.9,Type 2 diabetes mellitus without complications,2025-01-28,Active
+P0817,E78.5,"Dyslipidemia, unspecified",2022-10-17,Active
+P0819,E11.9,Type 2 diabetes mellitus without complications,2024-07-05,Active
+P0819,E11.65,Type 2 diabetes with hyperglycemia,2021-05-13,Active
+P0819,G47.33,Obstructive sleep apnea,2021-05-13,Active
+P0820,I10,Essential hypertension,2023-09-18,Active
+P0820,F17.210,"Nicotine dependence, cigarettes",2023-01-02,Active
+P0820,N18.3,"Chronic kidney disease, stage 3",2022-04-20,Active
+P0820,I63.9,"Cerebral infarction, unspecified",2023-03-21,Active
+P0821,I10,Essential hypertension,2023-05-10,Resolved
+P0821,I11.9,Hypertensive heart disease without heart failure,2020-06-04,Resolved
+P0821,E11.9,Type 2 diabetes mellitus without complications,2025-01-22,Active
+P0821,I48.91,"Atrial fibrillation, unspecified",2022-09-03,Resolved
+P0822,I10,Essential hypertension,2024-01-17,Active
+P0822,E11.9,Type 2 diabetes mellitus without complications,2021-09-19,Active
+P0822,E11.65,Type 2 diabetes with hyperglycemia,2024-05-01,Active
+P0825,E11.9,Type 2 diabetes mellitus without complications,2020-09-29,Active
+P0825,N18.3,"Chronic kidney disease, stage 3",2023-12-18,Active
+P0827,E11.9,Type 2 diabetes mellitus without complications,2022-01-04,Active
+P0827,E11.65,Type 2 diabetes with hyperglycemia,2021-11-17,Active
+P0827,E78.5,"Dyslipidemia, unspecified",2022-11-09,Active
+P0829,I10,Essential hypertension,2024-08-17,Active
+P0829,E11.9,Type 2 diabetes mellitus without complications,2023-03-03,Active
+P0829,E11.65,Type 2 diabetes with hyperglycemia,2024-01-12,Active
+P0829,I25.10,Atherosclerotic heart disease,2023-07-12,Active
+P0829,N18.3,"Chronic kidney disease, stage 3",2021-05-21,Active
+P0831,E11.9,Type 2 diabetes mellitus without complications,2023-09-18,Active
+P0831,N18.3,"Chronic kidney disease, stage 3",2025-01-04,Resolved
+P0833,E11.9,Type 2 diabetes mellitus without complications,2021-02-19,Active
+P0833,F17.210,"Nicotine dependence, cigarettes",2022-08-02,Active
+P0834,I10,Essential hypertension,2024-04-26,Active
+P0834,E11.9,Type 2 diabetes mellitus without complications,2024-08-16,Active
+P0834,E11.65,Type 2 diabetes with hyperglycemia,2021-10-18,Resolved
+P0834,E78.5,"Dyslipidemia, unspecified",2022-08-29,Active
+P0834,N18.3,"Chronic kidney disease, stage 3",2024-01-10,Active
+P0836,E11.9,Type 2 diabetes mellitus without complications,2025-03-03,Active
+P0836,E78.5,"Dyslipidemia, unspecified",2022-03-27,Active
+P0836,N18.3,"Chronic kidney disease, stage 3",2023-02-09,Resolved
+P0837,I10,Essential hypertension,2024-12-05,Active
+P0837,E11.9,Type 2 diabetes mellitus without complications,2022-09-24,Active
+P0837,E11.65,Type 2 diabetes with hyperglycemia,2023-05-04,Active
+P0837,I48.91,"Atrial fibrillation, unspecified",2022-03-05,Resolved
+P0837,I25.10,Atherosclerotic heart disease,2023-05-22,Active
+P0837,N18.3,"Chronic kidney disease, stage 3",2021-10-22,Resolved
+P0840,E11.9,Type 2 diabetes mellitus without complications,2022-07-18,Resolved
+P0840,E11.65,Type 2 diabetes with hyperglycemia,2022-04-30,Active
+P0840,E66.01,Morbid obesity due to excess calories,2024-12-21,Resolved
+P0841,I10,Essential hypertension,2022-11-13,Active
+P0844,N18.3,"Chronic kidney disease, stage 3",2022-02-27,Active
+P0845,I10,Essential hypertension,2022-03-22,Resolved
+P0845,N18.3,"Chronic kidney disease, stage 3",2021-08-18,Active
+P0846,I10,Essential hypertension,2023-03-01,Active
+P0847,I10,Essential hypertension,2023-08-06,Active
+P0848,N18.3,"Chronic kidney disease, stage 3",2024-07-07,Active
+P0849,N18.3,"Chronic kidney disease, stage 3",2021-10-06,Active
+P0850,I10,Essential hypertension,2024-06-17,Active
+P0851,I10,Essential hypertension,2023-12-14,Active
+P0851,E11.9,Type 2 diabetes mellitus without complications,2023-03-28,Active
+P0853,I10,Essential hypertension,2020-09-23,Active
+P0853,E11.9,Type 2 diabetes mellitus without complications,2020-12-18,Active
+P0853,E11.65,Type 2 diabetes with hyperglycemia,2025-02-05,Active
+P0853,E78.5,"Dyslipidemia, unspecified",2023-08-02,Active
+P0853,E66.01,Morbid obesity due to excess calories,2022-03-09,Resolved
+P0853,I48.91,"Atrial fibrillation, unspecified",2020-08-26,Active
+P0853,N18.3,"Chronic kidney disease, stage 3",2024-04-23,Active
+P0854,E11.9,Type 2 diabetes mellitus without complications,2023-07-18,Active
+P0854,E11.65,Type 2 diabetes with hyperglycemia,2020-07-06,Active
+P0854,E66.01,Morbid obesity due to excess calories,2021-07-11,Active
+P0855,E11.9,Type 2 diabetes mellitus without complications,2024-08-29,Active
+P0857,I10,Essential hypertension,2022-07-13,Active
+P0857,E11.9,Type 2 diabetes mellitus without complications,2020-09-15,Active
+P0857,E78.5,"Dyslipidemia, unspecified",2024-05-01,Active
+P0857,N18.3,"Chronic kidney disease, stage 3",2024-10-12,Resolved
+P0858,F17.210,"Nicotine dependence, cigarettes",2022-05-10,Resolved
+P0860,I10,Essential hypertension,2023-11-10,Active
+P0862,I10,Essential hypertension,2024-02-03,Active
+P0862,E11.9,Type 2 diabetes mellitus without complications,2024-02-16,Active
+P0862,F17.210,"Nicotine dependence, cigarettes",2024-02-19,Active
+P0862,I25.10,Atherosclerotic heart disease,2024-12-19,Active
+P0863,I10,Essential hypertension,2023-02-08,Active
+P0864,I10,Essential hypertension,2020-09-14,Active
+P0864,N18.3,"Chronic kidney disease, stage 3",2023-07-03,Active
+P0865,I10,Essential hypertension,2024-10-28,Active
+P0866,E11.9,Type 2 diabetes mellitus without complications,2023-08-05,Active
+P0866,E11.65,Type 2 diabetes with hyperglycemia,2021-08-11,Active
+P0866,I25.10,Atherosclerotic heart disease,2020-10-15,Active
+P0866,N18.3,"Chronic kidney disease, stage 3",2023-05-09,Active
+P0867,E11.9,Type 2 diabetes mellitus without complications,2022-04-27,Active
+P0868,N18.3,"Chronic kidney disease, stage 3",2021-02-23,Active
+P0870,I10,Essential hypertension,2022-10-11,Active
+P0871,G47.33,Obstructive sleep apnea,2025-03-26,Active
+P0872,E78.5,"Dyslipidemia, unspecified",2022-01-02,Active
+P0872,E78.0,Pure hypercholesterolemia,2021-03-17,Active
+P0874,E11.9,Type 2 diabetes mellitus without complications,2021-06-30,Active
+P0874,E78.5,"Dyslipidemia, unspecified",2023-03-01,Active
+P0874,F17.210,"Nicotine dependence, cigarettes",2020-11-07,Active
+P0874,N18.3,"Chronic kidney disease, stage 3",2025-04-11,Active
+P0878,F17.210,"Nicotine dependence, cigarettes",2023-09-15,Active
+P0879,I10,Essential hypertension,2024-11-05,Active
+P0879,I11.9,Hypertensive heart disease without heart failure,2024-09-06,Active
+P0881,E78.5,"Dyslipidemia, unspecified",2021-11-29,Active
+P0883,I10,Essential hypertension,2025-04-27,Active
+P0883,F17.210,"Nicotine dependence, cigarettes",2021-05-01,Active
+P0884,I10,Essential hypertension,2024-06-12,Active
+P0885,I10,Essential hypertension,2021-12-13,Active
+P0885,E11.9,Type 2 diabetes mellitus without complications,2020-08-30,Active
+P0885,E78.5,"Dyslipidemia, unspecified",2020-07-08,Active
+P0885,E78.0,Pure hypercholesterolemia,2023-12-04,Active
+P0885,F17.210,"Nicotine dependence, cigarettes",2023-06-20,Active
+P0886,E11.9,Type 2 diabetes mellitus without complications,2020-07-06,Active
+P0886,E78.5,"Dyslipidemia, unspecified",2024-06-20,Active
+P0886,G47.33,Obstructive sleep apnea,2022-02-11,Active
+P0887,I48.91,"Atrial fibrillation, unspecified",2023-08-18,Active
+P0888,E78.5,"Dyslipidemia, unspecified",2022-09-29,Active
+P0888,E78.0,Pure hypercholesterolemia,2021-05-13,Active
+P0890,I10,Essential hypertension,2021-09-21,Active
+P0890,N18.3,"Chronic kidney disease, stage 3",2021-08-27,Active
+P0891,I10,Essential hypertension,2021-01-03,Active
+P0891,N18.3,"Chronic kidney disease, stage 3",2022-07-21,Resolved
+P0892,E11.9,Type 2 diabetes mellitus without complications,2024-08-01,Resolved
+P0892,E66.01,Morbid obesity due to excess calories,2023-02-20,Active
+P0892,N18.3,"Chronic kidney disease, stage 3",2022-02-27,Active
+P0893,E11.9,Type 2 diabetes mellitus without complications,2024-05-16,Resolved
+P0894,I10,Essential hypertension,2022-04-01,Active
+P0894,E78.5,"Dyslipidemia, unspecified",2024-11-14,Active
+P0894,E78.0,Pure hypercholesterolemia,2022-01-19,Active
+P0895,N18.3,"Chronic kidney disease, stage 3",2024-06-26,Active
+P0896,F17.210,"Nicotine dependence, cigarettes",2024-09-03,Active
+P0897,I10,Essential hypertension,2023-04-20,Active
+P0897,E11.9,Type 2 diabetes mellitus without complications,2022-07-12,Active
+P0897,E11.65,Type 2 diabetes with hyperglycemia,2023-06-13,Active
+P0897,N18.3,"Chronic kidney disease, stage 3",2024-01-24,Active
+P0898,I10,Essential hypertension,2024-09-07,Active
+P0899,I10,Essential hypertension,2021-04-08,Active
+P0899,N18.3,"Chronic kidney disease, stage 3",2024-12-04,Resolved
+P0902,E11.9,Type 2 diabetes mellitus without complications,2023-09-05,Resolved
+P0902,E11.65,Type 2 diabetes with hyperglycemia,2024-07-14,Active
+P0903,I10,Essential hypertension,2024-03-21,Active
+P0903,E11.9,Type 2 diabetes mellitus without complications,2022-03-12,Active
+P0903,N18.3,"Chronic kidney disease, stage 3",2024-08-22,Active
+P0903,G47.33,Obstructive sleep apnea,2023-12-05,Active
+P0904,I10,Essential hypertension,2024-01-07,Resolved
+P0904,E11.9,Type 2 diabetes mellitus without complications,2024-09-29,Active
+P0904,E11.65,Type 2 diabetes with hyperglycemia,2021-06-09,Resolved
+P0904,G47.33,Obstructive sleep apnea,2022-12-26,Active
+P0906,E78.5,"Dyslipidemia, unspecified",2021-04-08,Active
+P0906,E78.0,Pure hypercholesterolemia,2023-01-24,Active
+P0906,N18.3,"Chronic kidney disease, stage 3",2021-11-23,Active
+P0907,F17.210,"Nicotine dependence, cigarettes",2021-01-27,Active
+P0908,F17.210,"Nicotine dependence, cigarettes",2023-10-11,Active
+P0910,I10,Essential hypertension,2020-07-06,Active
+P0910,N18.3,"Chronic kidney disease, stage 3",2024-01-03,Active
+P0912,E11.9,Type 2 diabetes mellitus without complications,2024-12-04,Active
+P0913,N18.3,"Chronic kidney disease, stage 3",2023-07-22,Active
+P0914,I10,Essential hypertension,2023-03-12,Active
+P0914,E11.9,Type 2 diabetes mellitus without complications,2020-10-01,Active
+P0914,F17.210,"Nicotine dependence, cigarettes",2024-12-21,Resolved
+P0914,J44.1,COPD with acute exacerbation,2023-04-08,Active
+P0916,I48.91,"Atrial fibrillation, unspecified",2021-09-04,Resolved
+P0916,N18.3,"Chronic kidney disease, stage 3",2024-06-04,Active
+P0917,I10,Essential hypertension,2022-07-10,Resolved
+P0918,I10,Essential hypertension,2024-03-18,Active
+P0918,I11.9,Hypertensive heart disease without heart failure,2022-03-20,Active
+P0918,F17.210,"Nicotine dependence, cigarettes",2021-10-02,Active
+P0919,N18.3,"Chronic kidney disease, stage 3",2024-01-10,Active
+P0921,N18.3,"Chronic kidney disease, stage 3",2024-06-26,Active
+P0922,I10,Essential hypertension,2023-11-18,Active
+P0922,E11.9,Type 2 diabetes mellitus without complications,2020-08-19,Active
+P0922,I48.91,"Atrial fibrillation, unspecified",2022-09-12,Active
+P0923,F17.210,"Nicotine dependence, cigarettes",2022-04-21,Active
+P0924,E11.9,Type 2 diabetes mellitus without complications,2025-03-10,Active
+P0924,E78.5,"Dyslipidemia, unspecified",2021-09-23,Active
+P0924,N18.3,"Chronic kidney disease, stage 3",2023-05-18,Active
+P0924,G47.33,Obstructive sleep apnea,2024-09-28,Active
+P0927,E11.9,Type 2 diabetes mellitus without complications,2024-06-21,Active
+P0928,I10,Essential hypertension,2023-03-08,Resolved
+P0929,I10,Essential hypertension,2024-01-29,Active
+P0929,F17.210,"Nicotine dependence, cigarettes",2020-11-12,Active
+P0929,N18.3,"Chronic kidney disease, stage 3",2024-09-12,Resolved
+P0931,E11.9,Type 2 diabetes mellitus without complications,2023-10-19,Active
+P0933,I10,Essential hypertension,2021-01-31,Active
+P0934,E11.9,Type 2 diabetes mellitus without complications,2023-04-28,Active
+P0934,E11.65,Type 2 diabetes with hyperglycemia,2022-11-04,Active
+P0935,N18.3,"Chronic kidney disease, stage 3",2021-01-12,Active
+P0936,E11.9,Type 2 diabetes mellitus without complications,2025-02-15,Active
+P0936,E66.01,Morbid obesity due to excess calories,2022-12-29,Active
+P0937,E11.9,Type 2 diabetes mellitus without complications,2023-11-09,Active
+P0937,F17.210,"Nicotine dependence, cigarettes",2023-12-24,Active
+P0937,J44.1,COPD with acute exacerbation,2022-04-16,Active
+P0938,E11.9,Type 2 diabetes mellitus without complications,2020-10-11,Active
+P0938,E78.5,"Dyslipidemia, unspecified",2023-09-14,Active
+P0938,N18.3,"Chronic kidney disease, stage 3",2022-08-12,Active
+P0939,I10,Essential hypertension,2021-06-28,Active
+P0939,N18.3,"Chronic kidney disease, stage 3",2024-02-01,Active
+P0940,N18.3,"Chronic kidney disease, stage 3",2022-12-27,Resolved
+P0941,I10,Essential hypertension,2022-09-26,Active
+P0941,E11.9,Type 2 diabetes mellitus without complications,2023-12-02,Active
+P0941,I48.91,"Atrial fibrillation, unspecified",2020-08-16,Active
+P0941,N18.3,"Chronic kidney disease, stage 3",2025-05-02,Active
+P0942,I10,Essential hypertension,2020-08-16,Active
+P0942,I48.91,"Atrial fibrillation, unspecified",2024-12-23,Resolved
+P0942,N18.3,"Chronic kidney disease, stage 3",2024-03-21,Active
+P0943,E11.9,Type 2 diabetes mellitus without complications,2022-09-13,Resolved
+P0945,I10,Essential hypertension,2021-04-08,Active
+P0945,E11.9,Type 2 diabetes mellitus without complications,2022-12-04,Active
+P0945,F17.210,"Nicotine dependence, cigarettes",2024-07-30,Active
+P0946,F17.210,"Nicotine dependence, cigarettes",2023-09-14,Active
+P0947,E11.9,Type 2 diabetes mellitus without complications,2021-02-11,Active
+P0947,N18.3,"Chronic kidney disease, stage 3",2021-01-20,Active
+P0948,E11.9,Type 2 diabetes mellitus without complications,2021-03-29,Active
+P0948,E11.65,Type 2 diabetes with hyperglycemia,2021-10-22,Active
+P0950,I10,Essential hypertension,2021-07-25,Resolved
+P0951,E11.9,Type 2 diabetes mellitus without complications,2023-01-11,Active
+P0952,I10,Essential hypertension,2021-03-09,Active
+P0952,N18.3,"Chronic kidney disease, stage 3",2020-09-08,Active
+P0953,E11.9,Type 2 diabetes mellitus without complications,2025-01-04,Active
+P0953,E11.65,Type 2 diabetes with hyperglycemia,2021-04-08,Active
+P0953,E78.5,"Dyslipidemia, unspecified",2022-12-06,Active
+P0953,E78.0,Pure hypercholesterolemia,2021-10-17,Resolved
+P0954,F17.210,"Nicotine dependence, cigarettes",2021-09-25,Active
+P0955,I10,Essential hypertension,2022-06-09,Active
+P0955,N18.3,"Chronic kidney disease, stage 3",2020-07-17,Active
+P0956,E78.5,"Dyslipidemia, unspecified",2024-10-23,Active
+P0956,E78.0,Pure hypercholesterolemia,2024-03-13,Active
+P0957,E11.9,Type 2 diabetes mellitus without complications,2020-08-29,Active
+P0957,E78.5,"Dyslipidemia, unspecified",2023-03-12,Active
+P0957,E78.0,Pure hypercholesterolemia,2024-08-12,Active
+P0962,E11.9,Type 2 diabetes mellitus without complications,2020-10-18,Active
+P0962,E11.65,Type 2 diabetes with hyperglycemia,2021-03-20,Active
+P0963,N18.3,"Chronic kidney disease, stage 3",2022-05-09,Active
+P0965,I10,Essential hypertension,2020-09-30,Active
+P0965,F17.210,"Nicotine dependence, cigarettes",2024-05-16,Active
+P0965,J44.1,COPD with acute exacerbation,2022-01-11,Active
+P0966,F17.210,"Nicotine dependence, cigarettes",2020-07-09,Active
+P0967,I10,Essential hypertension,2023-10-02,Active
+P0967,F17.210,"Nicotine dependence, cigarettes",2021-06-26,Active
+P0967,I48.91,"Atrial fibrillation, unspecified",2022-02-21,Active
+P0967,N18.3,"Chronic kidney disease, stage 3",2023-07-11,Active
+P0968,F17.210,"Nicotine dependence, cigarettes",2023-07-25,Active
+P0970,I10,Essential hypertension,2022-04-08,Active
+P0970,F17.210,"Nicotine dependence, cigarettes",2022-11-26,Active
+P0971,I10,Essential hypertension,2024-01-26,Active
+P0971,F17.210,"Nicotine dependence, cigarettes",2022-07-29,Active
+P0972,F17.210,"Nicotine dependence, cigarettes",2020-11-07,Active
+P0973,I10,Essential hypertension,2022-01-30,Active
+P0973,E11.9,Type 2 diabetes mellitus without complications,2023-12-03,Active
+P0973,N18.3,"Chronic kidney disease, stage 3",2021-08-22,Active
+P0975,F17.210,"Nicotine dependence, cigarettes",2023-04-17,Active
+P0976,I10,Essential hypertension,2022-11-07,Active
+P0976,E78.5,"Dyslipidemia, unspecified",2024-03-11,Active
+P0976,I25.10,Atherosclerotic heart disease,2023-04-24,Active
+P0976,G47.33,Obstructive sleep apnea,2025-01-19,Resolved
+P0978,E11.9,Type 2 diabetes mellitus without complications,2022-04-24,Active
+P0979,E11.9,Type 2 diabetes mellitus without complications,2020-08-06,Resolved
+P0979,E66.01,Morbid obesity due to excess calories,2024-06-13,Active
+P0979,N18.3,"Chronic kidney disease, stage 3",2021-08-17,Active
+P0981,I10,Essential hypertension,2024-03-10,Resolved
+P0981,F17.210,"Nicotine dependence, cigarettes",2022-02-13,Active
+P0982,E11.9,Type 2 diabetes mellitus without complications,2021-09-12,Resolved
+P0983,I10,Essential hypertension,2023-03-30,Resolved
+P0984,E11.9,Type 2 diabetes mellitus without complications,2021-12-22,Active
+P0984,I48.91,"Atrial fibrillation, unspecified",2024-06-21,Resolved
+P0984,N18.3,"Chronic kidney disease, stage 3",2022-04-04,Active
+P0985,F17.210,"Nicotine dependence, cigarettes",2020-10-10,Active
+P0986,E11.9,Type 2 diabetes mellitus without complications,2023-03-11,Active
+P0986,E11.65,Type 2 diabetes with hyperglycemia,2022-12-12,Active
+P0986,F17.210,"Nicotine dependence, cigarettes",2023-07-17,Active
+P0987,I10,Essential hypertension,2023-01-26,Active
+P0988,E11.9,Type 2 diabetes mellitus without complications,2023-02-20,Active
+P0988,E78.5,"Dyslipidemia, unspecified",2024-02-07,Active
+P0989,I10,Essential hypertension,2021-12-26,Resolved
+P0989,I11.9,Hypertensive heart disease without heart failure,2024-03-14,Active
+P0989,I25.10,Atherosclerotic heart disease,2020-12-07,Active
+P0990,I10,Essential hypertension,2021-03-23,Active
+P0990,E78.5,"Dyslipidemia, unspecified",2022-05-19,Resolved
+P0990,E78.0,Pure hypercholesterolemia,2021-09-10,Active
+P0991,N18.3,"Chronic kidney disease, stage 3",2021-07-24,Active
+P0992,E11.9,Type 2 diabetes mellitus without complications,2024-01-18,Active
+P0992,E11.65,Type 2 diabetes with hyperglycemia,2023-11-23,Active
+P0992,N18.3,"Chronic kidney disease, stage 3",2023-04-08,Active
+P0993,E78.5,"Dyslipidemia, unspecified",2023-10-29,Active
+P0993,E78.0,Pure hypercholesterolemia,2021-02-18,Resolved
+P0994,I48.91,"Atrial fibrillation, unspecified",2021-10-14,Active
+P0994,N18.3,"Chronic kidney disease, stage 3",2025-03-28,Active
+P0995,E11.9,Type 2 diabetes mellitus without complications,2024-10-01,Active
+P0996,I10,Essential hypertension,2023-09-28,Active
+P0996,E11.9,Type 2 diabetes mellitus without complications,2021-03-31,Active
+P0996,F17.210,"Nicotine dependence, cigarettes",2024-04-15,Active
+P0997,E66.01,Morbid obesity due to excess calories,2025-02-19,Active
+P0997,F17.210,"Nicotine dependence, cigarettes",2023-07-31,Active
+P0997,J44.1,COPD with acute exacerbation,2024-01-03,Active
+P0998,I10,Essential hypertension,2023-09-27,Active
+P0998,I11.9,Hypertensive heart disease without heart failure,2021-12-04,Active
+P0998,I25.10,Atherosclerotic heart disease,2022-01-21,Active
+P0999,E78.5,"Dyslipidemia, unspecified",2021-07-12,Active
+P1000,N18.3,"Chronic kidney disease, stage 3",2022-09-04,Active
